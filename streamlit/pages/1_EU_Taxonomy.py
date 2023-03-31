@@ -83,4 +83,4 @@ if options:
         agree = st.checkbox('Click to see a full list of values to report on for your selected sectors and activities')
         if agree:
             st.write(filtered_df[['Activity ', 'Objective', 'SCC/DNSH', 'Attributes', 'Values']])
-            st.write('Great!')
+
