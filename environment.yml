@@ -4,6 +4,6 @@ channels:
 dependencies:
   - python=3.10.10
   - graphviz=2.50.0
-  - python-graphviz=0.2.1
   - pydot=1.4.2
-prefix: C:\Users\kcomriecarson\Anaconda3\envs\Py310
+pip:
+  - python-graphviz==0.2.1
