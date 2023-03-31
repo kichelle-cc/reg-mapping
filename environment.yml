@@ -1,9 +1,0 @@
-name: Py310
-channels:
-  - defaults
-dependencies:
-  - python=3.10.10
-  - graphviz=2.50.0
-  - pydot=1.4.2
-pip:
-  - python-graphviz==0.2.1
