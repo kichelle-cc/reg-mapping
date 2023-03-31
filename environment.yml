@@ -41,7 +41,6 @@ dependencies:
   - freetype=2.12.1
   - fribidi=1.0.10
   - future=0.18.3
-  - getopt-win32=0.1
   - gflags=2.2.2
   - giflib=5.2.1
   - glib=2.69.1
@@ -115,7 +114,6 @@ dependencies:
   - pysocks=1.7.1
   - python=3.10.10
   - python-dateutil=2.8.2
-  - pywin32=305
   - pyyaml=6.0
   - pyzmq=23.2.0
   - re2=2022.04.01
@@ -132,13 +130,11 @@ dependencies:
   - traitlets=5.7.1
   - typing_extensions=4.4.0
   - utf8proc=2.6.1
-  - vc=14.2
   - vs2015_runtime=14.27.29016
   - wcwidth=0.2.5
   - wheel=0.38.4
   - widgetsnbextension=4.0.5
   - win_inet_pton=1.1.0
-  - wincertstore=0.2
   - xz=5.2.10
   - yaml=0.2.5
   - zeromq=4.3.4
