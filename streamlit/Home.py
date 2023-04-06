@@ -10,11 +10,11 @@ st.set_page_config(
 )
 # from networkx.drawing.nx_agraph import graphviz_layout
 
-def format_position(G, threshold=5):
+# def format_position(G, threshold=5):
     # function that reformats a network x graph, G to look 'nicer'
 #     pos = graphviz_layout(G, prog='dot')
-    pos = nx.draw_circular(G)
-    return pos
+#     pos = nx.draw_circular(G)
+#     return pos
 #     counts = dict(Counter(i[1] for i in pos.values()))
     
 #     old_y_vals = []
@@ -108,7 +108,8 @@ def make_digraph(
                 G.add_edge(str(row["Sector"]), str(row["Asset_Class"]))
 
         fig = plt.figure(figsize=(20,20)) 
-        nx.draw(G, pos=format_position(G), with_labels=True, node_color="None", node_shape='s', node_size=500, font_size=14,
+        pos = nx.circular_layout(G)
+        nx.draw(G, pos=pos, with_labels=True, node_color="None", node_shape='s', node_size=500, font_size=14,
                 bbox=dict(facecolor="skyblue", edgecolor='black', boxstyle='round,pad=0.25'))
         return fig
 
