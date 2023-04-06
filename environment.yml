@@ -5,7 +5,6 @@ dependencies:
   - pip=23.0.1
   - pygraphviz=1.9
   - pip:
-    - collections
     - graphviz==0.20.1
     - matplotlib==3.7.1
     - numpy==1.24.2
