@@ -9,9 +9,7 @@ dependencies:
   - pip:
     - graphviz==0.20.1
     - matplotlib==3.7.1
-    - networkx==3.0
+    - networkx
     - numpy==1.24.2
-    - openpyxl==3.1.2
     - pandas==1.5.3
     - pydot==1.4.2
-    - streamlit==1.20.0
