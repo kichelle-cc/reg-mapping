@@ -109,7 +109,7 @@ def make_digraph(
 
         fig = plt.figure(figsize=(20,20)) 
         pos = nx.circular_layout(G)
-        nx.draw(G, pos=pos, with_labels=True, node_color="None", node_shape='s', node_size=500, font_size=15,
+        nx.draw(G, pos=pos, with_labels=True, node_color="None", node_shape='s', node_size=500, font_size=13,
                 bbox=dict(facecolor="skyblue", edgecolor='black', boxstyle='round,pad=0.25'))
         return fig
 
