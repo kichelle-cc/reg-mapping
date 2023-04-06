@@ -1,4 +1,4 @@
-name: Py310
+name: web-app
 channels:
   - conda-forge
   - defaults
@@ -14,4 +14,4 @@ dependencies:
     - openpyxl==3.1.2
     - pandas==1.5.3
     - pydot==1.4.2
-prefix: C:\Users\kcomriecarson\Anaconda3\envs\Py310
+    - streamlit==1.20.0
