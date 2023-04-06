@@ -1,0 +1,47 @@
+﻿ Attribute, Values,Reporting/ Assessment /Both? ,Counterparty level,Exposure level,Bank product characteristics,Retail Mortgages,Commercial mortgages,General purpose loans,Special and Non NFRD,Other Retail,other products,required 22,required 23,required 24+
+Sector Classification,NACE Code,Reporting,x,x,x,,x,x,x,,,x,,
+Gross carrying amount,Gross carrying amount,Reporting,x,x,x,x,x,x,x,x,x,x,,
+Exposures towards companies excluded from EU Paris-aligned Benchmarks,Excluded from EU Paris Alignment Benchmark Flagged,Reporting,x,x,,,x,x,x,,,x,,
+Environmentally sustainable (CCM) exposure,CCM Flagged,,,,,,x,x,x,,,,x,
+Stage 2 exposures,PD Stage 2,,,,,x,x,x,x,x,,x,,
+non-performing exposures,Gross carrying amount,,,,,x,x,x,x,x,,x,,
+"Accumulated impairment, accumulated negative changes in fair value due to credit risk and provisions",Gross carrying amount,,,,,x,x,x,x,x,,x,,
+"GHG financed emission (scope 1, scope 2 and scope 3 emission of the counterparty)",TCO2,,,,,,x,x,x,,,x,,
+Scope 3 financed emission,Scope 3 financed emission flag,,,,,,,x,x,,,,,x
+GHG emission gross carrying amount from company specific reporting,GHG emission gross carrying amount from company specific reporting flag,,,,,,x,x,x,,,x,,
+Maturity type,Year of Maturity,,,,,x,x,x,x,x,,x,,
+Loans collateralised: commercial immovable property information,Commerical Immovable property flag,,,,,,x,,,,,x,,
+Loans collateralised: Residential immovable property,Residential immovable property flag,,,,,x,,,,,,x,,
+Collateral obtained by taking posessions,Collateral obtain by taking posessions flag,,,,,x,x,,,,,x,,
+"Location (Country) of CRE, RRE and repossessed CRE/RRE",EU flag,,,,,x,x,x,x,,,x,,
+Level of energy efficiency (EP score) ,EP score in kWh/m2 of collateral,,,,,x,x,,,,,x,,
+EPC label ,level of energy efficiency (label),,,,,x,x,,,,,x,,
+Estimated EP score,level of estimated energy score,,,,,x,x,,,,,x,,
+Without EPC label Collateral ,EPC label flag,,,,,x,x,,,,,x,,
+Average tonnes of CO2 per passenger-km ,TCO2/km,,,,,,,,,x,,,,x
+Average share gCO₂/MJ ,gCO2/MJ,,,,,,,x,x,,,,,x
+Average share of high carbon technologies ICE per sector,average share ICE per sector,,,,,,,x,x,,,,,x
+Average tonnes of CO2 per MWh,TCO2/MWh,,,,,,,x,x,,,,,x
+"Average share of high carbon technologies (oil, gas, coal)","average share of high carbon technologies value (oil, gas, coal)",,,,,,,x,x,,,,,x
+Average tons of CO2 per GJ.,TCO2/GJ,,,,,,,x,x,,,,,x
+Average tons of CO2 per tonne of output for manufacturers,TCO2 ,,,,,,,x,x,,,,,x
+Average share of sustainable aviation fuels,average share,,,,,,,x,x,,,,,x
+Distance to IEA NZE2050,Distance in % for each metric,,,,,,,x,x,,,,,x
+Target (+3years) for distance to IEA,Target value,,,,,,,x,x,,,,,x
+Exposures to Top 20 carbon emitting companies,Aggregated Gross carrying amount,,,,,,,x,x,,,,,x
+Top20 poluter firm,Top20 poluter firm flag,,,,,,,x,x,,,x,,
+Geographical area subject to climate change acute events,Geographical area subject to climate change acute events flag,,,,,x,x,x,x,,,x,,
+Geographical area subject to climate change chronic events,Geographical area subject to climate change chronic events flag,,,,,x,x,x,x,,,x,,
+Geographical area subject to impact from climate change physical events,Chronic or Acute Flag,,,,,x,x,x,x,,,x,,
+Exposures prone to impact from chronic climate change events,exposures prone to impact from chronic climate change events flag,,,,,x,x,x,x,,,x,,
+Exposures prone to impact from acute climate change events,exposures prone to impact from acute climate change events flag,,,,,x,x,x,x,,,x,,
+Exposures prone to impact from acute and Chronic climate change events,exposures prone to impact from acute and chronic climate change events flag,,,,,x,x,x,x,,,x,,
+GAR stock,GAR stock value,,,,,x,x,x,x,x,,,x,
+GAR flow,GAR flow value,,,,,x,x,x,x,x,,,x,
+Climate Change Mitigation Objective,CCM Flag,,,,,x,x,x,x,x,,,x,
+Climate Change Adoptation Objective,CCA Flag,,,,,x,x,x,x,x,,,x,
+"Non-EU labeled Green bonds (e.g., sustainable, sustainability-linked,…)",Non-EU labeled Green bond flag,,,,,,,,,,x,x,,
+"Non-EU labeled Green loans (e.g., sustainable, sustainability-linked,…)",Non-EU labeled Green loan flag,,,,,,,,,,x,x,,
+Mitigated transition risk,Mitigated transition risk type,,,,,,,,,,x,x,,
+Mitigated physical risk,Mitigated physical risk type,,,,,,,,,,x,x,,
+Qualitative information on the nature of the mitigating actions,Text on the nature of the mitigation actions,,,,,x,x,x,x,x,,x,,
