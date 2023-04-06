@@ -26,7 +26,7 @@ st.title('Pillar 3')
 st.text('''This app aims to decompose completx regulatory documents into digestable 
 controls and requirements which we can then simplify into physical data attributes''')
 
-df = pd.read_excel('PILLAR3.xlsx')
+df = pd.read_csv('PILLAR3.csv')
 df.rename(columns={
     'other products':'Other Products',
     ' Values':'Values',
