@@ -7,7 +7,7 @@ import streamlit as st
 import pandas as pd
 import graphviz
 st.set_page_config(
-    page_title='LOCAL Regs Data Model & Mapping',
+    page_title='SC Regs Model',
     layout='wide'
 )
 
