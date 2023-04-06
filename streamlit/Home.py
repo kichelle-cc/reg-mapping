@@ -109,7 +109,7 @@ def make_digraph(
 
         fig = plt.figure(figsize=(20,20)) 
         pos = nx.circular_layout(G)
-        nx.draw(G, pos=pos, with_labels=True, node_color="None", node_shape='s', node_size=500, font_size=14,
+        nx.draw(G, pos=pos, with_labels=True, node_color="None", node_shape='s', node_size=500, font_size=22,
                 bbox=dict(facecolor="skyblue", edgecolor='black', boxstyle='round,pad=0.25'))
         return fig
 
@@ -143,7 +143,7 @@ df_reg_indus = pd.read_csv('Rel_Framework_Industry.csv')
 df_indus_sector = pd.read_csv('Rel_Industry_Sector.csv')
 df_sector_product = pd.read_csv('Rel_Sector_Product.csv')
 df_asset_subasset = pd.read_csv('Rel_Asset_SubAsset.csv')
-ms = 2
+ms = 1
 
 st.title('Sustainability & Climate: Relational Data Model')
 st.text('''This app aims to decompose complex regulatory documents into digestable 
