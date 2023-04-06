@@ -3,6 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - conda
   - pip=23.0.1
   - pygraphviz=1.9
   - pip:
