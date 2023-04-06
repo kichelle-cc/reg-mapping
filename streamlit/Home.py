@@ -122,9 +122,7 @@ def display_fig_download(df, geog, reg, sub_reg, industry, sector):
     "text/csv",
     key='download-csv'
     )
-    with st.expander('''Show/Hide full mapping (Selecting 1-2 from each category at a time should 
-    provide a good number of attributes to display at once)
-    '''): 
+    with st.expander('''Show/Hide full mapping'''): 
         st.pyplot(make_digraph(
             geog,
             reg,
