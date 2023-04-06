@@ -1,4 +1,5 @@
 from collections import Counter
+import networkx as nx 
 import matplotlib.pyplot as plt
 import numpy as np
 import streamlit as st
@@ -7,28 +8,29 @@ st.set_page_config(
     page_title='SC Regs Model',
     layout='wide'
 )
-import networkx as nx 
-from networkx.drawing.nx_agraph import graphviz_layout
+# from networkx.drawing.nx_agraph import graphviz_layout
 
 def format_position(G, threshold=5):
     # function that reformats a network x graph, G to look 'nicer'
-    pos = graphviz_layout(G, prog='dot')
-    counts = dict(Counter(i[1] for i in pos.values()))
-    
-    old_y_vals = []
-    new_y =[]
-    for i in counts.items():
-        y_val = i[0]
-        count = i[1]
-        if count > threshold:
-            old_y_vals.append(y_val)
-            for j in range(count):
-                new_y.append(-2*(np.cos(j) - count/2)**2)
-
-    for i, j in zip({k:v for k,v in pos.items() if v[1] in old_y_vals}, new_y):
-        pos[i] = (pos[i][0], j)
-
+#     pos = graphviz_layout(G, prog='dot')
+    pos = nx.draw_circular(G)
     return pos
+#     counts = dict(Counter(i[1] for i in pos.values()))
+    
+#     old_y_vals = []
+#     new_y =[]
+#     for i in counts.items():
+#         y_val = i[0]
+#         count = i[1]
+#         if count > threshold:
+#             old_y_vals.append(y_val)
+#             for j in range(count):
+#                 new_y.append(-2*(np.cos(j) - count/2)**2)
+
+#     for i, j in zip({k:v for k,v in pos.items() if v[1] in old_y_vals}, new_y):
+#         pos[i] = (pos[i][0], j)
+
+#     return pos
 
 
 def add_logo():
