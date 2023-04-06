@@ -1,9 +1,24 @@
 import streamlit as st 
 import pandas as pd 
 
-###############
-# data config #
-###############
+def add_logo():
+    st.markdown(
+        """
+        <style>
+            [data-testid="stSidebarNav"]::before {
+                content: "Navigation";
+                margin-left: 20px;
+                margin-top: 0px;
+                font-size: 22px;
+                position: relative;
+                top: 50px;
+            }
+        </style>
+        """,
+        unsafe_allow_html=True,
+    )
+
+add_logo()
 
 path = r'eu_taxonomy_assessment.csv'
 df = pd.read_csv(path)
@@ -27,12 +42,10 @@ st.text('''This app aims to decompose completx regulatory documents into digesta
 controls and requirements which we can then simplify into physical data attributes''')
 
 
-
 options = st.multiselect(
     'What sectors does your business operate in?',
     sorted(sectors),
     [])
-
 
 if options:
     filtered_df = df.loc[df.Sector.isin(options)]
@@ -45,11 +58,9 @@ if options:
         filtered_df = filtered_df.loc[filtered_df['Activity '].isin(activities)]
         st.write('Great, the criteria you need to align with are:')
 
-
         def check_for_criteria(df, attr, criterion, col):
             if criterion in list(set(filtered_df[filtered_df['Attributes'] == attribute][col])):
                 return u'\u2713'
-            # else: return u'\u2717'
             else: return ''
 
         has_ccm = []
@@ -63,14 +74,13 @@ if options:
             has_scc.append(check_for_criteria(filtered_df,  attribute, 'SCC', 'SCC/DNSH'))
             has_dnsh.append(check_for_criteria(filtered_df, attribute,  'DNSH', 'SCC/DNSH'))
 
-        FOO = pd.DataFrame({
+        criteria_df = pd.DataFrame({
             'Attribute':filtered_df.Attributes.unique(),
             'CCM?':has_ccm,
             'CCA?':has_cca,
             'SCC?':has_scc,
             'DNSH?':has_dnsh
         })
-        # st.write(FOO)
 
         def color_df(val):
             if val == u'\u2713':
@@ -79,8 +89,12 @@ if options:
                 color='black'
             return f'color: {color}'
         
-        st.dataframe(FOO.style.applymap(color_df))
-        agree = st.checkbox('Click to see a full list of values to report on for your selected sectors and activities')
-        if agree:
-            st.write(filtered_df[['Activity ', 'Objective', 'SCC/DNSH', 'Attributes', 'Values']])
+        st.dataframe(criteria_df.style.applymap(color_df))
 
+        st.download_button(
+        "Export Fully Mapped Attributes to Excel",
+        filtered_df[['Activity ', 'Objective', 'SCC/DNSH', 'Attributes', 'Values']].to_csv(),
+        "eu_taxonomy_attributes.csv",
+        "text/csv",
+        key='download-csv'
+        )
