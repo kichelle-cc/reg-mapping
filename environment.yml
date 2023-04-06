@@ -1,6 +1,5 @@
 name: web-app
 channels:
-  - conda-forge
   - defaults
 dependencies:
   - pip=23.0.1
