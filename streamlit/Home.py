@@ -9,7 +9,7 @@ st.set_page_config(
     layout='wide'
 )
 import networkx as nx 
-from nx.drawing.nx_agraph import graphviz_layout
+from networkx.drawing.nx_agraph import graphviz_layout
 
 def format_position(G, threshold=5):
     # function that reformats a network x graph, G to look 'nicer'
