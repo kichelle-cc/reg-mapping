@@ -1,5 +1,3 @@
-import networkx as nx 
-from nx.drawing.nx_agraph import graphviz_layout
 from collections import Counter
 import matplotlib.pyplot as plt
 import numpy as np
@@ -10,7 +8,8 @@ st.set_page_config(
     page_title='SC Regs Model',
     layout='wide'
 )
-
+import networkx as nx 
+from nx.drawing.nx_agraph import graphviz_layout
 
 def format_position(G, threshold=5):
     # function that reformats a network x graph, G to look 'nicer'
