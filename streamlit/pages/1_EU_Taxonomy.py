@@ -38,7 +38,7 @@ df.Attributes.replace(
 sectors = list(set(df.Sector))
 
 st.title("EU Taxonomy")
-st.text('''This app aims to decompose completx regulatory documents into digestable 
+st.text('''This app aims to decompose complex regulatory documents into digestable 
 controls and requirements which we can then simplify into physical data attributes''')
 
 
