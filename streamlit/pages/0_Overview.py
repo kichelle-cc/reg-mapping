@@ -1,4 +1,5 @@
 import streamlit as st 
+import os
 def add_logo():
     # adds logo to sider, can insert a png here later
     st.markdown(
@@ -19,8 +20,9 @@ def add_logo():
     )
 
 add_logo()
+prefix=os.getcwd()
 path_to_html = r"C:\Users\kcomriecarson\OneDrive - Deloitte (O365D)\Data Model\Data Models\ESG Reg & Data Model Mapping_v7.html" 
-
+path_to_html = prefix + '/streamlit/imgs/ESG Reg & Data Model Mapping_v7.html'
 # Read file and keep in variable
 with open(path_to_html,'r') as f: 
     html_data = f.read()
