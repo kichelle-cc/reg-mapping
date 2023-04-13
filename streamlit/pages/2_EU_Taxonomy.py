@@ -1,5 +1,7 @@
 import streamlit as st 
 import pandas as pd 
+import os 
+
 
 def add_logo():
     st.markdown(
@@ -19,7 +21,7 @@ def add_logo():
     )
 
 add_logo()
-prefix=r'C:\Users\kcomriecarson\Documents\projects\esg_gdp\web-app\reg-mapping\streamlit\data\\'
+prefix=os.getcwd()+'/streamlit/data/'
 path = r'eu_taxonomy_assessment.csv'
 df = pd.read_csv(prefix+path)
 

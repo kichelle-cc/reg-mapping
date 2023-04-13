@@ -28,7 +28,6 @@ st.title('Pillar 3')
 st.divider()
 st.caption('''Pilar 3 is a ...''')
 
-prefix=r'C:\Users\kcomriecarson\Documents\projects\esg_gdp\web-app\reg-mapping\streamlit\data\\'
 prefix=os.getcwd()+'/streamlit/data/'
 df_all = pd.read_csv(prefix+'Reg & Data Relationship.csv')
 df_all = df_all.loc[df_all.Framework == 'Pillar 3']
@@ -65,7 +64,6 @@ if geo_choice != 'Select a Geography':
             reported_tbl = df[df['mask'] == True]
             base = ['Attribute', 'Values']
             st.write(reported_tbl.reset_index()[base])
-            st.metric("My metric", 42, 2)
             st.download_button(
                         "Export Fully Mapped Attributes to Excel",
                         reported_tbl.reset_index()[base].to_csv(),
