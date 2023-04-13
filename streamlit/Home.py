@@ -9,7 +9,16 @@ st.set_page_config(
     layout='wide'
 )
 
-
+st.markdown(
+    f'''
+        <style>
+            .sidebar .sidebar-content {{
+                width: 375PX;
+            }}
+        </style>
+    ''',
+    unsafe_allow_html=True
+)
 def add_logo():
     # adds logo to sider, can insert a png here later
     st.markdown(
@@ -31,9 +40,7 @@ def add_logo():
 
 
 
-print(st.__version__)
 add_logo()
-
 
 st.title('Sustainability & Climate Regulation Navigatior')
 
