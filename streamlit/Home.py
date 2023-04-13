@@ -31,7 +31,7 @@ def add_logo():
 
 
 
-
+print(st.__version__)
 add_logo()
 
 
