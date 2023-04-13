@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+import os 
 
 def add_logo():
     st.markdown(
@@ -27,8 +28,8 @@ st.title('Pillar 3')
 st.divider()
 st.caption('''Pilar 3 is a ...''')
 
-
 prefix=r'C:\Users\kcomriecarson\Documents\projects\esg_gdp\web-app\reg-mapping\streamlit\data\\'
+prefix=os.getcwd()+'\\streamlit\\data\\'
 df_all = pd.read_csv(prefix+'Reg & Data Relationship.csv')
 df_all = df_all.loc[df_all.Framework == 'Pillar 3']
 df = pd.read_csv(prefix+'PILLAR3.csv')
