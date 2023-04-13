@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import streamlit as st
 import pandas as pd
+import os 
 
 # from networkx.drawing.nx_agraph import graphviz_layout
 
@@ -131,7 +132,8 @@ def display_fig_download(df, geog, reg, sub_reg, industry, sector):
 
 
 add_logo()
-prefix=r'C:\Users\kcomriecarson\Documents\projects\esg_gdp\web-app\reg-mapping\streamlit\data\\'
+
+prefix=os.getcwd()+'/streamlit/data/'
 df_all = pd.read_csv(prefix+'Reg & Data Relationship.csv')
 df_geo_reg = pd.read_csv(prefix+'Rel_Geo_Framework.csv')
 df_reg_subreg = pd.read_csv(prefix+'Rel_Framework_Framework_Subcategory.csv')
