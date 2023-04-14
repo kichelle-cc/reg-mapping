@@ -157,7 +157,7 @@ if geo_choice:
     reg_choice = st.multiselect('Framework', regs, max_selections=ms)
     
     if reg_choice:
-        sub_regs = df_all["Framework Subcategory"].loc[df_all["Framework"].isin(reg_choice)]
+        sub_regs = df_all["Framework Sub-Category"].loc[df_all["Framework"].isin(reg_choice)]
 
         if not sub_regs.dropna().empty:
             sub_regs = sub_regs.unique()
