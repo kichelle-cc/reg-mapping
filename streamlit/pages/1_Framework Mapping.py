@@ -134,7 +134,7 @@ def display_fig_download(df, geog, reg, sub_reg, industry, sector):
 add_logo()
 
 prefix=os.getcwd()+'/streamlit/data/'
-df_all = pd.read_csv(prefix+'Reg & Data Relationship.csv')
+df_all = pd.read_csv(prefix+'S&C REG-DATA Mapping V2.csv')
 df_geo_reg = pd.read_csv(prefix+'Rel_Geo_Framework.csv')
 df_reg_subreg = pd.read_csv(prefix+'Rel_Framework_Framework_Subcategory.csv')
 df_reg_indus = pd.read_csv(prefix+'Rel_Framework_Industry.csv')

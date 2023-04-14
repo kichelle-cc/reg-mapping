@@ -38,7 +38,7 @@ Pillar 3 is part of the Basel III framework for bank regulation and is overseen 
 regulators.''')
 
 prefix=os.getcwd()+'/streamlit/data/'
-df_all = pd.read_csv(prefix+'Reg & Data Relationship.csv')
+df_all = pd.read_csv(prefix+'S&C REG-DATA Mapping V2.csv')
 df_all = df_all.loc[df_all.Framework == 'Pillar 3']
 df = pd.read_csv(prefix+'PILLAR3.csv')
 df.rename(columns={

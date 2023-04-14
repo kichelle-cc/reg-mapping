@@ -1,0 +1,439 @@
+﻿Geographies,Framework,Framework Sub-Category,Industry,Sector,ProductCategories_AssetClasses,Applicable Asset_Class (Short Name),Applicable Sub-Asset_Class
+Europe,CSDDD,,Financial Services,Banking & Capital Markets,(TBC),(TBC),(TBC)
+Europe,CSDDD,,Consumer,Automotive,(TBC),(TBC),(TBC)
+Europe,CSDDD,,Government & Public Services,Central Government,(TBC),(TBC),(TBC)
+Europe,CSDDD,,Consumer,Consumer Products,(TBC),(TBC),(TBC)
+Europe,CSDDD,,Government & Public Services,"Defence, Security & Justice",(TBC),(TBC),(TBC)
+Europe,CSDDD,,"Energy, Resources & Industrials",Energy & Chemicals,(TBC),(TBC),(TBC)
+Europe,CSDDD,,Financial Services,Fintech & Alternative Finance,(TBC),(TBC),(TBC)
+Europe,CSDDD,,Government & Public Services,Health & Human Services,(TBC),(TBC),(TBC)
+Europe,CSDDD,,Life Sciences & Health Care,Health Care,(TBC),(TBC),(TBC)
+Europe,CSDDD,,"Energy, Resources & Industrials",Industrial Products & Construction,(TBC),(TBC),(TBC)
+Europe,CSDDD,,Government & Public Services,"Infrastructure, Transport & Regional Government",(TBC),(TBC),(TBC)
+Europe,CSDDD,,Financial Services,Insurance,(TBC),(TBC),(TBC)
+Europe,CSDDD,,Financial Services,"Investment, Assets and Wealth",(TBC),(TBC),(TBC)
+Europe,CSDDD,,Life Sciences & Health Care,Life Sciences,(TBC),(TBC),(TBC)
+Europe,CSDDD,,"Energy, Resources & Industrials",Mining & Metals,(TBC),(TBC),(TBC)
+Europe,CSDDD,,"Energy, Resources & Industrials","Power, Utilities & Renewables",(TBC),(TBC),(TBC)
+Europe,CSDDD,,Financial Services,Real Estate,(TBC),(TBC),(TBC)
+Europe,CSDDD,,Consumer,"Retail, Wholesale & Distribution",(TBC),(TBC),(TBC)
+Europe,CSDDD,,"Tech, Media & Telecom",Technology,(TBC),(TBC),(TBC)
+Europe,CSDDD,,"Tech, Media & Telecom","Telecommunication, Media & Entertainment",(TBC),(TBC),(TBC)
+Europe,CSDDD,,Consumer,"Transport, Hospitality & Services",(TBC),(TBC),(TBC)
+Europe,CSRD,ESRS,Financial Services,Banking & Capital Markets,(TBC),(TBC),(TBC)
+Europe,CSRD,ESRS,Consumer,Automotive,(TBC),(TBC),(TBC)
+Europe,CSRD,ESRS,Government & Public Services,Central Government,(TBC),(TBC),(TBC)
+Europe,CSRD,ESRS,Consumer,Consumer Products,(TBC),(TBC),(TBC)
+Europe,CSRD,ESRS,Government & Public Services,"Defence, Security & Justice",(TBC),(TBC),(TBC)
+Europe,CSRD,ESRS,"Energy, Resources & Industrials",Energy & Chemicals,(TBC),(TBC),(TBC)
+Europe,CSRD,ESRS,Financial Services,Fintech & Alternative Finance,(TBC),(TBC),(TBC)
+Europe,CSRD,ESRS,Government & Public Services,Health & Human Services,(TBC),(TBC),(TBC)
+Europe,CSRD,ESRS,Life Sciences & Health Care,Health Care,(TBC),(TBC),(TBC)
+Europe,CSRD,ESRS,"Energy, Resources & Industrials",Industrial Products & Construction,(TBC),(TBC),(TBC)
+Europe,CSRD,ESRS,Government & Public Services,"Infrastructure, Transport & Regional Government",(TBC),(TBC),(TBC)
+Europe,CSRD,ESRS,Financial Services,Insurance,(TBC),(TBC),(TBC)
+Europe,CSRD,ESRS,Financial Services,"Investment, Assets and Wealth",(TBC),(TBC),(TBC)
+Europe,CSRD,ESRS,Life Sciences & Health Care,Life Sciences,(TBC),(TBC),(TBC)
+Europe,CSRD,ESRS,"Energy, Resources & Industrials",Mining & Metals,(TBC),(TBC),(TBC)
+Europe,CSRD,ESRS,"Energy, Resources & Industrials","Power, Utilities & Renewables",(TBC),(TBC),(TBC)
+Europe,CSRD,ESRS,Financial Services,Real Estate,(TBC),(TBC),(TBC)
+Europe,CSRD,ESRS,Consumer,"Retail, Wholesale & Distribution",(TBC),(TBC),(TBC)
+Europe,CSRD,ESRS,"Tech, Media & Telecom",Technology,(TBC),(TBC),(TBC)
+Europe,CSRD,ESRS,"Tech, Media & Telecom","Telecommunication, Media & Entertainment",(TBC),(TBC),(TBC)
+Europe,CSRD,ESRS,Consumer,"Transport, Hospitality & Services",(TBC),(TBC),(TBC)
+Europe,EU Taxonomy,,Consumer,Automotive,(TBC),(TBC),(TBC)
+Europe,EU Taxonomy,,Consumer,Consumer Products,(TBC),(TBC),(TBC)
+Europe,EU Taxonomy,,Consumer,"Retail, Wholesale & Distribution",(TBC),(TBC),(TBC)
+Europe,EU Taxonomy,,Consumer,"Transport, Hospitality & Services",(TBC),(TBC),(TBC)
+Europe,EU Taxonomy,,"Energy, Resources & Industrials",Energy & Chemicals,(TBC),(TBC),(TBC)
+Europe,EU Taxonomy,,"Energy, Resources & Industrials",Industrial Products & Construction,(TBC),(TBC),(TBC)
+Europe,EU Taxonomy,,"Energy, Resources & Industrials",Mining & Metals,(TBC),(TBC),(TBC)
+Europe,EU Taxonomy,,"Energy, Resources & Industrials","Power, Utilities & Renewables",(TBC),(TBC),(TBC)
+Europe,EU Taxonomy,,Financial Services,Banking & Capital Markets,"Cash, cash balances at central banks and other demand deposits",Cash and demand deposits,Cash balances at central banks
+Europe,EU Taxonomy,,Financial Services,Banking & Capital Markets,"Cash, cash balances at central banks and other demand deposits",Cash and demand deposits,Cash on hand
+Europe,EU Taxonomy,,Financial Services,Banking & Capital Markets,"Cash, cash balances at central banks and other demand deposits",Cash and demand deposits,Other demand deposits
+Europe,EU Taxonomy,,Financial Services,Banking & Capital Markets,Derivatives – Hedge accounting,Hedge accounting derivatives,Hedge accounting derivatives
+Europe,EU Taxonomy,,Financial Services,Banking & Capital Markets,Fair value changes of the hedged items in portfolio hedge of interest rate risk,Hedged items interest rate risk fair value changes,Hedged items interest rate risk fair value changes
+Europe,EU Taxonomy,,Financial Services,Banking & Capital Markets,Financial assets at amortised cost,Amortised cost financial assets,Debt securities
+Europe,EU Taxonomy,,Financial Services,Banking & Capital Markets,Financial assets at amortised cost,Amortised cost financial assets,Loans and advances
+Europe,EU Taxonomy,,Financial Services,Banking & Capital Markets,Financial assets at fair value through other comprehensive income,Financial assets in other  income,Debt securities
+Europe,EU Taxonomy,,Financial Services,Banking & Capital Markets,Financial assets at fair value through other comprehensive income,Financial assets in other  income,Equity instruments
+Europe,EU Taxonomy,,Financial Services,Banking & Capital Markets,Financial assets at fair value through other comprehensive income,Financial assets in other  income,Loans and advances
+Europe,EU Taxonomy,,Financial Services,Banking & Capital Markets,Financial assets designated at fair value through profit or loss,Designated valued financial assets,Debt securities
+Europe,EU Taxonomy,,Financial Services,Banking & Capital Markets,Financial assets designated at fair value through profit or loss,Designated valued financial assets,Loans and advances
+Europe,EU Taxonomy,,Financial Services,Banking & Capital Markets,Financial assets held for trading,Trading financial assets,Debt securities
+Europe,EU Taxonomy,,Financial Services,Banking & Capital Markets,Financial assets held for trading,Trading financial assets,Derivatives
+Europe,EU Taxonomy,,Financial Services,Banking & Capital Markets,Financial assets held for trading,Trading financial assets,Equity instruments
+Europe,EU Taxonomy,,Financial Services,Banking & Capital Markets,Financial assets held for trading,Trading financial assets,Loans and advances
+Europe,EU Taxonomy,,Financial Services,Banking & Capital Markets,"Investments in subsidiaries, joint ventures and associates","Investments in subsidiaries, joint ventures, and associates","Investments in subsidiaries, joint ventures, and associates"
+Europe,EU Taxonomy,,Financial Services,Banking & Capital Markets,Non-current assets and disposal groups classified as held for sale,Non-current assets for sale,Non-current assets for sale
+Europe,EU Taxonomy,,Financial Services,Banking & Capital Markets,Non-trading financial assets mandatorily at fair value through profit or loss,Mandatorily valued non-trading  assets,Debt securities
+Europe,EU Taxonomy,,Financial Services,Banking & Capital Markets,Non-trading financial assets mandatorily at fair value through profit or loss,Mandatorily valued non-trading  assets,Equity instruments
+Europe,EU Taxonomy,,Financial Services,Banking & Capital Markets,Non-trading financial assets mandatorily at fair value through profit or loss,Mandatorily valued non-trading  assets,Loans and advances
+Europe,EU Taxonomy,,Financial Services,Banking & Capital Markets,Other assets,Other assets,Other assets
+Europe,EU Taxonomy,,Financial Services,Banking & Capital Markets,Tangible assets,Tangible assets,Investment property
+Europe,EU Taxonomy,,Financial Services,Banking & Capital Markets,Tangible assets,Tangible assets,"Property, Plant and Equipment"
+Europe,EU Taxonomy,,Financial Services,"Investment, Assets and Wealth","Cash, cash balances at central banks and other demand deposits",Cash and demand deposits,Cash balances at central banks
+Europe,EU Taxonomy,,Financial Services,"Investment, Assets and Wealth","Cash, cash balances at central banks and other demand deposits",Cash and demand deposits,Cash on hand
+Europe,EU Taxonomy,,Financial Services,"Investment, Assets and Wealth","Cash, cash balances at central banks and other demand deposits",Cash and demand deposits,Other demand deposits
+Europe,EU Taxonomy,,Financial Services,"Investment, Assets and Wealth",Derivatives – Hedge accounting,Hedge accounting derivatives,Hedge accounting derivatives
+Europe,EU Taxonomy,,Financial Services,"Investment, Assets and Wealth",Fair value changes of the hedged items in portfolio hedge of interest rate risk,Hedged items interest rate risk fair value changes,Hedged items interest rate risk fair value changes
+Europe,EU Taxonomy,,Financial Services,"Investment, Assets and Wealth",Financial assets at amortised cost,Amortised cost financial assets,Debt securities
+Europe,EU Taxonomy,,Financial Services,"Investment, Assets and Wealth",Financial assets at amortised cost,Amortised cost financial assets,Loans and advances
+Europe,EU Taxonomy,,Financial Services,"Investment, Assets and Wealth",Financial assets at fair value through other comprehensive income,Financial assets in other  income,Debt securities
+Europe,EU Taxonomy,,Financial Services,"Investment, Assets and Wealth",Financial assets at fair value through other comprehensive income,Financial assets in other  income,Equity instruments
+Europe,EU Taxonomy,,Financial Services,"Investment, Assets and Wealth",Financial assets at fair value through other comprehensive income,Financial assets in other  income,Loans and advances
+Europe,EU Taxonomy,,Financial Services,"Investment, Assets and Wealth",Financial assets designated at fair value through profit or loss,Designated valued financial assets,Debt securities
+Europe,EU Taxonomy,,Financial Services,"Investment, Assets and Wealth",Financial assets designated at fair value through profit or loss,Designated valued financial assets,Loans and advances
+Europe,EU Taxonomy,,Financial Services,"Investment, Assets and Wealth",Financial assets held for trading,Trading financial assets,Debt securities
+Europe,EU Taxonomy,,Financial Services,"Investment, Assets and Wealth",Financial assets held for trading,Trading financial assets,Derivatives
+Europe,EU Taxonomy,,Financial Services,"Investment, Assets and Wealth",Financial assets held for trading,Trading financial assets,Equity instruments
+Europe,EU Taxonomy,,Financial Services,"Investment, Assets and Wealth",Financial assets held for trading,Trading financial assets,Loans and advances
+Europe,EU Taxonomy,,Financial Services,"Investment, Assets and Wealth","Investments in subsidiaries, joint ventures and associates","Investments in subsidiaries, joint ventures, and associates","Investments in subsidiaries, joint ventures, and associates"
+Europe,EU Taxonomy,,Financial Services,"Investment, Assets and Wealth",Non-current assets and disposal groups classified as held for sale,Non-current assets for sale,Non-current assets for sale
+Europe,EU Taxonomy,,Financial Services,"Investment, Assets and Wealth",Non-trading financial assets mandatorily at fair value through profit or loss,Mandatorily valued non-trading  assets,Debt securities
+Europe,EU Taxonomy,,Financial Services,"Investment, Assets and Wealth",Non-trading financial assets mandatorily at fair value through profit or loss,Mandatorily valued non-trading  assets,Equity instruments
+Europe,EU Taxonomy,,Financial Services,"Investment, Assets and Wealth",Non-trading financial assets mandatorily at fair value through profit or loss,Mandatorily valued non-trading  assets,Loans and advances
+Europe,EU Taxonomy,,Financial Services,"Investment, Assets and Wealth",Other assets,Other assets,Other assets
+Europe,EU Taxonomy,,Financial Services,"Investment, Assets and Wealth",Tangible assets,Tangible assets,Investment property
+Europe,EU Taxonomy,,Financial Services,"Investment, Assets and Wealth",Tangible assets,Tangible assets,"Property, Plant and Equipment"
+Europe,EU Taxonomy,,Financial Services,Fintech & Alternative Finance,(TBC),(TBC),(TBC)
+Europe,EU Taxonomy,,Financial Services,Insurance,(TBC),(TBC),(TBC)
+Europe,EU Taxonomy,,Financial Services,Real Estate,(TBC),(TBC),(TBC)
+Europe,EU Taxonomy,,Government & Public Services,Central Government,(TBC),(TBC),(TBC)
+Europe,EU Taxonomy,,Government & Public Services,"Defence, Security & Justice",(TBC),(TBC),(TBC)
+Europe,EU Taxonomy,,Government & Public Services,Health & Human Services,(TBC),(TBC),(TBC)
+Europe,EU Taxonomy,,Government & Public Services,"Infrastructure, Transport & Regional Government",(TBC),(TBC),(TBC)
+Europe,EU Taxonomy,,Life Sciences & Health Care,Health Care,(TBC),(TBC),(TBC)
+Europe,EU Taxonomy,,Life Sciences & Health Care,Life Sciences,(TBC),(TBC),(TBC)
+Europe,EU Taxonomy,,"Tech, Media & Telecom",Technology,(TBC),(TBC),(TBC)
+Europe,EU Taxonomy,,"Tech, Media & Telecom","Telecommunication, Media & Entertainment",(TBC),(TBC),(TBC)
+Europe,EuGB,,Financial Services,Banking & Capital Markets,(TBC),(TBC),(TBC)
+Europe,EuGB,,Financial Services,Fintech & Alternative Finance,(TBC),(TBC),(TBC)
+Europe,EuGB,,Financial Services,Insurance,(TBC),(TBC),(TBC)
+Europe,EuGB,,Financial Services,"Investment, Assets and Wealth",(TBC),(TBC),(TBC)
+Europe,EuGB,,Financial Services,Real Estate,(TBC),(TBC),(TBC)
+Europe,IFRS/ISSB (inc CDSB+VRF),,Financial Services,Banking & Capital Markets,(TBC),(TBC),(TBC)
+Europe,IFRS/ISSB (inc CDSB+VRF),,Financial Services,Fintech & Alternative Finance,(TBC),(TBC),(TBC)
+Europe,IFRS/ISSB (inc CDSB+VRF),,Financial Services,Insurance,(TBC),(TBC),(TBC)
+Europe,IFRS/ISSB (inc CDSB+VRF),,Financial Services,"Investment, Assets and Wealth",(TBC),(TBC),(TBC)
+Europe,IFRS/ISSB (inc CDSB+VRF),,Financial Services,Real Estate,(TBC),(TBC),(TBC)
+Europe,IFRS/ISSB (inc CDSB+VRF),,Consumer,Automotive,(TBC),(TBC),(TBC)
+Europe,IFRS/ISSB (inc CDSB+VRF),,Government & Public Services,Central Government,(TBC),(TBC),(TBC)
+Europe,IFRS/ISSB (inc CDSB+VRF),,Consumer,Consumer Products,(TBC),(TBC),(TBC)
+Europe,IFRS/ISSB (inc CDSB+VRF),,Government & Public Services,"Defence, Security & Justice",(TBC),(TBC),(TBC)
+Europe,IFRS/ISSB (inc CDSB+VRF),,"Energy, Resources & Industrials",Energy & Chemicals,(TBC),(TBC),(TBC)
+Europe,IFRS/ISSB (inc CDSB+VRF),,Government & Public Services,Health & Human Services,(TBC),(TBC),(TBC)
+Europe,IFRS/ISSB (inc CDSB+VRF),,Life Sciences & Health Care,Health Care,(TBC),(TBC),(TBC)
+Europe,IFRS/ISSB (inc CDSB+VRF),,"Energy, Resources & Industrials",Industrial Products & Construction,(TBC),(TBC),(TBC)
+Europe,IFRS/ISSB (inc CDSB+VRF),,Government & Public Services,"Infrastructure, Transport & Regional Government",(TBC),(TBC),(TBC)
+Europe,IFRS/ISSB (inc CDSB+VRF),,Life Sciences & Health Care,Life Sciences,(TBC),(TBC),(TBC)
+Europe,IFRS/ISSB (inc CDSB+VRF),,"Energy, Resources & Industrials",Mining & Metals,(TBC),(TBC),(TBC)
+Europe,IFRS/ISSB (inc CDSB+VRF),,"Energy, Resources & Industrials","Power, Utilities & Renewables",(TBC),(TBC),(TBC)
+Europe,IFRS/ISSB (inc CDSB+VRF),,Consumer,"Retail, Wholesale & Distribution",(TBC),(TBC),(TBC)
+Europe,IFRS/ISSB (inc CDSB+VRF),,"Tech, Media & Telecom",Technology,(TBC),(TBC),(TBC)
+Europe,IFRS/ISSB (inc CDSB+VRF),,"Tech, Media & Telecom","Telecommunication, Media & Entertainment",(TBC),(TBC),(TBC)
+Europe,IFRS/ISSB (inc CDSB+VRF),,Consumer,"Transport, Hospitality & Services",(TBC),(TBC),(TBC)
+Europe,MIFID II,,Financial Services,Banking & Capital Markets,(TBC),(TBC),(TBC)
+Europe,MIFID II,,Financial Services,Fintech & Alternative Finance,(TBC),(TBC),(TBC)
+Europe,MIFID II,,Financial Services,Insurance,(TBC),(TBC),(TBC)
+Europe,MIFID II,,Financial Services,"Investment, Assets and Wealth",(TBC),(TBC),(TBC)
+Europe,MIFID II,,Financial Services,Real Estate,(TBC),(TBC),(TBC)
+Europe,Pillar 3,,Financial Services,Banking & Capital Markets,"Cash, cash balances at central banks and other demand deposits",Cash and demand deposits,Cash balances at central banks
+Europe,Pillar 3,,Financial Services,Banking & Capital Markets,"Cash, cash balances at central banks and other demand deposits",Cash and demand deposits,Cash on hand
+Europe,Pillar 3,,Financial Services,Banking & Capital Markets,"Cash, cash balances at central banks and other demand deposits",Cash and demand deposits,Other demand deposits
+Europe,Pillar 3,,Financial Services,Banking & Capital Markets,Derivatives – Hedge accounting,Hedge accounting derivatives,Hedge accounting derivatives
+Europe,Pillar 3,,Financial Services,Banking & Capital Markets,Fair value changes of the hedged items in portfolio hedge of interest rate risk,Hedged items interest rate risk fair value changes,Hedged items interest rate risk fair value changes
+Europe,Pillar 3,,Financial Services,Banking & Capital Markets,Financial assets at amortised cost,Amortised cost financial assets,Debt securities
+Europe,Pillar 3,,Financial Services,Banking & Capital Markets,Financial assets at amortised cost,Amortised cost financial assets,Loans and advances
+Europe,Pillar 3,,Financial Services,Banking & Capital Markets,Financial assets at fair value through other comprehensive income,Financial assets in other  income,Debt securities
+Europe,Pillar 3,,Financial Services,Banking & Capital Markets,Financial assets at fair value through other comprehensive income,Financial assets in other  income,Equity instruments
+Europe,Pillar 3,,Financial Services,Banking & Capital Markets,Financial assets at fair value through other comprehensive income,Financial assets in other  income,Loans and advances
+Europe,Pillar 3,,Financial Services,Banking & Capital Markets,Financial assets designated at fair value through profit or loss,Designated valued financial assets,Debt securities
+Europe,Pillar 3,,Financial Services,Banking & Capital Markets,Financial assets designated at fair value through profit or loss,Designated valued financial assets,Loans and advances
+Europe,Pillar 3,,Financial Services,Banking & Capital Markets,Financial assets held for trading,Trading financial assets,Debt securities
+Europe,Pillar 3,,Financial Services,Banking & Capital Markets,Financial assets held for trading,Trading financial assets,Derivatives
+Europe,Pillar 3,,Financial Services,Banking & Capital Markets,Financial assets held for trading,Trading financial assets,Equity instruments
+Europe,Pillar 3,,Financial Services,Banking & Capital Markets,Financial assets held for trading,Trading financial assets,Loans and advances
+Europe,Pillar 3,,Financial Services,Banking & Capital Markets,"Investments in subsidiaries, joint ventures and associates","Investments in subsidiaries, joint ventures, and associates","Investments in subsidiaries, joint ventures, and associates"
+Europe,Pillar 3,,Financial Services,Banking & Capital Markets,Non-current assets and disposal groups classified as held for sale,Non-current assets for sale,Non-current assets for sale
+Europe,Pillar 3,,Financial Services,Banking & Capital Markets,Non-trading financial assets mandatorily at fair value through profit or loss,Mandatorily valued non-trading  assets,Debt securities
+Europe,Pillar 3,,Financial Services,Banking & Capital Markets,Non-trading financial assets mandatorily at fair value through profit or loss,Mandatorily valued non-trading  assets,Equity instruments
+Europe,Pillar 3,,Financial Services,Banking & Capital Markets,Non-trading financial assets mandatorily at fair value through profit or loss,Mandatorily valued non-trading  assets,Loans and advances
+Europe,Pillar 3,,Financial Services,Banking & Capital Markets,Other assets,Other assets,Other assets
+Europe,Pillar 3,,Financial Services,Banking & Capital Markets,Tangible assets,Tangible assets,Investment property
+Europe,Pillar 3,,Financial Services,Banking & Capital Markets,Tangible assets,Tangible assets,"Property, Plant and Equipment"
+Europe,Pillar 3,,Financial Services,"Investment, Assets and Wealth","Cash, cash balances at central banks and other demand deposits",Cash and demand deposits,Cash balances at central banks
+Europe,Pillar 3,,Financial Services,"Investment, Assets and Wealth","Cash, cash balances at central banks and other demand deposits",Cash and demand deposits,Cash on hand
+Europe,Pillar 3,,Financial Services,"Investment, Assets and Wealth","Cash, cash balances at central banks and other demand deposits",Cash and demand deposits,Other demand deposits
+Europe,Pillar 3,,Financial Services,"Investment, Assets and Wealth",Derivatives – Hedge accounting,Hedge accounting derivatives,Hedge accounting derivatives
+Europe,Pillar 3,,Financial Services,"Investment, Assets and Wealth",Fair value changes of the hedged items in portfolio hedge of interest rate risk,Hedged items interest rate risk fair value changes,Hedged items interest rate risk fair value changes
+Europe,Pillar 3,,Financial Services,"Investment, Assets and Wealth",Financial assets at amortised cost,Amortised cost financial assets,Debt securities
+Europe,Pillar 3,,Financial Services,"Investment, Assets and Wealth",Financial assets at amortised cost,Amortised cost financial assets,Loans and advances
+Europe,Pillar 3,,Financial Services,"Investment, Assets and Wealth",Financial assets at fair value through other comprehensive income,Financial assets in other  income,Debt securities
+Europe,Pillar 3,,Financial Services,"Investment, Assets and Wealth",Financial assets at fair value through other comprehensive income,Financial assets in other  income,Equity instruments
+Europe,Pillar 3,,Financial Services,"Investment, Assets and Wealth",Financial assets at fair value through other comprehensive income,Financial assets in other  income,Loans and advances
+Europe,Pillar 3,,Financial Services,"Investment, Assets and Wealth",Financial assets designated at fair value through profit or loss,Designated valued financial assets,Debt securities
+Europe,Pillar 3,,Financial Services,"Investment, Assets and Wealth",Financial assets designated at fair value through profit or loss,Designated valued financial assets,Loans and advances
+Europe,Pillar 3,,Financial Services,"Investment, Assets and Wealth",Financial assets held for trading,Trading financial assets,Debt securities
+Europe,Pillar 3,,Financial Services,"Investment, Assets and Wealth",Financial assets held for trading,Trading financial assets,Derivatives
+Europe,Pillar 3,,Financial Services,"Investment, Assets and Wealth",Financial assets held for trading,Trading financial assets,Equity instruments
+Europe,Pillar 3,,Financial Services,"Investment, Assets and Wealth",Financial assets held for trading,Trading financial assets,Loans and advances
+Europe,Pillar 3,,Financial Services,"Investment, Assets and Wealth","Investments in subsidiaries, joint ventures and associates","Investments in subsidiaries, joint ventures, and associates","Investments in subsidiaries, joint ventures, and associates"
+Europe,Pillar 3,,Financial Services,"Investment, Assets and Wealth",Non-current assets and disposal groups classified as held for sale,Non-current assets for sale,Non-current assets for sale
+Europe,Pillar 3,,Financial Services,"Investment, Assets and Wealth",Non-trading financial assets mandatorily at fair value through profit or loss,Mandatorily valued non-trading  assets,Debt securities
+Europe,Pillar 3,,Financial Services,"Investment, Assets and Wealth",Non-trading financial assets mandatorily at fair value through profit or loss,Mandatorily valued non-trading  assets,Equity instruments
+Europe,Pillar 3,,Financial Services,"Investment, Assets and Wealth",Non-trading financial assets mandatorily at fair value through profit or loss,Mandatorily valued non-trading  assets,Loans and advances
+Europe,Pillar 3,,Financial Services,"Investment, Assets and Wealth",Other assets,Other assets,Other assets
+Europe,Pillar 3,,Financial Services,"Investment, Assets and Wealth",Tangible assets,Tangible assets,Investment property
+Europe,Pillar 3,,Financial Services,"Investment, Assets and Wealth",Tangible assets,Tangible assets,"Property, Plant and Equipment"
+Europe,Pillar 3,,Financial Services,Fintech & Alternative Finance,(TBC),(TBC),(TBC)
+Europe,Pillar 3,,Financial Services,Insurance,(TBC),(TBC),(TBC)
+Europe,Pillar 3,,Financial Services,Real Estate,(TBC),(TBC),(TBC)
+Europe,SFDR,,Financial Services,Banking & Capital Markets,(TBC),(TBC),(TBC)
+Europe,SFDR,,Financial Services,Fintech & Alternative Finance,(TBC),(TBC),(TBC)
+Europe,SFDR,,Financial Services,Insurance,(TBC),(TBC),(TBC)
+Europe,SFDR,,Financial Services,"Investment, Assets and Wealth",(TBC),(TBC),(TBC)
+Europe,SFDR,,Financial Services,Real Estate,(TBC),(TBC),(TBC)
+Europe,TCFD,,Financial Services,Banking & Capital Markets,(TBC),(TBC),(TBC)
+Europe,TCFD,,Financial Services,Fintech & Alternative Finance,(TBC),(TBC),(TBC)
+Europe,TCFD,,Financial Services,Insurance,(TBC),(TBC),(TBC)
+Europe,TCFD,,Financial Services,"Investment, Assets and Wealth",(TBC),(TBC),(TBC)
+Europe,TCFD,,Financial Services,Real Estate,(TBC),(TBC),(TBC)
+Europe,TCFD,,Consumer,Automotive,(TBC),(TBC),(TBC)
+Europe,TCFD,,Government & Public Services,Central Government,(TBC),(TBC),(TBC)
+Europe,TCFD,,Consumer,Consumer Products,(TBC),(TBC),(TBC)
+Europe,TCFD,,Government & Public Services,"Defence, Security & Justice",(TBC),(TBC),(TBC)
+Europe,TCFD,,"Energy, Resources & Industrials",Energy & Chemicals,(TBC),(TBC),(TBC)
+Europe,TCFD,,Government & Public Services,Health & Human Services,(TBC),(TBC),(TBC)
+Europe,TCFD,,Life Sciences & Health Care,Health Care,(TBC),(TBC),(TBC)
+Europe,TCFD,,"Energy, Resources & Industrials",Industrial Products & Construction,(TBC),(TBC),(TBC)
+Europe,TCFD,,Government & Public Services,"Infrastructure, Transport & Regional Government",(TBC),(TBC),(TBC)
+Europe,TCFD,,Life Sciences & Health Care,Life Sciences,(TBC),(TBC),(TBC)
+Europe,TCFD,,"Energy, Resources & Industrials",Mining & Metals,(TBC),(TBC),(TBC)
+Europe,TCFD,,"Energy, Resources & Industrials","Power, Utilities & Renewables",(TBC),(TBC),(TBC)
+Europe,TCFD,,Consumer,"Retail, Wholesale & Distribution",(TBC),(TBC),(TBC)
+Europe,TCFD,,"Tech, Media & Telecom",Technology,(TBC),(TBC),(TBC)
+Europe,TCFD,,"Tech, Media & Telecom","Telecommunication, Media & Entertainment",(TBC),(TBC),(TBC)
+Europe,TCFD,,Consumer,"Transport, Hospitality & Services",(TBC),(TBC),(TBC)
+Europe,TNFD,,Financial Services,Fintech & Alternative Finance,(TBC),(TBC),(TBC)
+Europe,TNFD,,Financial Services,Banking & Capital Markets,(TBC),(TBC),(TBC)
+Europe,TNFD,,Financial Services,Insurance,(TBC),(TBC),(TBC)
+Europe,TNFD,,Financial Services,"Investment, Assets and Wealth",(TBC),(TBC),(TBC)
+Europe,TNFD,,Financial Services,Real Estate,(TBC),(TBC),(TBC)
+Europe,TNFD,,Consumer,Automotive,(TBC),(TBC),(TBC)
+Europe,TNFD,,Government & Public Services,Central Government,(TBC),(TBC),(TBC)
+Europe,TNFD,,Consumer,Consumer Products,(TBC),(TBC),(TBC)
+Europe,TNFD,,Government & Public Services,"Defence, Security & Justice",(TBC),(TBC),(TBC)
+Europe,TNFD,,"Energy, Resources & Industrials",Energy & Chemicals,(TBC),(TBC),(TBC)
+Europe,TNFD,,Government & Public Services,Health & Human Services,(TBC),(TBC),(TBC)
+Europe,TNFD,,Life Sciences & Health Care,Health Care,(TBC),(TBC),(TBC)
+Europe,TNFD,,"Energy, Resources & Industrials",Industrial Products & Construction,(TBC),(TBC),(TBC)
+Europe,TNFD,,Government & Public Services,"Infrastructure, Transport & Regional Government",(TBC),(TBC),(TBC)
+Europe,TNFD,,Life Sciences & Health Care,Life Sciences,(TBC),(TBC),(TBC)
+Europe,TNFD,,"Energy, Resources & Industrials",Mining & Metals,(TBC),(TBC),(TBC)
+Europe,TNFD,,"Energy, Resources & Industrials","Power, Utilities & Renewables",(TBC),(TBC),(TBC)
+Europe,TNFD,,Consumer,"Retail, Wholesale & Distribution",(TBC),(TBC),(TBC)
+Europe,TNFD,,"Tech, Media & Telecom",Technology,(TBC),(TBC),(TBC)
+Europe,TNFD,,"Tech, Media & Telecom","Telecommunication, Media & Entertainment",(TBC),(TBC),(TBC)
+Europe,TNFD,,Consumer,"Transport, Hospitality & Services",(TBC),(TBC),(TBC)
+Global,IFRS/ISSB (inc CDSB+VRF),,Financial Services,Banking & Capital Markets,(TBC),(TBC),(TBC)
+Global,IFRS/ISSB (inc CDSB+VRF),,Financial Services,Fintech & Alternative Finance,(TBC),(TBC),(TBC)
+Global,IFRS/ISSB (inc CDSB+VRF),,Financial Services,Insurance,(TBC),(TBC),(TBC)
+Global,IFRS/ISSB (inc CDSB+VRF),,Financial Services,"Investment, Assets and Wealth",(TBC),(TBC),(TBC)
+Global,IFRS/ISSB (inc CDSB+VRF),,Financial Services,Real Estate,(TBC),(TBC),(TBC)
+Global,IFRS/ISSB (inc CDSB+VRF),,Consumer,Automotive,(TBC),(TBC),(TBC)
+Global,IFRS/ISSB (inc CDSB+VRF),,Government & Public Services,Central Government,(TBC),(TBC),(TBC)
+Global,IFRS/ISSB (inc CDSB+VRF),,Consumer,Consumer Products,(TBC),(TBC),(TBC)
+Global,IFRS/ISSB (inc CDSB+VRF),,Government & Public Services,"Defence, Security & Justice",(TBC),(TBC),(TBC)
+Global,IFRS/ISSB (inc CDSB+VRF),,"Energy, Resources & Industrials",Energy & Chemicals,(TBC),(TBC),(TBC)
+Global,IFRS/ISSB (inc CDSB+VRF),,Government & Public Services,Health & Human Services,(TBC),(TBC),(TBC)
+Global,IFRS/ISSB (inc CDSB+VRF),,Life Sciences & Health Care,Health Care,(TBC),(TBC),(TBC)
+Global,IFRS/ISSB (inc CDSB+VRF),,"Energy, Resources & Industrials",Industrial Products & Construction,(TBC),(TBC),(TBC)
+Global,IFRS/ISSB (inc CDSB+VRF),,Government & Public Services,"Infrastructure, Transport & Regional Government",(TBC),(TBC),(TBC)
+Global,IFRS/ISSB (inc CDSB+VRF),,Life Sciences & Health Care,Life Sciences,(TBC),(TBC),(TBC)
+Global,IFRS/ISSB (inc CDSB+VRF),,"Energy, Resources & Industrials",Mining & Metals,(TBC),(TBC),(TBC)
+Global,IFRS/ISSB (inc CDSB+VRF),,"Energy, Resources & Industrials","Power, Utilities & Renewables",(TBC),(TBC),(TBC)
+Global,IFRS/ISSB (inc CDSB+VRF),,Consumer,"Retail, Wholesale & Distribution",(TBC),(TBC),(TBC)
+Global,IFRS/ISSB (inc CDSB+VRF),,"Tech, Media & Telecom",Technology,(TBC),(TBC),(TBC)
+Global,IFRS/ISSB (inc CDSB+VRF),,"Tech, Media & Telecom","Telecommunication, Media & Entertainment",(TBC),(TBC),(TBC)
+Global,IFRS/ISSB (inc CDSB+VRF),,Consumer,"Transport, Hospitality & Services",(TBC),(TBC),(TBC)
+Global,TCFD,,Financial Services,Banking & Capital Markets,(TBC),(TBC),(TBC)
+Global,TCFD,,Financial Services,Fintech & Alternative Finance,(TBC),(TBC),(TBC)
+Global,TCFD,,Financial Services,Insurance,(TBC),(TBC),(TBC)
+Global,TCFD,,Financial Services,"Investment, Assets and Wealth",(TBC),(TBC),(TBC)
+Global,TCFD,,Financial Services,Real Estate,(TBC),(TBC),(TBC)
+Global,TCFD,,Consumer,Automotive,(TBC),(TBC),(TBC)
+Global,TCFD,,Government & Public Services,Central Government,(TBC),(TBC),(TBC)
+Global,TCFD,,Consumer,Consumer Products,(TBC),(TBC),(TBC)
+Global,TCFD,,Government & Public Services,"Defence, Security & Justice",(TBC),(TBC),(TBC)
+Global,TCFD,,"Energy, Resources & Industrials",Energy & Chemicals,(TBC),(TBC),(TBC)
+Global,TCFD,,Government & Public Services,Health & Human Services,(TBC),(TBC),(TBC)
+Global,TCFD,,Life Sciences & Health Care,Health Care,(TBC),(TBC),(TBC)
+Global,TCFD,,"Energy, Resources & Industrials",Industrial Products & Construction,(TBC),(TBC),(TBC)
+Global,TCFD,,Government & Public Services,"Infrastructure, Transport & Regional Government",(TBC),(TBC),(TBC)
+Global,TCFD,,Life Sciences & Health Care,Life Sciences,(TBC),(TBC),(TBC)
+Global,TCFD,,"Energy, Resources & Industrials",Mining & Metals,(TBC),(TBC),(TBC)
+Global,TCFD,,"Energy, Resources & Industrials","Power, Utilities & Renewables",(TBC),(TBC),(TBC)
+Global,TCFD,,Consumer,"Retail, Wholesale & Distribution",(TBC),(TBC),(TBC)
+Global,TCFD,,"Tech, Media & Telecom",Technology,(TBC),(TBC),(TBC)
+Global,TCFD,,"Tech, Media & Telecom","Telecommunication, Media & Entertainment",(TBC),(TBC),(TBC)
+Global,TCFD,,Consumer,"Transport, Hospitality & Services",(TBC),(TBC),(TBC)
+Global,TNFD,,Financial Services,Banking & Capital Markets,(TBC),(TBC),(TBC)
+Global,TNFD,,Financial Services,Fintech & Alternative Finance,(TBC),(TBC),(TBC)
+Global,TNFD,,Financial Services,Insurance,(TBC),(TBC),(TBC)
+Global,TNFD,,Financial Services,"Investment, Assets and Wealth",(TBC),(TBC),(TBC)
+Global,TNFD,,Financial Services,Real Estate,(TBC),(TBC),(TBC)
+Global,TNFD,,Consumer,Automotive,(TBC),(TBC),(TBC)
+Global,TNFD,,Government & Public Services,Central Government,(TBC),(TBC),(TBC)
+Global,TNFD,,Consumer,Consumer Products,(TBC),(TBC),(TBC)
+Global,TNFD,,Government & Public Services,"Defence, Security & Justice",(TBC),(TBC),(TBC)
+Global,TNFD,,"Energy, Resources & Industrials",Energy & Chemicals,(TBC),(TBC),(TBC)
+Global,TNFD,,Government & Public Services,Health & Human Services,(TBC),(TBC),(TBC)
+Global,TNFD,,Life Sciences & Health Care,Health Care,(TBC),(TBC),(TBC)
+Global,TNFD,,"Energy, Resources & Industrials",Industrial Products & Construction,(TBC),(TBC),(TBC)
+Global,TNFD,,Government & Public Services,"Infrastructure, Transport & Regional Government",(TBC),(TBC),(TBC)
+Global,TNFD,,Life Sciences & Health Care,Life Sciences,(TBC),(TBC),(TBC)
+Global,TNFD,,"Energy, Resources & Industrials",Mining & Metals,(TBC),(TBC),(TBC)
+Global,TNFD,,"Energy, Resources & Industrials","Power, Utilities & Renewables",(TBC),(TBC),(TBC)
+Global,TNFD,,Consumer,"Retail, Wholesale & Distribution",(TBC),(TBC),(TBC)
+Global,TNFD,,"Tech, Media & Telecom",Technology,(TBC),(TBC),(TBC)
+Global,TNFD,,"Tech, Media & Telecom","Telecommunication, Media & Entertainment",(TBC),(TBC),(TBC)
+Global,TNFD,,Consumer,"Transport, Hospitality & Services",(TBC),(TBC),(TBC)
+UK,IFRS/ISSB (inc CDSB+VRF),,Financial Services,Banking & Capital Markets,(TBC),(TBC),(TBC)
+UK,IFRS/ISSB (inc CDSB+VRF),,Financial Services,Fintech & Alternative Finance,(TBC),(TBC),(TBC)
+UK,IFRS/ISSB (inc CDSB+VRF),,Financial Services,Insurance,(TBC),(TBC),(TBC)
+UK,IFRS/ISSB (inc CDSB+VRF),,Financial Services,"Investment, Assets and Wealth",(TBC),(TBC),(TBC)
+UK,IFRS/ISSB (inc CDSB+VRF),,Financial Services,Real Estate,(TBC),(TBC),(TBC)
+UK,IFRS/ISSB (inc CDSB+VRF),,Consumer,Automotive,(TBC),(TBC),(TBC)
+UK,IFRS/ISSB (inc CDSB+VRF),,Government & Public Services,Central Government,(TBC),(TBC),(TBC)
+UK,IFRS/ISSB (inc CDSB+VRF),,Consumer,Consumer Products,(TBC),(TBC),(TBC)
+UK,IFRS/ISSB (inc CDSB+VRF),,Government & Public Services,"Defence, Security & Justice",(TBC),(TBC),(TBC)
+UK,IFRS/ISSB (inc CDSB+VRF),,"Energy, Resources & Industrials",Energy & Chemicals,(TBC),(TBC),(TBC)
+UK,IFRS/ISSB (inc CDSB+VRF),,Government & Public Services,Health & Human Services,(TBC),(TBC),(TBC)
+UK,IFRS/ISSB (inc CDSB+VRF),,Life Sciences & Health Care,Health Care,(TBC),(TBC),(TBC)
+UK,IFRS/ISSB (inc CDSB+VRF),,"Energy, Resources & Industrials",Industrial Products & Construction,(TBC),(TBC),(TBC)
+UK,IFRS/ISSB (inc CDSB+VRF),,Government & Public Services,"Infrastructure, Transport & Regional Government",(TBC),(TBC),(TBC)
+UK,IFRS/ISSB (inc CDSB+VRF),,Life Sciences & Health Care,Life Sciences,(TBC),(TBC),(TBC)
+UK,IFRS/ISSB (inc CDSB+VRF),,"Energy, Resources & Industrials",Mining & Metals,(TBC),(TBC),(TBC)
+UK,IFRS/ISSB (inc CDSB+VRF),,"Energy, Resources & Industrials","Power, Utilities & Renewables",(TBC),(TBC),(TBC)
+UK,IFRS/ISSB (inc CDSB+VRF),,Consumer,"Retail, Wholesale & Distribution",(TBC),(TBC),(TBC)
+UK,IFRS/ISSB (inc CDSB+VRF),,"Tech, Media & Telecom",Technology,(TBC),(TBC),(TBC)
+UK,IFRS/ISSB (inc CDSB+VRF),,"Tech, Media & Telecom","Telecommunication, Media & Entertainment",(TBC),(TBC),(TBC)
+UK,IFRS/ISSB (inc CDSB+VRF),,Consumer,"Transport, Hospitality & Services",(TBC),(TBC),(TBC)
+UK,SDR,,Financial Services,Banking & Capital Markets,(TBC),(TBC),(TBC)
+UK,SDR,,Financial Services,Fintech & Alternative Finance,(TBC),(TBC),(TBC)
+UK,SDR,,Financial Services,Insurance,(TBC),(TBC),(TBC)
+UK,SDR,,Financial Services,"Investment, Assets and Wealth",(TBC),(TBC),(TBC)
+UK,SDR,,Financial Services,Real Estate,(TBC),(TBC),(TBC)
+UK,TCFD,,Financial Services,Banking & Capital Markets,(TBC),(TBC),(TBC)
+UK,TCFD,,Financial Services,Fintech & Alternative Finance,(TBC),(TBC),(TBC)
+UK,TCFD,,Financial Services,Insurance,(TBC),(TBC),(TBC)
+UK,TCFD,,Financial Services,"Investment, Assets and Wealth",(TBC),(TBC),(TBC)
+UK,TCFD,,Financial Services,Real Estate,(TBC),(TBC),(TBC)
+UK,TCFD,,Consumer,Automotive,(TBC),(TBC),(TBC)
+UK,TCFD,,Government & Public Services,Central Government,(TBC),(TBC),(TBC)
+UK,TCFD,,Consumer,Consumer Products,(TBC),(TBC),(TBC)
+UK,TCFD,,Government & Public Services,"Defence, Security & Justice",(TBC),(TBC),(TBC)
+UK,TCFD,,"Energy, Resources & Industrials",Energy & Chemicals,(TBC),(TBC),(TBC)
+UK,TCFD,,Government & Public Services,Health & Human Services,(TBC),(TBC),(TBC)
+UK,TCFD,,Life Sciences & Health Care,Health Care,(TBC),(TBC),(TBC)
+UK,TCFD,,"Energy, Resources & Industrials",Industrial Products & Construction,(TBC),(TBC),(TBC)
+UK,TCFD,,Government & Public Services,"Infrastructure, Transport & Regional Government",(TBC),(TBC),(TBC)
+UK,TCFD,,Life Sciences & Health Care,Life Sciences,(TBC),(TBC),(TBC)
+UK,TCFD,,"Energy, Resources & Industrials",Mining & Metals,(TBC),(TBC),(TBC)
+UK,TCFD,,"Energy, Resources & Industrials","Power, Utilities & Renewables",(TBC),(TBC),(TBC)
+UK,TCFD,,Consumer,"Retail, Wholesale & Distribution",(TBC),(TBC),(TBC)
+UK,TCFD,,"Tech, Media & Telecom",Technology,(TBC),(TBC),(TBC)
+UK,TCFD,,"Tech, Media & Telecom","Telecommunication, Media & Entertainment",(TBC),(TBC),(TBC)
+UK,TCFD,,Consumer,"Transport, Hospitality & Services",(TBC),(TBC),(TBC)
+UK,TNFD,,Financial Services,Fintech & Alternative Finance,(TBC),(TBC),(TBC)
+UK,TNFD,,Financial Services,Banking & Capital Markets,(TBC),(TBC),(TBC)
+UK,TNFD,,Financial Services,Insurance,(TBC),(TBC),(TBC)
+UK,TNFD,,Financial Services,"Investment, Assets and Wealth",(TBC),(TBC),(TBC)
+UK,TNFD,,Financial Services,Real Estate,(TBC),(TBC),(TBC)
+UK,TNFD,,Consumer,Automotive,(TBC),(TBC),(TBC)
+UK,TNFD,,Government & Public Services,Central Government,(TBC),(TBC),(TBC)
+UK,TNFD,,Consumer,Consumer Products,(TBC),(TBC),(TBC)
+UK,TNFD,,Government & Public Services,"Defence, Security & Justice",(TBC),(TBC),(TBC)
+UK,TNFD,,"Energy, Resources & Industrials",Energy & Chemicals,(TBC),(TBC),(TBC)
+UK,TNFD,,Government & Public Services,Health & Human Services,(TBC),(TBC),(TBC)
+UK,TNFD,,Life Sciences & Health Care,Health Care,(TBC),(TBC),(TBC)
+UK,TNFD,,"Energy, Resources & Industrials",Industrial Products & Construction,(TBC),(TBC),(TBC)
+UK,TNFD,,Government & Public Services,"Infrastructure, Transport & Regional Government",(TBC),(TBC),(TBC)
+UK,TNFD,,Life Sciences & Health Care,Life Sciences,(TBC),(TBC),(TBC)
+UK,TNFD,,"Energy, Resources & Industrials",Mining & Metals,(TBC),(TBC),(TBC)
+UK,TNFD,,"Energy, Resources & Industrials","Power, Utilities & Renewables",(TBC),(TBC),(TBC)
+UK,TNFD,,Consumer,"Retail, Wholesale & Distribution",(TBC),(TBC),(TBC)
+UK,TNFD,,"Tech, Media & Telecom",Technology,(TBC),(TBC),(TBC)
+UK,TNFD,,"Tech, Media & Telecom","Telecommunication, Media & Entertainment",(TBC),(TBC),(TBC)
+UK,TNFD,,Consumer,"Transport, Hospitality & Services",(TBC),(TBC),(TBC)
+UK,UK Taxonomy,,Financial Services,Banking & Capital Markets,(TBC),(TBC),(TBC)
+UK,UK Taxonomy,,Financial Services,Fintech & Alternative Finance,(TBC),(TBC),(TBC)
+UK,UK Taxonomy,,Financial Services,Insurance,(TBC),(TBC),(TBC)
+UK,UK Taxonomy,,Financial Services,"Investment, Assets and Wealth",(TBC),(TBC),(TBC)
+UK,UK Taxonomy,,Financial Services,Real Estate,(TBC),(TBC),(TBC)
+UK,UK Taxonomy,,Consumer,Automotive,(TBC),(TBC),(TBC)
+UK,UK Taxonomy,,Government & Public Services,Central Government,(TBC),(TBC),(TBC)
+UK,UK Taxonomy,,Consumer,Consumer Products,(TBC),(TBC),(TBC)
+UK,UK Taxonomy,,Government & Public Services,"Defence, Security & Justice",(TBC),(TBC),(TBC)
+UK,UK Taxonomy,,"Energy, Resources & Industrials",Energy & Chemicals,(TBC),(TBC),(TBC)
+UK,UK Taxonomy,,Government & Public Services,Health & Human Services,(TBC),(TBC),(TBC)
+UK,UK Taxonomy,,Life Sciences & Health Care,Health Care,(TBC),(TBC),(TBC)
+UK,UK Taxonomy,,"Energy, Resources & Industrials",Industrial Products & Construction,(TBC),(TBC),(TBC)
+UK,UK Taxonomy,,Government & Public Services,"Infrastructure, Transport & Regional Government",(TBC),(TBC),(TBC)
+UK,UK Taxonomy,,Life Sciences & Health Care,Life Sciences,(TBC),(TBC),(TBC)
+UK,UK Taxonomy,,"Energy, Resources & Industrials",Mining & Metals,(TBC),(TBC),(TBC)
+UK,UK Taxonomy,,"Energy, Resources & Industrials","Power, Utilities & Renewables",(TBC),(TBC),(TBC)
+UK,UK Taxonomy,,Consumer,"Retail, Wholesale & Distribution",(TBC),(TBC),(TBC)
+UK,UK Taxonomy,,"Tech, Media & Telecom",Technology,(TBC),(TBC),(TBC)
+UK,UK Taxonomy,,"Tech, Media & Telecom","Telecommunication, Media & Entertainment",(TBC),(TBC),(TBC)
+UK,UK Taxonomy,,Consumer,"Transport, Hospitality & Services",(TBC),(TBC),(TBC)
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
