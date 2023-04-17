@@ -76,10 +76,10 @@ st.caption("""
 ### Framework Mapping
 st.divider()
 st.subheader('Framework Mapping')
-st.caption("""A simple, interactive view of our current regulatory framework mapping. This page
-           demonstrates our current, WIP view of regulatory landscape for global, EU, and UK
-           regulations. For brevity we have specifically expanded asset classes and data attributes 
-           for FS, banking and capital markets.
+st.caption("""AThis app aims to decompose complex regulatory documents 
+            into digestable controls and requirements which we can then 
+            simplify into physical data attributes. Select the geographies which you 
+            operate in 
            """)
 
 st.caption("""
