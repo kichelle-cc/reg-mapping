@@ -6,6 +6,12 @@ import streamlit as st
 import pandas as pd
 import os 
 
+
+from bokeh.io import output_file, show
+from bokeh.models import (WheelPanTool, BoxZoomTool, ResetTool, BoxSelectTool, Circle, EdgesAndLinkedNodes, HoverTool,
+                          MultiLine, NodesAndLinkedEdges, Plot, Range1d, TapTool, EdgesOnly, WheelZoomTool)
+from bokeh.palettes import Spectral4, Blues8, Spectral8, BrBG6, Bokeh5, Colorblind5
+from bokeh.plotting import from_networkx
 # from networkx.drawing.nx_agraph import graphviz_layout
 
 # def format_position(G, threshold=5):
@@ -81,11 +87,19 @@ def make_digraph(
     sector
     ):
         G = nx.DiGraph()
+        col_dict = {}
+        hierachy_dict = {}
+        from bokeh.palettes import Blues5
+        color_palette = Blues5[::-1]
 
         for index, row in df_geo_reg.iterrows():
             if (row["Geographies"] in geog) & (row['Framework'] in reg):
                 G.add_edge(str(row["Geographies"]), str(row["Framework"]))
-        
+                col_dict[str(row["Geographies"])] = color_palette[0]
+                hierachy_dict[str(row["Geographies"])] = 'Geography'
+                col_dict[str(row["Framework"])] =  color_palette[1]
+                hierachy_dict[str(row["Framework"])] =  'Framework'
+
         # if sub_reg:
         #     for index, row in df_reg_subreg.iterrows():
         #         if (row["Framework"] in reg) & (row["Framework Subcategory"] in sub_reg):
@@ -94,28 +108,83 @@ def make_digraph(
         #         if (row["Framework Subcategory"] in reg) & (row["Industry"] in industry):
         #             G.add_edge(str(row["Framework Subcategory"]), str(row["Industry"]))
         # else:
-
         for index, row in df_reg_indus.iterrows():
             if (row["Framework"] in reg) & (row["Industry"] in industry):
                 G.add_edge(str(row["Framework"]), str(row["Industry"]))
+                col_dict[str(row["Framework"])] = color_palette[1]
+                hierachy_dict[str(row["Framework"])] =  'Framework'
+                col_dict[str(row["Industry"])] =  color_palette[2]
+                hierachy_dict[str(row["Industry"])] =  'Industry'
+
         for index, row in df_indus_sector.iterrows():
             if (row["Industry"] in industry) & (row["Sector"] in sector):
                 G.add_edge(str(row["Industry"]), str(row["Sector"]))
+                col_dict[str(row["Industry"])] =  color_palette[2]
+                hierachy_dict[str(row["Industry"])] =  'Industry'
+                col_dict[str(row["Sector"])] =  color_palette[3]
+                hierachy_dict[str(row["Sector"])] =  'Sector'
         for index, row in df_sector_product.iterrows():
             if row["Sector"] in sector:
                 G.add_edge(str(row["Sector"]), str(row["Asset_Class"]))
+                col_dict[str(row["Sector"])] =  color_palette[3]
+                hierachy_dict[str(row["Sector"])] =  'Sector'
+                col_dict[str(row["Asset_Class"])] =  color_palette[4]
+                hierachy_dict[str(row["Asset_Class"])] =  'Asset Class'
 
-        fig = plt.figure(figsize=(20,20)) 
+        # fig = plt.figure(figsize=(20,22)) 
         # pos = nx.circular_layout(G)
+
+        degrees = dict(nx.degree(G))
+        for k in degrees.keys():
+            degrees[k] = degrees[k]+10
+
+        nx.set_node_attributes(G, name='degree', values=degrees)
+        nx.set_node_attributes(G, name='cat_col', values=col_dict)
+        nx.set_node_attributes(G, name='hierachy', values=hierachy_dict)
+
+        pos=nx.nx_agraph.graphviz_layout(G)#, prog='neato')
         # pos = nx.draw_planar(G)
-        nx.draw(G, pos=nx.nx_agraph.graphviz_layout(G, prog='dot'),
-                with_labels=True,
-                node_color="None",
-                node_shape='s',
-                node_size=500,
-                font_size=16,
-                bbox=dict(facecolor="skyblue", edgecolor='black', boxstyle='round,pad=0.25'))
-        return fig
+        # nx.draw(G, pos=nx.nx_agraph.graphviz_layout(G, prog='neato'),
+        #         with_labels=True,
+        #         node_color="None",
+        #         node_shape='s',
+        #         node_size=1500,
+        #         font_size=12,
+        #         bbox=dict(facecolor="skyblue", edgecolor='gray', boxstyle='round,pad=0.25'))
+        # G=nx.karate_club_graph()
+
+        plot = Plot(width=400, height=400)
+                    # x_range=Range1d(-1.1,1.1), y_range=Range1d(-1.1,1.1))
+        plot.title.text = "(hover to see detailed information)"
+
+        plot.add_tools(BoxZoomTool(), ResetTool(), TapTool())
+
+
+        graph_renderer = from_networkx(G, pos)
+        # default node color
+        graph_renderer.node_renderer.glyph = Circle(size='degree', fill_color='cat_col')
+        
+        # node highlight formatting
+        graph_renderer.node_renderer.selection_glyph = Circle(size='degree', fill_color='cat_col', line_width=2)
+        graph_renderer.node_renderer.hover_glyph = Circle(size='degree', fill_color='cat_col', line_width=2)
+
+        graph_renderer.edge_renderer.glyph = MultiLine(line_color="#CCCCCC", line_alpha=0.8, line_width=5)
+        # edge highlight formatting
+        graph_renderer.edge_renderer.selection_glyph = MultiLine(line_color='#1d1d1f', line_width=5)
+        graph_renderer.edge_renderer.hover_glyph = MultiLine(line_color='#1d1d1f', line_width=5)
+
+        graph_renderer.selection_policy = NodesAndLinkedEdges()
+        graph_renderer.inspection_policy = NodesAndLinkedEdges()
+        plot.renderers.append(graph_renderer)
+
+        # graph_renderer.node_renderer.data_source.data['node'] = list(G)
+
+        node_hover_tool = HoverTool(tooltips=[
+            ("Class", "@hierachy"),
+            ("Name", "@index"),
+        ])
+        plot.add_tools(node_hover_tool,WheelPanTool(), WheelZoomTool())
+        return plot
 
 
 def display_fig_download(df, geog, reg, sub_reg, industry, sector):
@@ -126,14 +195,21 @@ def display_fig_download(df, geog, reg, sub_reg, industry, sector):
     "text/csv",
     key='download-csv'
     )
-    with st.expander('''Show/Hide full mapping'''): 
-        st.pyplot(make_digraph(
+    with st.expander('''Show/Hide Mapping Network'''): 
+        st.bokeh_chart(make_digraph(
             geog,
             reg,
             sub_reg,
             industry,
             sector
-            ))
+            ), use_container_width=True)
+        # st.pyplot(make_digraph(
+            # geog,
+            # reg,
+            # sub_reg,
+            # industry,
+            # sector
+            # ))
     return
 
 
@@ -206,3 +282,42 @@ if geo_choice:
                         sector_choice
                     )
     
+
+
+
+G=nx.karate_club_graph()
+pos=nx.nx_agraph.graphviz_layout(G)#, scale=1)
+
+# for key in pos:
+#         pos[key] = np.array(pos[key])
+
+
+# values = pos.values()
+# print(np.hstack(values))
+# min_ = min(np.hstack(values))
+# max_ = max(np.hstack(values))
+# normalized_d = {key: (2* (v - min_ ) / (max_ - min_) -1)  for (key, v) in pos.items() }
+
+# plot = Plot(width=400, height=400)#,
+#             # x_range=Range1d(-1.1,1.1), y_range=Range1d(-1.1,1.1))
+# plot.title.text = "Graph Interaction Demonstration"
+
+# plot.add_tools(HoverTool(tooltips=None), TapTool(), BoxSelectTool())
+# plot.add_tools(BoxZoomTool(), ResetTool())
+
+# graph_renderer = from_networkx(G, pos)# , scale=1, center=(0,0))
+
+# graph_renderer.node_renderer.glyph = Circle(size=15, fill_color=Spectral4[0])
+# graph_renderer.node_renderer.selection_glyph = Circle(size=15, fill_color=Spectral4[2])
+# graph_renderer.node_renderer.hover_glyph = Circle(size=15, fill_color=Spectral4[1])
+
+# graph_renderer.edge_renderer.glyph = MultiLine(line_color="#CCCCCC", line_alpha=0.8, line_width=5)
+# graph_renderer.edge_renderer.selection_glyph = MultiLine(line_color=Spectral4[2], line_width=5)
+# graph_renderer.edge_renderer.hover_glyph = MultiLine(line_color=Spectral4[1], line_width=5)
+
+# graph_renderer.selection_policy = NodesAndLinkedEdges()
+# graph_renderer.inspection_policy = EdgesAndLinkedNodes()
+
+
+# plot.renderers.append(graph_renderer)
+# st.bokeh_chart(plot, use_container_width=True)

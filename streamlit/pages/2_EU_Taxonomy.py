@@ -52,6 +52,10 @@ This tool aims to simplify, and display a list of data attributes that are neede
 for a given business operating in a set of industries and sectors 
 ''')
 
+categories = st.multiselect('[TBC] type of reporting/assessment',
+                            ['Assesment', 'Reporting', 'Exposure'],
+                            )
+
 
 options = st.multiselect(
     'What sectors does your business operate in?',
