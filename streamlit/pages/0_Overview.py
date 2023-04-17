@@ -1,25 +1,11 @@
 import streamlit as st 
 import os
-def add_logo():
-    # adds logo to sider, can insert a png here later
-    st.markdown(
-        """
-        <style>
-        
-            [data-testid="stSidebarNav"]::before {
-                content: "Navigation";
-                margin-left: 20px;
-                margin-top: 0px;
-                font-size: 22px;
-                position: relative;
-                top: 50px;
-            }
-        </style>
-        """,
-        unsafe_allow_html=True,
-    )
+from PIL import Image
 
-add_logo()
+image = Image.open(os.getcwd()+'\\streamlit\\imgs\\deloitte-logo-black.png')
+st.sidebar.image(image)
+st.sidebar.header("S&C Reg Navigator v0.9")
+
 prefix=os.getcwd()
 path_to_html = prefix + '/streamlit/imgs/ESG Reg & Data Model Mapping_v7.html'
 # Read file and keep in variable
@@ -30,5 +16,4 @@ with open(path_to_html,'r') as f:
 st.title("Mapping Overview")
 st.divider()
 st.caption("A simple, interactive view of our current regulatory framework mapping")
-# st.write(help(st.components.v1.html))
-st.components.v1.html(html_data, height=1400, scrolling=False)#,width=1000,height=1400)
+st.components.v1.html(html_data, height=1400, scrolling=False)

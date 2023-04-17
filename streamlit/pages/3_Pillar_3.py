@@ -2,26 +2,13 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import os 
+from PIL import Image
 
-def add_logo():
-    st.markdown(
-        """
-        <style>
-        
-            [data-testid="stSidebarNav"]::before {
-                content: "Navigation";
-                margin-left: 20px;
-                margin-top: 0px;
-                font-size: 22px;
-                position: relative;
-                top: 50px;
-            }
-        </style>
-        """,
-        unsafe_allow_html=True,
-    )
+# sidebar
+image = Image.open(os.getcwd()+'\\streamlit\\imgs\\deloitte-logo-black.png')
+st.sidebar.image(image)
+st.sidebar.header("S&C Reg Navigator v0.9")
 
-add_logo()
 
 
 st.title('Pillar 3')
@@ -37,6 +24,7 @@ reports such as annual reports, prospectuses, and other regulatory filings.
 Pillar 3 is part of the Basel III framework for bank regulation and is overseen by national 
 regulators.''')
 
+# read data
 prefix=os.getcwd()+'/streamlit/data/'
 df_all = pd.read_csv(prefix+'S&C REG-DATA Mapping V2.csv')
 df_all = df_all.loc[df_all.Framework == 'Pillar 3']
@@ -49,7 +37,7 @@ df.rename(columns={
 categories = df.columns[5:11]
 ms = 3
 
-
+# cacading select boxes
 geos = df_all['Geographies'].unique()
 geo_choice = st.selectbox('Geography', np.insert(geos, 0, 'Select a Geography'))
 
@@ -83,7 +71,3 @@ if geo_choice != 'Select a Geography':
                             "text/csv",
                             key='download-csv'
                             )
-                # st.write(reported_tbl.iloc[:,:10])
-                # st.write(reported_tbl[options+base])
-                # print((reported_tbl.reset_index()['Attribute ']))
-                # print(reported_tbl.columns)

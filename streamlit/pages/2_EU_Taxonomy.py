@@ -1,29 +1,19 @@
-import streamlit as st 
-import pandas as pd 
-import os 
+import streamlit as st
+import pandas as pd
+import os
+from PIL import Image
 
+# sidebar
+image = Image.open(os.getcwd()+'\\streamlit\\imgs\\deloitte-logo-black.png')
+st.sidebar.image(image)
+st.sidebar.header("S&C Reg Navigator v0.9")
 
-def add_logo():
-    st.markdown(
-        """
-        <style>
-            [data-testid="stSidebarNav"]::before {
-                content: "Navigation";
-                margin-left: 20px;
-                margin-top: 0px;
-                font-size: 22px;
-                position: relative;
-                top: 50px;
-            }
-        </style>
-        """,
-        unsafe_allow_html=True,
-    )
-
-add_logo()
+# load data (moving to df_all via master spreadsheet soon)
 prefix=os.getcwd()+'/streamlit/data/'
 path = r'eu_taxonomy_assessment.csv'
 df = pd.read_csv(prefix+path)
+df_all = pd.read_csv(prefix+'S&C REG-DATA Mapping V2.csv')
+df_all = df_all.loc[df_all.Framework=='EU Taxonomy']
 
 df.Sector.replace(
     'Energy ',
@@ -37,7 +27,8 @@ df.Attributes.replace(
     inplace=True
 )
 
-sectors = list(set(df.Sector))
+# sectors = list(set(df.Sector))
+sectors = sorted(list(set(df_all.Sector)))
 
 st.title("EU Taxonomy")
 st.divider()
@@ -52,8 +43,13 @@ This tool aims to simplify, and display a list of data attributes that are neede
 for a given business operating in a set of industries and sectors 
 ''')
 
-categories = st.multiselect('[TBC] type of reporting/assessment',
-                            ['Assesment', 'Reporting', 'Exposure'],
+# cascading select boxes
+# categories = st.multiselect('[TBC] type of reporting/assessment',
+#                             ['Assesment', 'Reporting', 'Exposure'],
+#                             )
+
+geographies = st.multiselect('[TBC] Which geographies do you operate in?',
+                            sorted(list(set(df_all.Geographies))),
                             )
 
 
