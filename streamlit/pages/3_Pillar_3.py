@@ -5,7 +5,7 @@ import os
 from PIL import Image
 
 # sidebar
-image = Image.open(os.getcwd()+'\\streamlit\\imgs\\deloitte-logo-black.png')
+image = Image.open(os.getcwd()+'/streamlit/imgs/deloitte-logo-black.png')
 st.sidebar.image(image)
 st.sidebar.header("S&C Reg Navigator v0.9")
 
