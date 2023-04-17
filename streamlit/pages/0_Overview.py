@@ -2,7 +2,7 @@ import streamlit as st
 import os
 from PIL import Image
 
-image = Image.open(os.getcwd()+'\\streamlit\\imgs\\deloitte-logo-black.png')
+image = Image.open(os.getcwd()+'/streamlit/imgs/deloitte-logo-black.png')
 st.sidebar.image(image)
 st.sidebar.header("S&C Reg Navigator v0.9")
 

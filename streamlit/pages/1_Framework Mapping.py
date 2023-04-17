@@ -9,7 +9,7 @@ from bokeh.plotting import from_networkx
 from bokeh.palettes import Blues5
 
 # sidebar
-image = Image.open(os.getcwd()+'\\streamlit\\imgs\\deloitte-logo-black.png')
+image = Image.open(os.getcwd()+'/streamlit/imgs/deloitte-logo-black.png')
 st.sidebar.image(image)
 st.sidebar.header("S&C Reg Navigator v0.9")
 
