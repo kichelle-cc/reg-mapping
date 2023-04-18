@@ -163,8 +163,9 @@ ms = 10
 
 st.title('Framework Mapping Tool')
 st.divider()
-st.caption('''This app aims to decompose complex regulatory documents into digestable 
-controls and requirements which we can then simplify into physical data attributes''')
+st.caption('''This tool aims to decompose complex regulatory documents into digestable 
+controls and requirements which we can then simplify into a reduced set of physical
+ data attributes''')
 
 # cascading select with filters
 geos = df_all['Geographies'].unique()

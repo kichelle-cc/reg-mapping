@@ -27,8 +27,8 @@ df.Attributes.replace(
     inplace=True
 )
 
-# sectors = list(set(df.Sector))
-sectors = sorted(list(set(df_all.Sector)))
+sectors = list(set(df.Sector))
+# sectors = sorted(list(set(df_all.Sector)))
 
 st.title("EU Taxonomy")
 st.divider()
@@ -48,9 +48,9 @@ for a given business operating in a set of industries and sectors
 #                             ['Assesment', 'Reporting', 'Exposure'],
 #                             )
 
-geographies = st.multiselect('[TBC] Which geographies do you operate in?',
-                            sorted(list(set(df_all.Geographies))),
-                            )
+# geographies = st.multiselect('[TBC] Which geographies do you operate in?',
+#                             sorted(list(set(df_all.Geographies))),
+#                             )
 
 
 options = st.multiselect(
@@ -59,6 +59,7 @@ options = st.multiselect(
     [])
 
 if options:
+    # filtered_df = df_all.loc[df_all.Sector.isin(options)]
     filtered_df = df.loc[df.Sector.isin(options)]
     activities = st.multiselect(
     'What activities do you partake in?',
