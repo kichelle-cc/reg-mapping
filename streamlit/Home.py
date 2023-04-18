@@ -25,13 +25,12 @@ st.divider()
 col1, col2, col3 = st.columns(3)
 col1.metric("Number of Regulations Supported", "2", "2")
 col2.metric("Number of Geographies Supported", df_all['Geographies'].nunique(), "3")
-col3.metric("End to End Attributes Mapped (TBC!) #3", "26%", "4%")
+col3.metric("End to End Attributes Mapped (placeholder!)", "26%", "4%")
 
 # getting started / FAQ section
 st.divider()
 st.subheader('Getting Started ')
-st.write('''This app aims to decompose complex regulatory documents into digestable 
-controls and requirements which we can then simplify into tangible data attributes''')
+st.write('''This app aims to decompose complex regulatory documents into tangible data attributes''')
 
 ### Overview
 st.divider()
@@ -69,5 +68,7 @@ st.caption("""
 ### Pillar 3 
 st.divider()
 st.subheader('Pillar 3')
-st.caption("""TBC...
+st.caption("""In order to comply with Pillar 3 requirements, financial institutions must collect and maintain 
+            a wide range of data related to their risk management practices, capital adequacy, and market risk exposure.
+            This view attempts to consolidate those data requirements and display your necessary attributes.
            """)
