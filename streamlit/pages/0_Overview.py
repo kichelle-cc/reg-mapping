@@ -1,11 +1,9 @@
 import streamlit as st 
 import os
 from PIL import Image
+from utils import sidebar
 
-image = Image.open(os.getcwd()+'/streamlit/imgs/deloitte-logo-black.png')
-st.sidebar.image(image)
-st.sidebar.header("S&C Reg Navigator v0.9")
-
+sidebar()
 prefix=os.getcwd()
 path_to_html = prefix + '/streamlit/imgs/ESG Reg & Data Model Mapping_v7.html'
 # Read file and keep in variable

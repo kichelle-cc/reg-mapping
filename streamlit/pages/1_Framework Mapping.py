@@ -7,11 +7,9 @@ from bokeh.models import (WheelPanTool, BoxZoomTool, ResetTool,  Circle, HoverTo
                           MultiLine, NodesAndLinkedEdges, Plot, TapTool, WheelZoomTool)
 from bokeh.plotting import from_networkx
 from bokeh.palettes import Blues5
+from utils import sidebar
 
-# sidebar
-image = Image.open(os.getcwd()+'/streamlit/imgs/deloitte-logo-black.png')
-st.sidebar.image(image)
-st.sidebar.header("S&C Reg Navigator v0.9")
+sidebar()
 
 
 def out_df(
@@ -169,7 +167,7 @@ controls and requirements which we can then simplify into a reduced set of physi
 
 # cascading select with filters
 geos = df_all['Geographies'].unique()
-geo_choice = st.multiselect('Geography', geos, )
+geo_choice = st.multiselect('What geographies do you operate in?', geos, )
 
 if geo_choice:
     regs = df_all["Framework"].loc[df_all["Geographies"].isin(geo_choice)].unique()

@@ -2,11 +2,10 @@ import streamlit as st
 import pandas as pd
 import os
 from PIL import Image
+from collections import Counter
+from utils import sidebar
 
-# sidebar
-image = Image.open(os.getcwd()+'/streamlit/imgs/deloitte-logo-black.png')
-st.sidebar.image(image)
-st.sidebar.header("S&C Reg Navigator v0.9")
+sidebar()
 
 # load data (moving to df_all via master spreadsheet soon)
 prefix=os.getcwd()+'/streamlit/data/'
@@ -52,64 +51,120 @@ for a given business operating in a set of industries and sectors
 #                             sorted(list(set(df_all.Geographies))),
 #                             )
 
+### ADD INDUSTRY QUESTION HERE
 
-options = st.multiselect(
-    'What sectors does your business operate in?',
-    sorted(sectors),
-    [])
+industry = st.multiselect(
+    'Which industry does your business operate in?',
+    df_all.Industry.unique()
+)
 
-if options:
-    # filtered_df = df_all.loc[df_all.Sector.isin(options)]
-    filtered_df = df.loc[df.Sector.isin(options)]
-    activities = st.multiselect(
-    'What activities do you partake in?',
-    sorted(set(filtered_df['Activity '])),
-    [])
+if industry:
+    options = st.multiselect(
+        'Which EU Taxonomy sectors apply? Please select from the list below.',
+        sorted(sectors))
 
-    if activities:
-        filtered_df = filtered_df.loc[filtered_df['Activity '].isin(activities)]
-        st.write('Great, the objectives you need to meet are:')
-        #Great, the criteria you need to align with are:
+    if options:
+        # filtered_df = df_all.loc[df_all.Sector.isin(options)]
+        filtered_df = df.loc[df.Sector.isin(options)]
+        activities = st.multiselect(
+        'For those EU Taxonomy sectors, what activities do you partake in?',
+        sorted(set(filtered_df['Activity '])))
+
+        if activities:
+            filtered_df = filtered_df.loc[filtered_df['Activity '].isin(activities)]
+            
+            asset_class = st.multiselect(
+                'Finally, select the applicabe asset classes associated with your activities.',
+                df_all.loc[df_all.Industry.isin(industry)].ProductCategories_AssetClasses.unique()
+            )
+            if asset_class:
+                # st.write('Great, your activites need you to contribute to the following criteria and objectives:')
+                st.write('Great, the activities you partake in align to the below taxonomy criteria and objectives:')
+                #Great, the criteria you need to align with are:
 
 
 
-        def check_for_criteria(df, attr, criterion, col):
-            if criterion in list(set(filtered_df[filtered_df['Attributes'] == attribute][col])):
-                return u'\u2713'
-            else: return ''
+                grouped_df = filtered_df.groupby(['Objective', 'SCC/DNSH', 'Attributes']).size().reset_index(name='Count')
 
-        has_ccm = []
-        has_cca = []
-        has_scc = []
-        has_dnsh = []
+                # pivot table to reshape the data
+                output_df = grouped_df.pivot_table(index=['Objective', 'SCC/DNSH'], columns='Attributes', values='Count', aggfunc='sum').reset_index()
 
-        for attribute in filtered_df.Attributes.unique():
-            has_ccm.append(check_for_criteria(filtered_df, attribute, 'CCM', 'Objective'))
-            has_cca.append(check_for_criteria(filtered_df, attribute,  'CCA', 'Objective'))
-            has_scc.append(check_for_criteria(filtered_df,  attribute, 'SCC', 'SCC/DNSH'))
-            has_dnsh.append(check_for_criteria(filtered_df, attribute,  'DNSH', 'SCC/DNSH'))
+                # fill NaN values with empty string
+                output_df = output_df.fillna('')
 
-        criteria_df = pd.DataFrame({
-            'Attribute':filtered_df.Attributes.unique(),
-            'CCM?':has_ccm,
-            'CCA?':has_cca,
-            'SCC?':has_scc,
-            'DNSH?':has_dnsh
-        })
+                # format output table
+                output_df.columns.name = ''
+                output_df = output_df.rename(columns={'SCC/DNSH': 'Type'})
+                # output_df = output_df[['Objective', 'Type', 'Afforestation plan', 'Afforestation plan criteria', 'Afforestation plan contents', 'Forest management plan', 'Forest plan criteria', 'Forest plan contents', 'Activity requirements', 'GHG emissions', 'GHG removal', 'Net balance GHG', 'Long-term (100 years or lifecycle) net balance of GHG emisssions', 'Calculation of climate benefit criteria', 'Business-as-usual information', 'Forest holding size', 'Forest status of the area', 'Activity operator requirements', 'Start date', 'Third party validation', 'Verification subjects', 'Compliance assessment', 'Climate adaptation', 'Water', 'Pollution prevention', 'Biodiversity', 'Climate risk assessment criteria', 'Adaptation solution requirements']]
 
-        def color_df(val):
-            if val == u'\u2713':
-                color='green'
-            else:
-                color='black'
-            return f'color: {color}'
-        
-        st.dataframe(criteria_df.style.applymap(color_df))
+                # display output table
+                # st.write(output_df)
 
-        st.download_button(
-        "Export Fully Mapped Attributes to Excel",
-        filtered_df[['Activity ', 'Objective', 'SCC/DNSH', 'Attributes', 'Values']].to_csv(),
-        "eu_taxonomy_attributes.csv",
-        "text/csv",
-        key='download-csv'
-        )
+
+
+                filtered_df["Attributes"].replace({"CCA/CCM":"CCM/CCA"}, inplace=True)
+                gpt_df = filtered_df.groupby(["Objective", "SCC/DNSH"])["Attributes"].agg({list}).reset_index()
+                gpt_df['dict'] = gpt_df.iloc[:,2].apply(lambda x: Counter(x))
+                gpt_df['Attribute'] = gpt_df['dict'].apply(
+                    lambda y: [f"{v}x {k}" for k,v in sorted(
+                    dict(y).items(),
+                    reverse=True,
+                    key=lambda item: item[1]
+                    )])
+                
+                # print(gpt_df['out'])
+                st.dataframe(gpt_df[['Objective', 'SCC/DNSH', 'Attribute']].sort_values('Objective'), use_container_width=True)#, ascending=False))
+                # print(Counter(gpt_df.iloc[0,2]))
+                # st.write(gpt_df.groupby('list').count())
+                # st.write(filtered_df.groupby(["Objective", "SCC/DNSH"])["Attributes"].agg(list).reset_index())
+
+                # st.write(filtered_df)
+                # st.write(filtered_df.groupby(['Objective', 'Attributes']).first())
+
+                def check_for_criteria(df, attribute, criterion, col):
+                    if criterion in list(set(filtered_df[filtered_df['Attributes'] == attribute][col])):
+                        return u'\u2713'
+                    else: return None
+
+                has_ccm = []
+                has_cca = []
+                has_scc = []
+                has_dnsh = []
+
+                for attribute in filtered_df.Attributes.unique():
+                    has_ccm.append(check_for_criteria(filtered_df, attribute, 'CCM', 'Objective'))
+                    has_cca.append(check_for_criteria(filtered_df, attribute,  'CCA', 'Objective'))
+                    has_scc.append(check_for_criteria(filtered_df,  attribute, 'SCC', 'SCC/DNSH'))
+                    has_dnsh.append(check_for_criteria(filtered_df, attribute,  'DNSH', 'SCC/DNSH'))
+
+                criteria_df = pd.DataFrame({
+                    'Attribute':filtered_df.Attributes.unique(),
+                    'CCM?':has_ccm,
+                    'CCA?':has_cca,
+                    'SCC?':has_scc,
+                    'DNSH?':has_dnsh
+                })
+
+                def color_df(val):
+                    if val == u'\u2713':
+                        color='green'
+                    else:
+                        color='black'
+                    return f'color: {color}'
+                # st.write(criteria_df)
+                # st.write(criteria_df.count())
+                # print(criteria_df)
+                # st.divider()
+                # col1, col2 = st.columns(2)
+                # with col1:
+                #     st.dataframe(criteria_df.style.applymap(color_df))
+                # with col2:
+                #     st.dataframe(criteria_df.style.applymap(color_df))
+
+                st.download_button(
+                "Export Fully Mapped Attributes to Excel",
+                filtered_df[['Activity ', 'Objective', 'SCC/DNSH', 'Attributes', 'Values']].to_csv(),
+                "eu_taxonomy_attributes.csv",
+                "text/csv",
+                key='download-csv'
+                )

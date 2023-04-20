@@ -3,12 +3,9 @@ import pandas as pd
 import numpy as np
 import os 
 from PIL import Image
+from utils import sidebar
 
-# sidebar
-image = Image.open(os.getcwd()+'/streamlit/imgs/deloitte-logo-black.png')
-st.sidebar.image(image)
-st.sidebar.header("S&C Reg Navigator v0.9")
-
+sidebar()
 
 
 st.title('Pillar 3')
@@ -52,7 +49,7 @@ if geo_choice != 'Select a Geography':
         product_choice = st.multiselect('Asset Class', product_categories,max_selections=ms)    
         if product_choice:
             options = st.multiselect(
-                'What category of product does your business offer?',
+                'What category of product does your business offer? (WIP)',
                 sorted(categories),
                 [])
 
@@ -63,7 +60,7 @@ if geo_choice != 'Select a Geography':
                 
                 reported_tbl = df[df['mask'] == True]
                 base = ['Attribute', 'Values']
-                st.write(reported_tbl.reset_index()[base])
+                st.dataframe(reported_tbl.reset_index()[base], use_container_width=True)
                 st.download_button(
                             "Export Fully Mapped Attributes to Excel",
                             reported_tbl.reset_index()[base].to_csv(),

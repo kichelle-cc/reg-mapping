@@ -2,25 +2,21 @@ import streamlit as st
 import pandas as pd
 import os
 from PIL import Image
+from utils import sidebar
 
 st.set_page_config(
     page_title='SC Regs Model',
     layout='wide'
 )
-
+sidebar()
 # get path, useful for deployed app
 prefix=os.getcwd()+'/streamlit/data/'
-
-# sidebar formatting
-image = Image.open(os.getcwd()+'/streamlit/imgs/deloitte-logo-black.png')
-st.sidebar.image(image)
-st.sidebar.header("S&C Reg Navigator v0.9")
 
 # load data
 df_all = pd.read_csv(prefix+'S&C REG-DATA Mapping V2.csv')
 
 # title
-st.title('Sustainability & Climate Regulation Navigatior')
+st.title('Sustainability & Climate Regulation Navigator')
 st.divider()
 col1, col2, col3 = st.columns(3)
 col1.metric("Number of Regulations Supported", "2", "2")

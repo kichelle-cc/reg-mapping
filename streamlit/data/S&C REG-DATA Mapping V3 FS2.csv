@@ -1,0 +1,1188 @@
+﻿Reporting/Assessment Type,NACE,Applicable Sector,Activity,Objective,Attributes,Values
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28, S95.21, S95.22, C33.12",Construction & Real Estate,"Installation, maintenance and repair of energy efficiency equipment",CCM & SCC,Equipment type - Energy efficiency,Insulation additions
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28, S95.21, S95.22, C33.12",Construction & Real Estate,"Installation, maintenance and repair of energy efficiency equipment",CCM & SCC,Equipment type - Energy efficiency,Window type
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28, S95.21, S95.22, C33.12",Construction & Real Estate,"Installation, maintenance and repair of energy efficiency equipment",CCM & SCC,Equipment type - Energy efficiency,Door type 
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28, S95.21, S95.22, C33.12",Construction & Real Estate,"Installation, maintenance and repair of energy efficiency equipment",CCM & SCC,Equipment type - Energy efficiency,Light source type 
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28, S95.21, S95.22, C33.12",Construction & Real Estate,"Installation, maintenance and repair of energy efficiency equipment",CCM & SCC,Equipment type - Energy efficiency,"Heating, ventilation, air-conditioning or water heating-systems with highly efficient technologies"
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28, S95.21, S95.22, C33.12",Construction & Real Estate,"Installation, maintenance and repair of energy efficiency equipment",CCM & SCC,Equipment type - Energy efficiency,Low water and energy using kitchen and sanitary water fittings
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28, S95.21, S95.22, C33.12",Construction & Real Estate,"Installation, maintenance and repair of energy efficiency equipment",CCM & SCC,Equipment type - Energy efficiency,Water flow (L/min)
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28",Construction & Real Estate,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",CCM & SCC,Equipment type - Energy performance,"Zoned thermostats, smart thermostats systems or sensing equipment"
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28",Construction & Real Estate,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",CCM & SCC,Equipment type - Energy performance,"Building automation and control systems, building energy mangement systems, lighting control systems and energy management systems"
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28",Construction & Real Estate,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",CCM & SCC,Equipment type - Energy performance,"Smart meter for gas, heat, cool or electricity"
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28",Construction & Real Estate,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",CCM & SCC,Equipment type - Energy performance,Facade and roofing elements with a solar shading or solar control function
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28",Construction & Real Estate,"Installation, maintenance and repair of renewable energy technologies",CCM & SCC,Installation site,Must be installed on-site as technical building system
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28",Construction & Real Estate,"Installation, maintenance and repair of renewable energy technologies",CCM & SCC,Activity type,"Installation, maintenance, upgrade and repair"
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28",Construction & Real Estate,"Installation, maintenance and repair of renewable energy technologies",CCM & SCC,Maturity type,Solar photovoltaic systems and the acillary technical equipment
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28",Construction & Real Estate,"Installation, maintenance and repair of renewable energy technologies",CCM & SCC,Equipment type - Energy production ,Solar hot water panels and the ancillary technical equipment
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28",Construction & Real Estate,"Installation, maintenance and repair of renewable energy technologies",CCM & SCC,Equipment type - Energy production ,Heat pumps with specific renewable energy target
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28",Construction & Real Estate,"Installation, maintenance and repair of renewable energy technologies",CCM & SCC,Equipment type - Energy production ,Wind turbines and the ancillary technical equipment
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28",Construction & Real Estate,"Installation, maintenance and repair of renewable energy technologies",CCM & SCC,Equipment type - Energy production ,Solar transpired collectors and the ancillary technical equipment
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28",Construction & Real Estate,"Installation, maintenance and repair of renewable energy technologies",CCM & SCC,Equipment type - Energy production ,Thermal or electric energy storage units and the ancillary technical equipment
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28",Construction & Real Estate,"Installation, maintenance and repair of renewable energy technologies",CCM & SCC,Equipment type - Energy production ,High efficiency micro CHP plant
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28",Construction & Real Estate,"Installation, maintenance and repair of renewable energy technologies",CCM & SCC,Equipment type - Energy production ,Heat exchanger/recovery systems
+EU Taxonomy Assessment,"F41, F43",Construction & Real Estate,Renovation of existing buildings,CCA & SCC,Renovation requirements,"Renovation complies with national requirements, implementing EU Directive, for major renovations "
+EU Taxonomy Assessment,"F41.1, F41.2, F43",Construction & Real Estate,Construction of new buildings,CCM & SCC,Controls,Quality control processes are in place during the construction process
+EU Taxonomy Assessment,"F41, F43",Construction & Real Estate,Renovation of existing buildings,CCA/CCM & DNSH,Water appliances,Specified water use attest
+EU Taxonomy Assessment,"F41, F43",Construction & Real Estate,Renovation of existing buildings,CCA/CCM & DNSH,Water appliances,Technical specifications
+EU Taxonomy Assessment,"F41.1, F41.2, F43",Construction & Real Estate,Construction of new buildings,CCA/CCM & DNSH,Activity requirements,"Specific requirements (Measures are taken to reduce noise, dust and pollutant emissions.)"
+EU Taxonomy Assessment,"F41.1, F41.2, F43",Construction & Real Estate,Construction of new buildings,CCA/CCM & DNSH,Biodiversity,Appendix D
+EU Taxonomy Assessment,"F41.1, F41.2, F43",Construction & Real Estate,Construction of new buildings,CCA/CCM & DNSH,Building deisgn and construction techniques,"Specific criteria (Deisgn and techniques support circularity and demonstrate recource efficiency, adaptability, flexibility and dismantlble to enable reuse and recycling)"
+EU Taxonomy Assessment,"F41.1, F41.2, F43",Construction & Real Estate,Construction of new buildings,CCM & SCC,Building type,Residential building or not
+EU Taxonomy Assessment,"F41.1, F41.2, F43",Construction & Real Estate,Construction of new buildings,CCA & DNSH,Building use,"Not dedicated to extraction, storage, transport or manufacture of fossil fuels"
+EU Taxonomy Assessment,"F41.1, F41.2, F43",Construction & Real Estate,Construction of new buildings,CCM & DNSH,Climate Adaptation,Appendix A
+EU Taxonomy Assessment,"F41.1, F41.2, F43",Construction & Real Estate,Construction of new buildings,CCA & SCC,Climate Adaptation (Generic adaptation criteria),Generic Values
+EU Taxonomy Assessment,"F41.1, F41.2, F43",Construction & Real Estate,Construction of new buildings,CCA/CCM & DNSH,Construction investigation,Investigation for potential contaminants
+EU Taxonomy Assessment,"F41.1, F41.2, F43",Construction & Real Estate,Construction of new buildings,CCA/CCM & DNSH,Construction location,Potentially contaminated site (brownfield site) or not
+EU Taxonomy Assessment,"F41.1, F41.2, F43",Construction & Real Estate,Construction of new buildings,CCA/CCM & DNSH,Construction location,Specific land-location requirements
+EU Taxonomy Assessment,"F41.1, F41.2, F43",Construction & Real Estate,Construction of new buildings,CCM & SCC,Energy demand (PED),PED do not exceed the thershold in nearly zero-energy building
+EU Taxonomy Assessment,"F41.1, F41.2, F43",Construction & Real Estate,Construction of new buildings,CCA & DNSH,Energy demand (PED),PED do not exceed the thershold in nearly zero-energy building
+EU Taxonomy Assessment,"F41.1, F41.2, F43",Construction & Real Estate,Construction of new buildings,CCM & SCC,EPC,Energy Performane certification
+EU Taxonomy Assessment,"F41.1, F41.2, F43",Construction & Real Estate,Construction of new buildings,CCA & DNSH,EPC,Energy Performane certification
+EU Taxonomy Assessment,"F41.1, F41.2, F43",Construction & Real Estate,Construction of new buildings,CCM & SCC,"Global Warming Potential (Substantial Contribution Criteria, Mitigation)",The life-cycle Global Warming Potential (GWP) of the building resulting from the construction has been calculated 
+EU Taxonomy Assessment,"F41.1, F41.2, F43",Construction & Real Estate,Construction of new buildings,CCA/CCM & DNSH,Pollution of building components and materials,"Emit less than 0,001 mg of other categories 1A and 1B carcinogenic volatile organic compounds per m³ of material or component"
+EU Taxonomy Assessment,"F41.1, F41.2, F43",Construction & Real Estate,Construction of new buildings,CCA/CCM & DNSH,Pollution of building components and materials,"Emit less than 0,06 mg of formaldehyde per m³ of material or component"
+EU Taxonomy Assessment,"F41.1, F41.2, F43",Construction & Real Estate,Construction of new buildings,CCA/CCM & DNSH,Pollution prevention,Appendix C
+EU Taxonomy Assessment,"F41.1, F41.2, F43",Construction & Real Estate,Construction of new buildings,CCM & SCC,Size (Building Size),Larger than 5000m2
+EU Taxonomy Assessment,"F41.1, F41.2, F43",Construction & Real Estate,Construction of new buildings,CCM & SCC,Testing (Quality Testing),Testing for air-tightness and thermal integrity performed
+EU Taxonomy Assessment,"F41.1, F41.2, F43",Construction & Real Estate,Construction of new buildings,CCA/CCM & DNSH,Waste generation,Limit waste generation
+EU Taxonomy Assessment,"F41.1, F41.2, F43",Construction & Real Estate,Construction of new buildings,CCA/CCM & DNSH,Waste handling,Specific criteria (Taking best available techniques into account and using selective demolition to enable removal and safe handling of hazardous substances and facilitate reuse and high-quality recycling)
+EU Taxonomy Assessment,"F41.1, F41.2, F43",Construction & Real Estate,Construction of new buildings,CCA/CCM & DNSH,Waste recycling,"At least 70 % of the waste genereted on the construction site is prepared for reuse, recycling and other material recovery"
+EU Taxonomy Assessment,"F41.1, F41.2, F43",Construction & Real Estate,Construction of new buildings,CCA/CCM & DNSH,Water,Appendix B
+EU Taxonomy Assessment,"F41.1, F41.2, F43",Construction & Real Estate,Construction of new buildings,CCA/CCM & DNSH,Water ,Appendix E
+EU Taxonomy Assessment,"F41.1, F41.2, F43",Construction & Real Estate,Construction of new buildings,CCA/CCM & DNSH,Water appliances,Specified water use attest
+EU Taxonomy Assessment,"F41.1, F41.2, F43",Construction & Real Estate,Construction of new buildings,CCA/CCM & DNSH,Water appliances,Technical specifications
+EU Taxonomy Assessment,"F41, F43",Construction & Real Estate,Renovation of existing buildings,CCM & SCC,Energy demand (PED),PED reduction of at least 30%
+EU Taxonomy Assessment,"F41, F43",Construction & Real Estate,Renovation of existing buildings,CCA/CCM & DNSH,Water appliances,Water appliance installation
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28, S95.21, S95.22, C33.12",Construction & Real Estate,"Installation, maintenance and repair of energy efficiency equipment",CCM & SCC,Activity description (Activity Type),Activity consists of a specified renovation activity in the DA
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28, S95.21, S95.22, C33.12",Construction & Real Estate,"Installation, maintenance and repair of energy efficiency equipment",CCM & SCC,Activity requirements (Component and system requirement),Comply with minimum requirements set for individual components and systems
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28, S95.21, S95.22, C33.12",Construction & Real Estate,"Installation, maintenance and repair of energy efficiency equipment",CCM & SCC,Energy efficiency level,Rated in the top 2 categories
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28, S95.21, S95.22, C33.12",Construction & Real Estate,"Installation, maintenance and repair of energy efficiency equipment",CCA/CCM & DNSH,Thermal insulation,Specific requirements for adding thermal insulation to an existing building envelop
+EU Taxonomy Assessment,L68,Construction & Real Estate,Acquisition and ownership of buildings,CCM & SCC,Building type,"Residential, non-residential, and large non-residential buildings"
+EU Taxonomy Assessment,L68,Construction & Real Estate,Acquisition and ownership of buildings,CCM & SCC,Building year,Built before/after 31. dec 2020
+EU Taxonomy Assessment,"F41, F43",Construction & Real Estate,Renovation of existing buildings,CCM & SCC,Activity requirements,Major rennovation requirements 
+EU Taxonomy Assessment,"F41, F43",Construction & Real Estate,Renovation of existing buildings,CCM & DNSH,Climate Adaptation,Appendix A
+EU Taxonomy Assessment,"F41, F43",Construction & Real Estate,Renovation of existing buildings,CCA/CCM & DNSH,Building type,Residential building or not
+EU Taxonomy Assessment,"F41, F43",Construction & Real Estate,Renovation of existing buildings,CCA/CCM & DNSH,Water  ,Appendix E
+EU Taxonomy Assessment,"F41, F43",Construction & Real Estate,Renovation of existing buildings,CCA/CCM & DNSH,Waste rycycling,"At least 70 % of the waste genereted on the construction site is prepared for reuse, recycling and other material recovery"
+EU Taxonomy Assessment,"F41, F43",Construction & Real Estate,Renovation of existing buildings,CCA/CCM & DNSH,Waste generation,Limit waste generation
+EU Taxonomy Assessment,"F41, F43",Construction & Real Estate,Renovation of existing buildings,CCA/CCM & DNSH,Waste handling,Specific criteria
+EU Taxonomy Assessment,"F41, F43",Construction & Real Estate,Renovation of existing buildings,CCA/CCM & DNSH,Building deisgn and construction techniques,Specific criteria
+EU Taxonomy Assessment,"F41, F43",Construction & Real Estate,Renovation of existing buildings,CCA/CCM & DNSH,Pollution prevention,Appendix C
+EU Taxonomy Assessment,"F41, F43",Construction & Real Estate,Renovation of existing buildings,CCA/CCM & DNSH,Pollution of building components and materials,"Emit less than 0,06 mg of formaldehyde per m³ of material or component"
+EU Taxonomy Assessment,"F41, F43",Construction & Real Estate,Renovation of existing buildings,CCA/CCM & DNSH,Pollution of building components and materials,"Emit less than 0,001 mg of other categories 1A and 1B carcinogenic volatile organic compounds per m³ of material or component"
+EU Taxonomy Assessment,"F41, F43",Construction & Real Estate,Renovation of existing buildings,CCA/CCM & DNSH,Emission measures,Measures are taken to reduce emissions
+EU Taxonomy Assessment,"F41, F43",Construction & Real Estate,Renovation of existing buildings,CCA & DNSH,Building use,"Not dedicated to extraction, storage, transport or manufacture of fossil fuels"
+EU Taxonomy Assessment,"F41, F43",Construction & Real Estate,Renovation of existing buildings,CCA & SCC,Climate Adaptation,Generic Values
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28, S95.21, S95.22, C33.12",Construction & Real Estate,"Installation, maintenance and repair of energy efficiency equipment",CCM & DNSH,Water,Appendix E
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28, S95.21, S95.22, C33.12",Construction & Real Estate,"Installation, maintenance and repair of energy efficiency equipment",CCM & DNSH,Climate Adaptation,Appendix A
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28, S95.21, S95.22, C33.12",Construction & Real Estate,"Installation, maintenance and repair of energy efficiency equipment",CCA/CCM & DNSH,Pollution prevention,Appendix C
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28, S95.21, S95.22, C33.12",Construction & Real Estate,"Installation, maintenance and repair of energy efficiency equipment",CCA & SCC,Climate Adaptation,Generic Values
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28, S95.21, S95.22, C33.12",Construction & Real Estate,"Installation, maintenance and repair of energy efficiency equipment",CCA & DNSH,Building use,"Not dedicated to extraction, storage, transport or manufacture of fossil fuels"
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28",Construction & Real Estate,"Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",CCM & SCC,Activity description,"Installation, maintenance or repair of charging stations for electric vehicles."
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28",Construction & Real Estate,"Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",CCM & DNSH,Climate Adaptation,Appendix A
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28",Construction & Real Estate,"Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",CCA & DNSH,Building use,"Not dedicated to extraction, storage, transport or manufacture of fossil fuels"
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28",Construction & Real Estate,"Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",CCA & SCC,Climate Adaptation,Generic Values
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28",Construction & Real Estate,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",CCM & SCC,Activity description,Activity consists of a specified energy performance activity in the DA
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28",Construction & Real Estate,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",CCM & DNSH,Climate Adaptation,Appendix A
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28",Construction & Real Estate,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",CCA & SCC,Climate Adaptation,Generic Values
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28",Construction & Real Estate,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",CCA & DNSH,Building use,"Not dedicated to extraction, storage, transport or manufacture of fossil fuels"
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28",Construction & Real Estate,"Installation, maintenance and repair of renewable energy technologies",CCM & SCC,Activity description,Activity consists of a specified renewable energy technologies activity in the DA
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28",Construction & Real Estate,"Installation, maintenance and repair of renewable energy technologies",CCM & DNSH,Climate Adaptation,Appendix A
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28",Construction & Real Estate,"Installation, maintenance and repair of renewable energy technologies",CCA & SCC,Climate Adaptation,Generic Values
+EU Taxonomy Assessment,"F42, F43, M71, C16, C17, C22, C23, C25, C27, C28",Construction & Real Estate,"Installation, maintenance and repair of renewable energy technologies",CCA & DNSH,Building use,"Not dedicated to extraction, storage, transport or manufacture of fossil fuels"
+EU Taxonomy Assessment,L68,Construction & Real Estate,Acquisition and ownership of buildings,CCM & SCC,EPC,Energy performane certification
+EU Taxonomy Assessment,L68,Construction & Real Estate,Acquisition and ownership of buildings,CCM & SCC,Building ranking,Within the top 15% of the national or regional building stock expressed as operational Primary Energy Demand (PED)
+EU Taxonomy Assessment,L68,Construction & Real Estate,Acquisition and ownership of buildings,CCM & SCC,Building characteristics,Building meets criteria in Section 7.1 of this Annex
+EU Taxonomy Assessment,L68,Construction & Real Estate,Acquisition and ownership of buildings,CCM & SCC,Energy monitoring,Energy performance monitoring and assessment
+EU Taxonomy Assessment,L68,Construction & Real Estate,Acquisition and ownership of buildings,CCM & DNSH,Climate Adaptation,Appendix A
+EU Taxonomy Assessment,L68,Construction & Real Estate,Acquisition and ownership of buildings,CCA & SCC,Climate Adaptation,Generic Values
+EU Taxonomy Assessment,L68,Construction & Real Estate,Acquisition and ownership of buildings,CCA & DNSH,Building use,"Not dedicated to extraction, storage, transport or manufacture of fossil fuels"
+EU Taxonomy Assessment,L68,Construction & Real Estate,Acquisition and ownership of buildings,CCA & DNSH,EPC,Energy performane certification
+EU Taxonomy Assessment,L68,Construction & Real Estate,Acquisition and ownership of buildings,CCA & DNSH,Building ranking,Within the top 30% of the national or regional building stock expressed as operational Primary Energy Demand (PED)
+EU Taxonomy Assessment,L68,Construction & Real Estate,Acquisition and ownership of buildings,CCA & DNSH,Energy demand (PED),PED do not exceed the threshold in nearly zero-energy building
+EU Taxonomy Assessment,K65.12,Finance & Insurance,Non-life insurance: underwriting of climate-related perils,CCA & SCC,Insurance odelling techniques,"State-of-the-art modelling techniques which reflects climate change risks, not only relies on historical trends and integrate forward-looking scenarios"
+EU Taxonomy Assessment,K65.12,Finance & Insurance,Non-life insurance: underwriting of climate-related perils,CCA & SCC,Insurance type,Public disclosure of how climate change risks are considered in the insurance activity
+EU Taxonomy Assessment,K65.12,Finance & Insurance,Non-life insurance: underwriting of climate-related perils,CCA & SCC,Insurance conditions,Condition for the insurance coverage of risk
+EU Taxonomy Assessment,K65.12,Finance & Insurance,Non-life insurance: underwriting of climate-related perils,CCA & SCC,Insurance coverage renewal or maintenance,Information from insurer on conditions where insurance activity coverage could be renewed or maintained.
+EU Taxonomy Assessment,K65.12,Finance & Insurance,Non-life insurance: underwriting of climate-related perils,CCA & SCC,Risk-based reward products,Insurance activity products offer risk-based rewards for preventive actions taken by policyholders.
+EU Taxonomy Assessment,K65.12,Finance & Insurance,Non-life insurance: underwriting of climate-related perils,CCA & SCC,Policyholder information measures,Distribution strategy covering measures ensuring information to policyholders on relevance of preventive measures.
+EU Taxonomy Assessment,K65.12,Finance & Insurance,Non-life insurance: underwriting of climate-related perils,CCA & SCC,Coverage offer,Insurance coverage of climate-related perils based on policyholders requirements.
+EU Taxonomy Assessment,K65.12,Finance & Insurance,Non-life insurance: underwriting of climate-related perils,CCA & SCC,Specific risk transfer solution,Specific risk transfer solution depending on customer demands and needs
+EU Taxonomy Assessment,K65.12,Finance & Insurance,Non-life insurance: underwriting of climate-related perils,CCA & SCC,Data sharing of activites,"Insurer’s activity loss data is made available, free of charge, to public authorities for analytical research."
+EU Taxonomy Assessment,K65.12,Finance & Insurance,Non-life insurance: underwriting of climate-related perils,CCA & SCC,Standards for claims,"Claims are processed fairly to customers, in line with high handling standards and timely within the law."
+EU Taxonomy Assessment,K65.12,Finance & Insurance,Non-life insurance: underwriting of climate-related perils,CCA & DNSH,Climate Mitigation,The activity does not include insurance of fossil fuels activities or assets dedicated to such purposes.
+EU Taxonomy Assessment,K65.20,Finance & Insurance,Reinsurance,CCA & SCC,Reinsurance modelling techniques,"State-of-the-art modelling techniques which properly reflects premium level and protection actions, do not rely on historical events and integrate forward-looking scenarios."
+EU Taxonomy Assessment,K65.20,Finance & Insurance,Reinsurance,CCA & SCC,Disclosure of climate-related perils,Public disclosure how risks from climate-related perils are considered in the reinsurance activity
+EU Taxonomy Assessment,K65.20,Finance & Insurance,Reinsurance,CCA & SCC,Reinsurance compliance Criteria,Engagement between reinsurer and insurer on possible reinsurance solutions 
+EU Taxonomy Assessment,K65.20,Finance & Insurance,Reinsurance,CCA & SCC,Reinsurance compliance Criteria,Engagement between reinsurer and insurer on technical advice for insurer to price the coverage for risks
+EU Taxonomy Assessment,K65.20,Finance & Insurance,Reinsurance,CCA & SCC,Coverage offer,Offer coverage for climate-related perils when demanded and needed by insurer’s clients
+EU Taxonomy Assessment,K65.20,Finance & Insurance,Reinsurance,CCA & SCC,Specific risk transfer solution,Specific risk transfer solution depending on customer demands and needs
+EU Taxonomy Assessment,K65.20,Finance & Insurance,Reinsurance,CCA & SCC,Data sharing of activites,"Insurer’s activity loss data is made available, free of charge, to public authorities for analytical research."
+EU Taxonomy Assessment,K65.20,Finance & Insurance,Reinsurance,CCA & SCC,Standards for claims,"Claims are processed fairly to customers, in line with high handling standards and timely within the law."
+EU Taxonomy Assessment,K65.20,Finance & Insurance,Reinsurance,CCA & DNSH,Climate Mitigation,The reinsurance activity does not cover cession of insurance of fossil fuels activities or assets dedicated to such purposes.
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Duration of afforestation plan ,Duration of at least five years or the minimum period prescribed in national law
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Forest Definition,Forest Defintion
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Start date,Start date
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Time for development of afforestation plan,Developed prior to the start and continuosly updated
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Requirements for afforestation plan,Requirements by the national law relating to enviromental impact assessment of afforestation 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Requirements for afforestation plan,Activity complies with criteria 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Information requirements,Requirements for detailed information in afforestation plan
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Information requirements,Impact on pre-existing carbon stocks
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Duration of forest management plan,Duration of at least 10 years
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Content requirements,Specific information requirements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirements,Complies with best afforestation practices in national law
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirements,Complies with regulation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirements,Complies with UNFCCC guidelines
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirements,No degradation of land with high carbon stock
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirements,Complies with dd. obligation and legality requirements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Validation,Provide monitoring that ensures correctness of the information in the plan
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Compliant with requirements ,Specific requirements at forest sourcing area level
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Baseline of GHG emissions,Baseline of GHG emissions
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Net balance of GHG emissions and removals,Net balance of GHG is lower than a baseline over a period of 30 years
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Alignment with Directive,Considerations of long-term climate benefits
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Long-term net balance of GHG emisssions,Long-term net balance of GHG emissions are lower than the baseline
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Analysis requirements,Analysis complient with guidelines
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Requirements for calculation,Specific calculaton criterias
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Forest holding size,Under 13ha 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Forest status of the area,"Classified in the permanent forest estate, classified as a protected area, or is subject to a guarantee ensuring it will remain a forest"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Requirements for the activity operator,Specific operator requirements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Thirdparty validation,Within two years after the beginning of the activity and every 10 years thereafter
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Verification subjects,"Relevant national competent authorities, or independent third-party certifier"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Compliance assessment,Specific criteria for group assessment
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Subject area,Area that are subject to a forest management plan or an equivalent
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Start date,Start date
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Duration of forest management plan,Period of at least 10 years or more
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Content requirements,Specific information requirements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Sustainable forest management requirements,Compliance with national definition of sustainable forest management
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Sustainable forest management requirements,Compliance with Forest Europe definition of sustainable forest amangement and guidelines
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Sustainable forest management requirements,Compliance with forest sustainability criterias
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirements,No degradation of land with high carbon stock
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirements,Compliance with dd. obligation and legality requirements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Compliant with requirements ,Specific requirements at forest sourcing area level
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Baseline of GHG emissions,Baseline of GHG emissions
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Net balance of GHG emissions,Net balance of GHG is lower than a baseline over a period of 30 years
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Alignment with Directive,Considerations of long-term climate benefits
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Long-term net balance of GHG emisssions,Long-term net balance of GHG emissions are lower than the baseline
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Analysis requirements,Analysis complient with guidelines
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Requirements for calculation,Specific calculaton criterias
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Forest holding size,Under 13ha 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Forest status of the area,"Classified in the permanent forest estate, classified as a protected area, or is subject to a guarantee ensuring it will remain a forest"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Requirements for the activity operator,Specific operator requirements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Thirdparty validation,Within two years after the beginning of the activity and every 10 years thereafter
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Verification subjects,"Relevant national competent authorities, or independent third-parti certifier"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Compliance assessment,Specific criteria for group assessment
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Subject area,Area that are subject to a forest management plan or an equivalent
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Start date,Start date
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Duration of forest management plan,Period of at least 10 years or more
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Information requirements,Specific information requirements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Sustainable forest management requirements,Compliance with national definition of sustainable forest management
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Sustainable forest management requirements,Compliance with Forest Europe definition of sustainable forest amangement and guidelines
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Sustainable forest management requirements,Compliance with forest sustainability criterias
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirements,No degradation of land with high carbon stock
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirements,Compliance with dd. obligation and legality requirements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirements,Forest Management plan or instrument provides for monitoring
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Compliant with requirements ,Specific requirements at forest sourcing area level
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Baseline of GHG emissions,Baseline of GHG emissions
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Net balance of GHG emissions,Net balance of GHG is lower than a baseline over a period of 30 years
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Alignment with Directive,Considerations of long-term climate benefits
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Long-term net balance of GHG emisssions,Long-term net balance of GHG emissions are lower than the baseline
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Analysis requirements,Analysis complient with guidelines
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Requirements for calculation,Specific calculaton criterias
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Forest holding size,Under 13ha 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Forest status of the area,"Classified in the permanent forest estate, classified as a protected area, or is subject to a guarantee ensuring it will remain a forest"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Requirements for the activity operator,Specific operator requirements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Thirdparty validation,Within two years after the beginning of the activity and every 10 years thereafter
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Verification subjects,"Relevant national competent authorities, or independent third-parti certifier"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Compliance assessment,Specific criteria for group assessment
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Subject area,Area that are subject to a forest management plan or an equivalent
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Start date,Start date
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Duration of forest management plan,Period of at least 10 years or more
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Information requirements,Specific information requirements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Primary designated management objective,"Protection of soil and water, conservation of biodiversity or social services "
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Content requirements,Analysis of specific impact on conservation objectives
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Sustainable forest management requirements,Compliance with national definition of sustainable forest management
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Sustainable forest management requirements,Compliance with Forest Europe definition of sustainable forest amangement and guidelines
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Sustainable forest management requirements,Compliance with forest sustainability criterias
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirements,No degradation of land with high carbon stock
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirements,Compliance with dd. obligation and legality requirements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirements,Forest Management plan or instrument provides for monitoring
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Compliant with requirements ,Specific requirements at forest sourcing area level
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Baseline of GHG emissions,Baseline of GHG emissions
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Net balance of GHG emissions,Net balance of GHG is lower than a baseline over a period of 30 years
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Alignment with Directive,Considerations of long-term climate benefits
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Long-term net balance of GHG emisssions,Long-term net balance of GHG emissions are lower than the baseline
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Analysis requirements,Analysis complient with guidelines
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Requirements for calculation,Specific calculaton criterias
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Forest holding size,Under 13ha 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Forest status of the area,"Classified in the permanent forest estate, classified as a protected area, or is subject to a guarantee ensuring it will remain a forest"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Thirdparty validation,Specific operator requirements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Compliance verification,Within two years after the beginning of the activity and every 10 years thereafter
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Verification subjects,"Relevant national competent authorities, or independent third-parti certifier"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Compliance assessment,Specific criteria for group assessment
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Pesticides,The use of pesticides is reduced
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Fertiliser and manure,Minimises use of fertiliser and does not use manure
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Measures to avoid spcific ingredients,Documented and verifiable measures to avoid use of specific ingredients
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Pollution of water and soil,Prevention of pollution of water and soil
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Specific area requirements,Specific area requirements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Specific area requirements,No conversion of habitats sensitive to biodiversity loss or with conservation value
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Afforestation and forest management plan,Include provisions for maintaining and anhancing biodiversity
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Afforestation and forest management plan,Specific provision requirements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirement,Specific activity requirement
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirement,Provides something that increases the level of resilience to physical climate risk
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirement,Provides something that contributes to adaption efforts
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Duration of afforestation plan ,Duration of at least five years or the minimum period prescribed in national law
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Afforestation plan,Specific content requitements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Duration of forest management plan,Duration of at least 10 years
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Forest management plan,Specific content requitements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Afforestation practices,Follows the best afforestation practices
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirements,No degradation of land with high carbon stock
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirements,Complies with dd. obligation and legality requirements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Afforestation plan,Provides monitoring which ensures the correctness
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Thirdparty validation,Within two years after the beginning of the activity and every 10 years thereafter
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Verification subjects,"Relevant national competent authorities, or independent third-party certifier"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Compliance assessment,Specific criteria for group assessment
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirement,The activity to not result in significant reduction og sustainability supply of primary forest biomass
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Pesticides,The use of pesticides is reduced
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Fertiliser and manure,Minimises use of fertiliser and does not use manure
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Measures to avoid spcific ingredients,Documented and verifiable measures to avoid use of specific ingredients
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Pollution of water and soil,Prevention of pollution of water and soil
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Specific area requirements,Specific area requirements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Specific area requirements,No conversion of habitats sensitive to biodiversity loss or with conservation value
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Afforestation and forest management plan,Include provisions for maintaining and anhancing biodiversity
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Afforestation and forest management plan,Specific provision requirements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirement,Specific activity requirement
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirement,Provides something that increases the level of resilience to physical climate risk
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirement,Provides something that contributes to adaption efforts
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Area requirement,Area is subject to a forest management plan
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Duration of forest management plan,Duration of at least 10 years
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Forest management plan,Specific content requitements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Sustainable forest management,Sustainability is ensured by following specific approaches
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirements,No degradation of land with high carbon stock
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirements,Complies with dd. obligation and legality requirements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Afforestation plan,Provides monitoring which ensures the correctness
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Thirdparty validation,Within two years after the beginning of the activity and every 10 years thereafter
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Verification subjects,"Relevant national competent authorities, or independent third-party certifier"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Compliance assessment,Specific criteria for group assessment
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirement,The activity to not result in significant reduction og sustainability supply of primary forest biomass
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Pesticides,The use of pesticides is reduced
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Fertiliser and manure,Minimises use of fertiliser and does not use manure
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Measures to avoid spcific ingredients,Documented and verifiable measures to avoid use of specific ingredients
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Pollution of water and soil,Prevention of pollution of water and soil
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Specific area requirements,Specific area requirements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Specific area requirements,No conversion of habitats sensitive to biodiversity loss or with conservation value
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Afforestation and forest management plan,Include provisions for maintaining and anhancing biodiversity
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Afforestation and forest management plan,Specific provision requirements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirement,Specific activity requirement
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirement,Provides something that increases the level of resilience to physical climate risk
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirement,Provides something that contributes to adaption efforts
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Area requirement,Area is subject to a forest management plan
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Duration of forest management plan,Duration of at least 10 years
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Forest management plan,Specific content requitements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Sustainable forest management,Sustainability is ensured by following specific approaches
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirements,No degradation of land with high carbon stock
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirements,Complies with dd. obligation and legality requirements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Afforestation plan,Provides monitoring which ensures the correctness
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Thirdparty validation,Within two years after the beginning of the activity and every 10 years thereafter
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Verification subjects,"Relevant national competent authorities, or independent third-party certifier"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Compliance assessment,Specific criteria for group assessment
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirement,The activity to not result in significant reduction og sustainability supply of primary forest biomass
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Pesticides and fertiliser,Activity do not use pesticides or fertiliser
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Measures to avoid spcific ingredients,Documented and verifiable measures to avoid use of specific ingredients
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Pollution of water and soil,Prevention of pollution of water and soil
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Specific area requirements,Specific area requirements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Specific area requirements,No conversion of habitats sensitive to biodiversity loss or with conservation value
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Afforestation and forest management plan,Include provisions for maintaining and anhancing biodiversity
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Afforestation and forest management plan,Specific provision requirements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirement,Specific activity requirement
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirement,Provides something that increases the level of resilience to physical climate risk
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirement,Provides something that contributes to adaption efforts
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Area requirement,Area is subject to a forest management plan
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Duration of forest management plan,Duration of at least 10 years
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Forest management plan,Specific content requitements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Primary designated management objective,"Protection of soil and water, conservation of biodiversity or social services "
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Forest management plan,Promotes biodiversity-friendly practices that enhance forests’ natural processes
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Content requirements,Analysis of specific impact on conservation objectives
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Sustainable forest management requirements,Compliance with national definition of sustainable forest management
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Sustainable forest management requirements,Compliance with Forest Europe definition of sustainable forest amangement and guidelines
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Sustainable forest management requirements,Compliance with forest sustainability criterias
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirements,No degradation of land with high carbon stock
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirements,Compliance with dd. obligation and legality requirements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Thirdparty validation,Within two years after the beginning of the activity and every 10 years thereafter
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Verification subjects,"Relevant national competent authorities, or independent third-party certifier"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Compliance assessment,Specific criteria for group assessment
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,The area is covered by a restoration plan or wetland management plan,Covered by restoration plan
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Requirement for a restoration plan ,Specific requirements for restoration plan for hydrological and pedological condition
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Start Date,Start Date
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emissions and removals generated over 30 years is lower than a baseline of business as usual,GHG emission are lower than baseline
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Long term average lower than longterm baseline,GHG emission are lower than baseline longterm
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Calculations of climate benefits complies with specific criteria,Specific requirements for calculations
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Wetland status of the area is guaranteed,Specific requirements for the area of the activity
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,"Future updates to restoration plan, continue to seek climate benefits.",Future updates continue to comply
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Commitment to compensate any reduction in the benefit determined.,Compensation commitment
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,"Two years after beginning and every 10 years thereafter, compliance is verified",Verified by third party
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Peat extraction,Peat extraction minimised
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Use of pesticides,The use of pesticides are minimised
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Use of fertilisers and manure,Minimise the use of fertilisers and manure
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Avoid listed active ingredients,Avoid listed active ingredients
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Pollution of water and soil,Pollution of water and soil is prevented
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Protected conservations or habitats,"Protected conservations or habitats, designated by the national competen authority"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Maintaining and enhancing biodiveristy,Maintaining and enhancing biodiveristy in accordance with national and local provision
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,The area is covered by a restoration plan or wetland management plan,Covered by restoration plan
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Requirement for a restoration plan ,Specific requirements for restoration plan for hydrological and pedological condition
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Start Date,Start Date
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,"Two years after beginning and every 10 years thereafter, compliance is verified",Verified by third party
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,renewable technology,activity manufactures renewable energy technology
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Production of hydrogen,activity manufactures equipment for production of hydrogen
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Tailpipe CO2 emissions,Tailpipe CO2 emissions/km
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Tailpipe CO2 emissions for Vessels,tailpipe (g of CO2 per tonne-mile) using IMO EEDI
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Track type,Rail track type
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Engine Type,Engine Type
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Vehicle Type,Vechicle Type
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Bodywork Classification Type,Bodywork Classification Typ
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Start Date,Start Date
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Exhaust requirement,EURO VI Standard
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Specific emissions of CO2,Specific emissions of CO2 = 0 or < 50gCO2/km 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Low-emission heavey-duty vehicles,"Heavy-duty vehicles exceeding 7,5 tonnes accordig "
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Battery type,Battery is rechargable
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Battery recyling,Recycles end-of-life batteries
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Product type,Product type
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Energy Efficiency,U-value (W/m2K)
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Heat transfer,Lamda-value (W/mK)
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Energy Efficiency Class,Energy Efficiency Class
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emissions production,CO2e/kWh
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emission calculated standard,Commission Recomendation 2013/179/EU(96)
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,ISO Standard,ISO 14067:2018(97)
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,ISO Standard,ISO 14064-1:2018(98)
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Start Date,Start Date
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Product assessment type,Product assessment type
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Third party verification,verified by third party
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Cement type,Cement type
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emissions,GHG emission for cement (tCO2 / tonne)
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Captured CO2,CO2 captured for storage is transported and stored underground
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,aluminium type,Primary or secondary aluminium
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emissions,GHG emissions of aluminium manufactured
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Carbon Intensity,Carbon Intensity for indirect GHG emissions
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Electricity consumption,Electricity consumption of manufacturing process
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Start Date,Start Date
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Type,Iron or steel type
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emissions,GHG emissions of production
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste gases,Waste gases reduction
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Steel scrap used,Steel scrap input
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Captured CO2,CO2 captured for storage is transported and stored underground
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emissions,Life-cycle GHG emissions of hydrogen manufacturing
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emissions,Life-cycle GHG emissions of hydrogen based synthetic fuels
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG quantification methodology,Recommendation 2013/179/EU or ISO 14067:2018 or ISO 14064-1:2018
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG quantification verification,verified in line with article 30 where applicable or by an independent party
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Third party verification,verified by third party
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Captured CO2,CO2 captured for storage is transported and stored underground
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emissions,GHG emissions from carbon black production (tCO2)
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emissions,GHG emissions from soda ash production (tCO2)
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,electricity consumption,Electricity consumption for electrolysis and chlorine treatment
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emissions,average life-cycle GHG emissions (C02 e/kWh)
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG quantification methodology,Recommendation 2013/179/EU or ISO 14067:2018 or ISO 14064-1:2018
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Third party verification,verified by third party
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Chemical type,Organic chemical type
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Manufacturing type,Wholly or partially produced from renewable feedstock
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emissions,life-cycle GHG emissions (tCO2) 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emissions,GHG emission of equivalent fossil fuel feedstock manufacturing
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG quantification methodology,Recommendation 2013/179/EU or ISO 14067:2018 or ISO 14064-1:2018
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG quantification verification,verified by third party
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,biomass compliance,Agricultural biomass complies with criteria in article 29 paragraphs 2 to 5.
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,biomass compliance,Forest biomass complies with criteria in article 29 paragraphs 6 to 7
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Hydrogen compliance,produced from hydrogen 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste water,recovered from waste water
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emissions,GHG emissions from manufacture of nitric acid (tCO2)
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Manufacturing type,mechanical recycling/ chemical recycling /renewable feedstock
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emissions,Life-cycle GHG emissions (excluding calculated credits from production of fuels)
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG quantification methodology,Recommendation 2013/179/EU or ISO 14067:2018 or ISO 14064-1:2018
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emissions,GHG emission of equivalent fossil fuel feedstock manufacturing
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Biomass,Agricultural biomass complies with criteria in article 29 paragraphs 2 to 5.
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Biomass,Forest biomass complies with criteria in article 29 paragraphs 6 to 7
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Availibility assessement,"of reuse and use of secondary raw materials,
+durability of products manufactured;
+waste management, information on and traceability of substances "
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Availibility assessement,"of reuse and use of secondary raw materials,
+durability of products manufactured;
+waste management, information on and traceability of substances "
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Availibility assessement,"of reuse and use of secondary raw materials,
+durability of products manufactured;
+waste management, information on and traceability of substances "
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Vehicles ,"Do not contain lead, mercury, hexavalent chromium and cadmium"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Availibility assessement,"of reuse of secondary raw materials,
+durability of products manufactured; information on and traceability of substances "
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Sustainability rules,of hazardous substances in batteries
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Availibility assessement,"of reuse of secondary raw materials,
+durability of products manufactured;
+waste management that prioritises recycling in the manufacturing process; information on and traceability of substances "
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Availibility assessement,"of reuse of secondary raw materials,
+durability of products manufactured;
+waste management that prioritises recycling in the manufacturing process; information on and traceability of substances "
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Best available techniques (BAT-AEL) range,Emissions < best available techniques (BAT-AEL) range
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Best available techniques (BAT),"(BAT) conclusion for production of cement, lime and magnesium oxide"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Hazardous substance measures,Handling of waste
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Best available techniques (BAT-AEL) range,Emissions < best available techniques (BAT-AEL) ranges
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Best available techniques (BAT) ,Conclusions for the non-ferrous metals industries
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emissions,Aluminium manufacturing
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Electricity consumption,< 15.5 MWh/t 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Best available techniques (BAT-AEL) range,Emissions < best available techniques (BAT-AEL) ranges
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Best available techniques (BAT) ,iron and steel production
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Production of waste gases,Emission target tCO2e/t product
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Steel production,Steel scrap input relative to product output in % 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Best available techniques (BAT-AEL),Emissions < best available techniques (BAT-AEL) ranges
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Best available techniques (BAT) ,Production of chlor-alka
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Best available techniques (BAT) ,Waste water and waste gas treatment
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Best available techniques (BAT) ,Refining of mineral oil and gas
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emissions savings,70 % relative to a fossil fuel comparator of 94g CO2e/MJ
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Best available techniques (BAT-AEL),Emissions < best available techniques (BAT-AEL) ranges
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Best Available Techniques Reference Document (BREF) ,For Large Volume Inorganic Chemicals – Solids and Others industry
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Best available techniques (BAT),For common waste water and waste gas treatment/management systems
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emissions,"Carbon black production processes <  1,615 tCO2e per tonne of product"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Best available techniques (BAT-AEL),Emissions < best available techniques (BAT-AEL) ranges
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Best Available Techniques Reference Document (BREF) ,For Large Volume Inorganic Chemicals – Solids and Others industry
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Best available techniques (BAT),For common waste water and waste gas treatment/management systems
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emissions,"GHG emissions soda ash production < 0,866(180) tCO2e per tonne of product"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Best available techniques (BAT-AEL),Emissions < best available techniques (BAT-AEL) ranges
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Best Available Techniques Reference Document (BREF) ,For Large Volume Inorganic Chemicals – Solids and Others industry
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Best available techniques (BAT),For common waste water and waste gas treatment/management systems
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Electricity Consumption ,Electrolysis and chlorine treatment 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Electricity used for chlorine production,Emissions level 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Best available techniques (BAT-AEL),Emissions < best available techniques (BAT-AEL) ranges
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Best available techniques (BAT),Production of large volumes organic chemicals
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Best available techniques (BAT),Waste water and waste gas treatment/management systems in the chemical sector(
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emissions,Emissions levels from organic chemicals production processes 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Manufactured chemical ,Emissions levels 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Criteria activity ,Agricultural biomass used for the manufacture of organic basic chemicals
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Best available techniques (BAT-AEL),Emissions < best available techniques (BAT-AEL) ranges
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Best available techniques (BAT),"Production of Large Volume Inorganic Chemicals - Ammonia, Acids and Fertilisers"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Best available techniques (BAT),Waste water and waste gas treatment/management systems in the chemical sector(
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Manufacturing ,Anhydrous ammonia has greenhouse gas emissions
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management ,Recovered ammonia 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Best available techniques (BAT-AEL),Emissions < best available techniques (BAT-AEL) ranges
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Best available techniques (BAT),"Production of Large Volume Inorganic Chemicals - Ammonia, Acids and Fertilisers"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Best available techniques (BAT),Waste water and waste gas treatment/management systems in the chemical sector(
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emissions/Manufacturing,Manufacture of nitric acid
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Best available techniques (BAT-AEL),Emissions < best available techniques (BAT-AEL) ranges
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Best Available Techniques Reference Document (BREF) ,For the Production of Polymers
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Best available techniques (BAT),Waste water and waste gas treatment/management systems in the chemical sector
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Manufacturing,Mechanical recycling of plastic waste
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Manufacturing,"Credits of greenhouse gas emissions of the manufactured plastic,  recommendation 2013/179/EU or, alternatively, using ISO 14067:2018(227) or ISO 14064-1:2018"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Manufacturing,"Greenhouse gas emissions of the manufactured plastic manufactured wholly or partially from renewable feedstock, recommendation 2013/179/EU or, alternatively, using ISO 14067:2018 or ISO 14064-1:2018"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,ISO Standard ,ISO 14067 Standard 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG Protocol ,GHG Protocol Product Lifecycle Standard-compliant Product Carbon Footprint (PCF) assessment
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Life Cycle Emissions ,Life Cycle Emissions < 100gCO2e/kWh
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Start date,Start date
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,ISO Standard ,ISO 14067 Standard 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG Protocol ,GHG Protocol Product Lifecycle Standard-compliant Product Carbon Footprint (PCF) assessment
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Life Cycle Emissions ,Life Cycle Emissions < 100gCO2e/kWh
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Start date,Start date
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,ISO Standard ,ISO 14067 Standard 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG Protocol ,GHG Protocol Product Lifecycle Standard-compliant Product Carbon Footprint (PCF) assessment
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Life Cycle Emissions ,Life Cycle Emissions < 100gCO2e/kWh
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Start date,Start date
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,ISO Standard ,ISO 14067 Standard 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG Protocol ,GHG Protocol Product Lifecycle Standard-compliant Product Carbon Footprint (PCF) assessment
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Life Cycle Emissions ,Life Cycle Emissions < 100gCO2e/kWh
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Start date,Start date
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,ISO Standard ,ISO 14067 Standard 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG Protocol ,GHG Protocol Product Lifecycle Standard-compliant Product Carbon Footprint (PCF) assessment
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Life Cycle Emissions ,Life Cycle Emissions < 100gCO2e/kWh
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Start date,Start date
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Third-Party validation,Third-Party validation dummy
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,ISO Standard ,ISO 14067 Standard 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG Protocol ,GHG Protocol Product Lifecycle Standard-compliant Product Carbon Footprint (PCF) assessment
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Life Cycle Emissions ,Life Cycle Emissions < 100gCO2e/kWh
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Start date,Start date
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Third-Party validation,Third-Party validation dummy
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,ISO Standard ,ISO 14067 Standard 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG Protocol ,GHG Protocol Product Lifecycle Standard-compliant Product Carbon Footprint (PCF) assessment
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Life Cycle Emissions ,Life Cycle Emissions < 100gCO2e/kWh
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Start date,Start date
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Captured CO2,CO2 captured for storage is transported and stored underground
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Third-Party validation,Third-Party validation dummy
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Green House Gas Savings ,Compliance with RED II
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Biomass critiera,Compliance with biomass criteria
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Start date,Start date
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Decarbonised equipment ,Decarbonised equipment (Fully) 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Power Plant CO2 emissions ,Powerplan C02 intensity 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Generation capacity %,Generation capacity %
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Start date,Start date
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,System Grid CO2 emissions %  ,System Grid Emissions %  
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Interconnected European system ,Interconnected European system 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Development/ integration of renewable energy systems,Low carbon electricity generation (network)  
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Development/ integration of renewable energy systems,EV (transport)  charging stations 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Development/ integration of renewable energy systems,Installation of T&D transformers 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Development/ integration of renewable energy systems,renewable electricity generation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Development/ integration of renewable energy systems,Sensors and measurement tools 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Development/ integration of renewable energy systems,Communication and control 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Development/ integration of renewable energy systems,Equipment to carry information to users for remotely acting on consumption
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Development/ integration of renewable energy systems,Equipment to allow for exchange of renewable electricity between users
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Development/ integration of renewable energy systems,Interconnectors between transmission systems 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Electricity storage,electricity storage
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Electricity storage,Thermal energy storage
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Construction of hydrogen storage,Construction of hydrogen storage dummy
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Conversation to hydrogen storage,Conversation to hydrogen storage dummy
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Operation of hydrogen storage,Operation of hydrogen storage dummy
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Criteria in EU Directive 2018/2001,Fullfills biomass criteria
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Exclusion of food and feed crops,No food and feed crop dummy
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emissions savings,GHG emissions are relative at least 65%
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Rely on anaerobic digestation of organic material,Meet criteria in Sections 5.6 and criteria 1-2 of Section 5.7
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,CO2 capture,CO2 capture flag
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,CO2 capture,Underground storage
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,new distribution network dedicated to hydrogen,dedicated to hydrogen 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,conversation to 100% hydrogen,conversion to hydrogen
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Retrofit of gas transmission related to hydrogen and other lower-carbon gas,retrofit to low carbon gasses
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Leakage measure construction,Leakage measure operation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Energy efficiency,Efficient district heating
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Start date,Start date
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity modification to lower temperature regimes,Activity modification to lower temperature regimes dummy
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Advanced pilot systems,Advanced pilot systems dummy
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Energy efficiency,refrigerant threshold
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Energy efficiency,Energy effiency requirements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,ISO 14067 or a GHG Protocol Product Lifecycle Standard-compliant Product Carbon Footprint (PCF) assessment,ISO 14067 Standard 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,ISO 14067 or a GHG Protocol Product Lifecycle Standard-compliant Product Carbon Footprint (PCF) assessment, GHG Protocol Product Lifecycle Standard-compliant Product Carbon Footprint (PCF) assessment
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emission production,CO2e/kWh
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emission calculation standard,Regulation 2013/179/EU
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emission calculation standard,ISO 14067 Standard
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emission calculation standard,ISO 14064 Standard
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Third-Party validation,Third-Party validation dummy
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emission production,CO2e/kWh
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emission calculation standard,Regulation 2013/179/EU
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emission calculation standard,ISO 14067 Standard
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emission calculation standard,ISO 14064 Standard
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Third-Party validation,Third-Party validation dummy
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Abatment activity,Abatment activity dummy
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,CO2 capture,CO2 capture flag
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,CO2 capture,Underground storage
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Leakage measure construction,Leak detection and repair program
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Leakage measure operation,Leakage measure operation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,activity blends renewable gaseous or liquid fuels with biogas or bioliquids,"biogas, bioliquids"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Criteria in EU Directive 2018/2001,Fullfills biomass criteria
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emissions savings,GHG emissions are relative at least 80%
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,rely on anaerobic digestation of organic material,Meet criteria in Sections 5.6 and criteria 1-2 of Section 5.7
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,total rated thermal input below 2 MW and using gaseous biomass fuels,total rated thermal input below 2 MW
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,total rated thermal input below 2 MW and using gaseous biomass fuels,using gaseous biomass fuels
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,ISO 14067 or a GHG Protocol Product Lifecycle Standard-compliant Product Carbon Footprint (PCF) assessment,ISO 14067 Standard 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,ISO 14067 or a GHG Protocol Product Lifecycle Standard-compliant Product Carbon Footprint (PCF) assessment, GHG Protocol Product Lifecycle Standard-compliant Product Carbon Footprint (PCF) assessment
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emission production,CO2e/kWh
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emission calculation standard,Regulation 2013/179/EU
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emission calculation standard,ISO 14067 Standard
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emission calculation standard,ISO 14064 Standard
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Third-Party validation,Third-Party validation dummy
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emission production,CO2e/kWh
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emission calculation standard,Regulation 2013/179/EU
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emission calculation standard,ISO 14067 Standard
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emission calculation standard,ISO 14064 Standard
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Third-Party validation,Third-Party validation dummy
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Abatment activity,Abatment activity dummy
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,CO2 capture,CO2 capture flag
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,CO2 capture,Underground storage
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Leakage measure construction,Leak detection and repair program
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Leakage measure operation,Leakage measure operation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,activity blends renewable gaseous or liquid fuels with biogas or bioliquids,"biogas, bioliquids"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Criteria in EU Directive 2018/2001,Fullfills biomass criteria
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emissions savings,GHG emissions are relative at least 80%
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,rely on anaerobic digestation of organic material,Meet criteria in Sections 5.6 and criteria 1-2 of Section 5.7
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,total rated thermal input below 2 MW and using gaseous biomass fuels,total rated thermal input below 2 MW
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,total rated thermal input below 2 MW and using gaseous biomass fuels,using gaseous biomass fuels
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste heat recovery system,Waste heat recovery system flag
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Equipment and component requirements,High durability and recyclability and that are easy to dismantle and refurbish
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Equipment and component requirements,High durability and recyclability and that are easy to dismantle and refurbish
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Wind power type,Offshore or onshore 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirements,Requirements in relation to Noise/energy and relevant criteria and methodological standards
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Equipment and component requirements,High durability and recyclability and that are easy to dismantle and refurbish
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Appendix D,
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirements,Requirements in relation to biodiversity and seabed integrity and relevant criteria and methodological standards
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirements,Requirements in relation to noise/energy and relevant criteria and methodological standards
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Equipment and component requirements,High durability and recyclability and that are easy to dismantle and refurbish
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Required product measures,Measures to minimise toxicity of anti-fouling paint and biocides
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Appendix D,
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirements,Requirements in relation to biodiversity and to the relevant criteria and methodological standards
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirements,Compliance with Directive
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Hydropower plant status,Existing or construction of hydropower plant
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirements,Implementation of specific technically feasible and ecologically relevant measures
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Validation,Effectiveness of the measures are monitored
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Impact assessment,Impact assessment of suggusted construction
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirements,Requirements in relation to the specific water body
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity mitigation requirements,"Specific measure requirements to reduse adverse impacts on water, protected habitats and species directly dependent on water"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Hydropower plant impact,Do not compromise the achievement of good water status in the same river basin district
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity mitigation requirements,Compensatory measures 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emissions,GHG emissions < 270gCO2e/kWh
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Geothermal energy system type,High-enthalpy system or not
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Abatement system,In place to reduce emission levels in accordance with Directives
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emissions,Emission levels 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Emission levels,Within or lower than the emission levels associated with the best available techniques (BAT)
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Effects,No significant cross-media effects occur
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Energy plant type,Combustion plant with thermal input greater than 1 MW but below the BAT thresholds
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Emission levels,Emission below limit values in Directive
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emissions,Emission levels 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Installation type,Installation falling within the scope of Directive
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Emission levels,Within or lower than the emission levels associated with the best available techniques (BAT)
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Effects,No significant cross-media effects occur
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Energy plant type,Combustion plant with thermal input greater than 1 MW but below the BAT thresholds
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Emission levels,Emission below limit values in Directive
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Energy plant location,Located in zones or parts of zones not complying with the air quality limit values in Directive
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirements,Measures are taken to reduce emissions levels in accordance with Directive
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Material,Anaerobic digestion of organic material meets requirements in Regulation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Material use,Produced digestate is used as fertiliser or soil improver
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Anaerobic digestion plant produce amount,Specific requirements for over 100 tonnes per day
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Emmision levels,Plant emissions are within or lower than the emission levels associated with the BAT
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Emissions levels ,Greenhouse gas emission savings and efficiency
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management plan,Plan is in place and ensures maximal reuse or recycling at the end of the life in accordance with the waste hierarchy
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Overgorund high voltage lines,Specific requirements for construction site activities and other activities
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirement,Activities do not use PCBs polyclorinated biphenyls
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Infrastructure/Emission levels ,Limits of Emission levels 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Hydropower storage type,Connected or not connected to river body
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirement,Compliance with Appendix B
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirement,Compliance with the DNSH criteria to sustainable use and protection of water and marine resources spesified in section 4.5 (Electricity production from hydropower)
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management plan,Plan is in place and ensures maximal reuse or recycling at the end of the life in accordance with the waste hierarchy
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Storage type,For aquifer Thermal Energy Storage
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management plan,Plan is in place and ensures maximal reuse or recycling at the end of the life in accordance with the waste hierarchy
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management plan,"Plan which ensures maximal reuse, remanufacturing or recycling at end of life"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Storage amount,Above or lower of five tonnes
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirement,Compliance with Directive
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Biogas production requirement,Application of gas-tight cover on the digestate storage
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Anaerobic digestion plant produce amount,Specific requirements for over 100 tonnes per day
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Emmision levels,Plant emissions are within or lower than the emission levels associated with the BAT
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Material,Anaerobic digestion of organic material meets requirements in Regulation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Material use,Produced digestate is used as fertiliser or soil improver
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Emissions levels ,Greenhouse gas emission savings and efficiency
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Component types,"Fans, compressors, pumps and other equipment covered by Directive"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Component requirement,"Compliance with top class requirements of the energy label, with implementing regulations under Directive and representt the best available technology"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Repurposing ,Gas transmission and distribution capacity
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Repurposing ,The lifespan of the networks beyond their pre-retrofit projected lifespan
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Component types,"Fans, compressors, pumps and other equipment covered by Directive"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Component requirement,"Compliance with top class requirements of the energy label, with implementing regulations under Directive and representt the best available technology"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Equipment and component requirement,"Assessment of equipment and comonents high durability, recyclability, and that are easy to dismantle and refurbish"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management plan,"Plan which ensures mawimal reuse, remanufacturing or recycling at end of life"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Heat pump type,Specific requirements for air-to air heat pumps with rated capacity of 12 kW or below
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Sound power levels,Indoor and outdoor sound power levels complies with Regulation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Equipment and component requirement,"Assessment of equipment and comonents high durability, recyclability, and that are easy to dismantle and refurbish"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Geothermal energy system type,High-enthalpy system or not
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Abatement system,In place to reduce emission levels in accordance with Directives
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Emission Levels ,Emission below limit values
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Emisssion levels,Within or lower than the emission levels associated with the BAT
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Effects,No significant cross-media effects occur
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Energy plant type,Combustion plant with thermal input greater than 1 MW but below the BAT thresholds
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Emission levels,Emission below limit values in Directive
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Emission Levels ,Emission below limit values
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Installation type,Installation falling within the scope of Directive
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Emission levels,Within or lower than the emission levels associated with the best available techniques (BAT)
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Effects,No significant cross-media effects occur
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Energy plant type,Combustion plant with thermal input greater than 1 MW but below the BAT thresholds
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Emission levels,Emission below limit values in Directive
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Energy plant location,Located in zones or parts of zones not complying with the air quality limit values in Directive
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Assesssment requirements,Result of the information exchange wich are published by the Commission are taken into account
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Material,Anaerobic digestion of organic material meets requirements in Regulation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Material use,Produced digestate is used as fertiliser or soil improver
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Anaerobic digestion plant produce amount,Specific requirements for over 100 tonnes per day
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Emmision levels,Plant emissions are within or lower than the emission levels associated with the BAT
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Emissions levels ,Greenhouse gas emission savings and efficiency
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Equipment and component requirement,"Assessment of equipment and comonents high durability, recyclability, and that are easy to dismantle and refurbish"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Geothermal energy system type,High-enthalpy system or not
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Abatement system,In place to reduce emission levels in accordance with Directives
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Emission Levels ,Emission below limit values
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Emisssion levels,Within or lower than the emission levels associated with the BAT
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Effects,No significant cross-media effects occur
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Energy plant type,Combustion plant with thermal input greater than 1 MW but below the BAT thresholds
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Emission levels,Emission below limit values in Directive
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Emission Levels ,Emission below limit values
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Installation type,Installation falling within the scope of Directive
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Emission levels,Within or lower than the emission levels associated with the best available techniques (BAT)
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Effects,No significant cross-media effects occur
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Energy plant type,Combustion plant with thermal input greater than 1 MW but below the BAT thresholds
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Emission levels,Emission below limit values in Directive
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Energy plant location,Located in zones or parts of zones not complying with the air quality limit values in Directive
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Assesssment requirements,Result of the information exchange wich are published by the Commission are taken into account
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Material,Anaerobic digestion of organic material meets requirements in Regulation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Material use,Produced digestate is used as fertiliser or soil improver
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Anaerobic digestion plant produce amount,Specific requirements for over 100 tonnes per day
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Emmision levels,Plant emissions are within or lower than the emission levels associated with the BAT
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Emissions levels ,Greenhouse gas emission savings and efficiency
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Equipment and component requirement,"Assessment of equipment and comonents high durability, recyclability, and that are easy to dismantle and refurbish"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Equipment requirements,Comply with the top class requirements of the energy label in Regulation and Directive and the best available technology
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Energy consumption,Average energy consumption
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Energy consumption,Measure taken to decrease energy consumption 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Leakage level,ILI index (Infrastructure Leakage Index) or another appropiate method
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Energy consumption,Average energy consumption
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Leakage level,ILI index (Infrastructure Leakage Index) or another appropiate method
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Energy consumption,"Average energy consumption per treatment plant capacity 
+"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Energy consumption,Measure taken to decrease energy consumption 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emission,GHG emissions assesment
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Energy consumption,"Average energy consumption per treatment plant capacity 
+"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Energy consumption,Measure taken to decrease energy consumption 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emission,GHG emissions assesment
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste Management ,Segregation of waste at source
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Leakage control,Measure taken to minimize methane leakage
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Energy source,Energy generation from biogas
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Leakage control,Measure taken to minimize methane leakage
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Energy source,Energy generation from biogas
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste Management ,Segregation of biowaste at source
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Material use,Produced digestate is used as fertiliser or soil improver
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Input feedstock,Food and feed crops 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste Management ,Bio-waste requirements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste Management ,Fertiliser/soil improver 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management ,Non-hazardous waste into secondary raw materials
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Year,Year
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Cell/Gas capture system ,Not taking in further biodegradable waste
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Landfill gas ,"Generation of electricity, heat as biogas "
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Control and monitoring,"Methane emissions, leakages"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Leakage control,CO2 leakages
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Permanent storage ,Underground geological storage of CO2 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Monitored  (Third party regulation) ,Leak detection system 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Improve existing network ,Installation of assets
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,CO2 storage,Characterisation and assessment for CO2 storage site
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,CO2 storage,CO2 leakage detection system
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,CO2 storage,Monitoring plan is in place
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,CO2 storage,Compliance with ISO 27914:2017
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Water treatment,Risk management for reusable water in  agricultural irrigation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Water discharges,Compliance to regulation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste water management,Measures taken to avoid and mitigate excessive storm water overflows from the waste water collection system
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Sewage usage,Compliance to regualtion
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Assessment of GHG emission,GHG emissions from the centralised waste water system
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Water treatment,Risk management for reusable water in  agricultural irrigation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Water discharges,Compliance to regualtion
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste water management,Measures taken to avoid and mitigate excessive storm water overflows from the waste water collection system
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Sewage usage,Compliance to regulation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Assessment of GHG emission,GHG emissions from the centralised waste water system
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,GHG emission,Assessment of direct GHG emission from water system
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management,Segregation of waste in storage
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Emission level,Emission level
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Fertiliser or soil improver,Nitrogen content (with tolerance level ±25 %) is communicated to the buyer or the entity in charge of taking off the digestate
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Chemical substance,monitoring and contingency plan to minimize methane
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Emission level,Emission level
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Produced digestate,"The produced digestate meets the requirements for fertilising materials set out in Component Material Categories (CMC) 4 and 5 for digestate or CMC 3 for compost, as applicable, in Annex II to Regulation (EU) 2019/1009, or national rules on fertilisers or soil improvers for agricultural use"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Chemical substance,Nitrogen level
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Chemical substance,monitoring and contingency plan to minimize methane
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Composting plants ,Emission level 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Composting plants ,Requirements for fertilising materials
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Care of landfills,Compliance to requirements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Care of landfills,Control and monitoring procedures set out in Annex III to that Directive
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Leakage,Monitoring plan for CO2 leakage
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Leakage,Monitoring plan for CO2 leakage
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirement,Compliance with regulation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Leakage,Monitoring plan for CO2 leakage
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Vehicle type,Zero direct emission
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,CO2 emission product,CO2 emission
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Vehicle type,Zero direct emission
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,CO2 emission product,CO2 emission
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Transport activity,Fossil fuel related transport
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,CO2 emission product,CO2 emission
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Year,Year
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Vehicle type,Road vehicles type
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Engine type,Zero direct emission
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Engine type,Zero direct emission and physical activity 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Vehicle type,Vehicles type
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,CO2 emission ,Specific CO2 emission
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Year,Year
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,CO2 emission product,CO2 emission per vechicle
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Vehicle type,Vehicles type
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Fuel type,Advanced biofuels or renewable liquid and gaseous transport fuels of non-biological origin
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Transport activity,Fossil fuel related transport
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Vehicle type,Zero direct emission
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Energy source,Zero direct emission fuel
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Year,Year
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,"Vehicle type
+", Zero direct emissions
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Fuel type,Advanced biofuels or renewable liquid and gaseous transport fuels of non-biological origin
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Vessel efficiency ,CO2 emissions EEOI
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Transport Activities,Fossil fuel related transport
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Year,Year
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Year,Year
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Fuel consumption,Retrofitting activity
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Transport Activities,Fossil fuel related transport
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Vehicle type ,Zero direct emissions
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Energy source,Zero direct emission (plug-in) power 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Direct emissions ,CO2 emissions
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,EEDI,EEDI
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Transport Activities,Fossil fuel related transport
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Year,Year
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Year,Year
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Vehicle type ,Zero direct (tailpipe) CO2 emissions
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Energy source,Zero direct (tailpipe) CO2 emissions or plug-in power 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A, EEDI,EEDI 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Fuel consumption,Retrofitting activity
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Transport Activities,Fossil fuel related transport
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Infrastructure ,Personal mobility 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Infrastructure ,Cycle logistics
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Infrastructure,Electrified trackside infrastructure
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Infrastructure,Planned electrification 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Transport Activities,Fossil fuel related transport
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Vehicle type ,Zero tailpipe CO2 emissions
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Transhipping freight,"Terminal infrastructure for loading, unloading and transhipment of goods"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Public passenger transport,Signalling systems 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Transport Activities,Fossil fuel related transport
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Vehicle type ,Zero direct CO2 emissions
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Electrical power,Of shore-side electrical power
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Transhipping freight,Transhipping freight
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Transport Activities,Fossil fuel related transport
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Vehicle type,Zero direct emission
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Energy provision,"Electric charging points, electricity grid connection upgrades, hydrogen refuelling stations"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,On ground infrastructure,Electrical power and PCA (preconditioned air)
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Transport Activities,Fossil fuel related transport
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management,Measures in place for waste management
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Engine type,Emission limits
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management,Measures in place for waste management
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Engine type,Emission limits
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Transport,Transport of fossil fuels
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management,Measures in place for waste management
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Vehicle parts,Compliance with requirements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management ,Measures in place for waste management
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Vehicle type,Reusability threshold
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management ,Measures in place for waste management
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Vehicle type,Compliance with regulation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Vehicle type,Emission limit
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Vehicles parts,Compliance with requirements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Emissions target,Fleet-wide emission target < M1 & N1 vechicle emission
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Year,Year
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,NEDC values,95 gCO2/km M1 vehicles / 147 gCO2/km N1 vehicles 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,WLTP values,EU fleet-wide targets of gCO2/km 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,"Vehicles of category N1, N2 and N3",Reusability threshold
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management ,Waste management dummy
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Vehicles parts,Compliance with requirements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Vehicles ,Compliance with regulation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Vechicle emission target ,Emissions ≤ reference CO2 emissions
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management,Waste management dummy
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Inventory of hazardous materials,Management & recycling
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Vehicle type,Reusability dummy
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Vehicle type,Emission limit
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management ,Waste management dummy
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management ,Reusability dummy
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Vehicle type,Compliance with regulations
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Transport ,Transport of fossil fuels
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management ,Waste management dummy
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Management of hazardous materials,Management & recycling
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Vehicle type,Emission limit
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Transport,Transport of fossil fuels
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management ,Waste management dummy
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management,Reusability dummy
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Inventory of hazardous materials,Activities comply with regulation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Protection of underwater life,Contamination prevention
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Chemical Substance ,Sulphur oxides emissions
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Chemical Substance ,Nitogren oxides emission
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Discharges of black and grey water ,Water discharge
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Protection of underwater life,Contamination prevention
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Protection of underwater life,Biofouling
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Protection of underwater life,Measures taken for Noise and vibrations reduction
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Environmental objective ,Environmental status
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Transport,Vessel transport of fossil fuels
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Wate management,Waste management dummy
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management ,Reusability dummy
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Management of hazardous materials,Activities comply with regulation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management,Dedicated facilities
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity compliance ,Activities comply with regulation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Operations compliance ,Waste generation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,,Legal discharge
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,,Sustainable waste management
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Sulphur emission ,Compliance with regulation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Chemical Substance ,Sulphur level
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Vehicle type,Compliance with regulation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Chemical Substance ,NOx emissions 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Discharges of black and grey water ,Water discharge
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Products,Toxicity prevention 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Protection of underwater life,Contamination prevention 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Protection of underwater life,Biofouling
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Protection of underwater life,Measures taken for Noise and vibrations reduction
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Environmental objective ,Environmental status
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management,Waste management dummy
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management,Reusability dummy
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Management of hazardous materials,Activities comply with regulation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management ,Dedicated facilities
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity compliance ,Activities comply with regulation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Operations compliance ,Waste generation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,,Legal discharge
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,,Sustainable waste management
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Chemical Substance ,Sulphur level
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Vehicle type,Compliance with regulation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Chemical Substance ,NOx emissions 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Discharges of black and grey water ,Water discharge
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Products,Toxicity prevention 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Protection of underwater life,Contamination prevention 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Protection of underwater life,Biofulling 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Protection of underwater life,Measures taken for Noise and vibrations reduction
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Environmental objective ,Environmental status
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management,Reusability threshold
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management,Reduced generation of waste
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management,Removal and safe handling of hazardous substances
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Construction maintenance works,"Measures taken for the reduction of noise, vibration, dust and pollutant emissions"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management,Reusability threshold
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management,Reduced generation of waste
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management,Removal and safe handling of hazardous substances
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Construction maintenance works,"Measures taken for the reduction of noise, vibration, dust and pollutant emissions"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Construction maintenance works,Infrastructure measure for noise reduction
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Transport activity,not dedicated to transport/ storage of fossil fuels
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Infrastructure,Climate proofed infrastructure
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management,Reusability threshold
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management,Reduced generation of waste
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management,Removal and safe handling of hazardous substances
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Construction maintenance works,"Measures taken for the reduction of noise, vibration, dust and pollutant emissions"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Construction maintenance works,Infrastructure measure for noise reduction
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management,Reusability threshold
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management,Reduced generation of waste
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management,Removal and safe handling of hazardous substances
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Construction maintenance works,"Measures taken for the reduction of noise, vibration, dust and pollutant emissions"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management,Reusability threshold
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management,Reduced generation of waste
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management,Removal and safe handling of hazardous substances
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Construction maintenance works,"Measures taken for the reduction of noise, vibration, dust and pollutant emissions"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Transport activity,not dedicated to transport/ storage of fossil fuels
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Infrastructure,Climate proofed infrastructure
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management,Reusability threshold
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Construction maintenance works,"Measures are taken to reduce noise, vibration, dust and pollutant emissions during construction maintenance works."
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Infrastructure,Noise reducing infrastructure 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,,Vegetation along road transport infrastructure ensures invasive species do not spread
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,,Mitigation measures have been implemented to avoid wildlife collisions
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Transport activity,not dedicated to transport/ storage of fossil fuels
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Infrastructure,Climate proofed infrastructure
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Transport activity,Compliance to regulation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,,Impact on water assessment 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,,Measures implemented to adverse impact on water
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,,Compensatory measures implemented
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management,Reusability threshold
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Construction maintenance works,"Measures are taken to reduce noise, vibration, dust and pollutant emissions during construction maintenance works."
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Infrastructure,Climate proofed infrastructure
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management,Reusability threshold
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Construction maintenance works,"Measures are taken to reduce noise, vibration, dust and pollutant emissions during construction maintenance works."
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Building type,Residential building or not
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Water appliances,Specified water use attest
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Water appliances,Technical specifications
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Appendix B,
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste rycycling,"At least 70 % of the waste genereted on the construction site is prepared for reuse, recycling and other material recovery"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste generation,Limit waste generation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste handling,Specific criteria
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Building deisgn and construction techniques,Specific criteria
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Appendix C,Building components and materials
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Pollution of building components and materials,"Emit less than 0,06 mg of formaldehyde per m³ of material or component"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Pollution of building components and materials,"Emit less than 0,001 mg of other categories 1A and 1B carcinogenic volatile organic compounds per m³ of material or component"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Construction location,Potentially contaminated site (brownfield site) or not
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Construction investigation,Investigation for potential contaminants
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirements,Specific requirements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Appendix D,
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Construction location,Specific land-location requirements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Building use,"Not dedicated to extraction, storage, transport or manufacture of fossil fuels"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Energy demand (PED),PED do not exceed the thershold in nearly zero-energy building
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,EPC,Energy performane certification
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Building type,Residential building or not
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Water appliances,Water appliance installation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Water appliances,Specified water use attest
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Water appliances,Technical specifications
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste rycycling,"At least 70 % of the waste genereted on the construction site is prepared for reuse, recycling and other material recovery"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste generation,Limit waste generation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste handling,Specific criteria
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Building deisgn and construction techniques,Specific criteria
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Appendix C,Building components and materials
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Pollution of building components and materials,"Emit less than 0,06 mg of formaldehyde per m³ of material or component"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Pollution of building components and materials,"Emit less than 0,001 mg of other categories 1A and 1B carcinogenic volatile organic compounds per m³ of material or component"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirements,Specific construction or maintenance works requirements
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Building use,"Not dedicated to extraction, storage, transport or manufacture of fossil fuels"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Appendix C,Building components and materials
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Thermal insulation,Specific requirements for adding thermal insulation to an existing building envelop
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Building use,"Not dedicated to extraction, storage, transport or manufacture of fossil fuels"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Building use,"Not dedicated to extraction, storage, transport or manufacture of fossil fuels"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Building use,"Not dedicated to extraction, storage, transport or manufacture of fossil fuels"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Building use,"Not dedicated to extraction, storage, transport or manufacture of fossil fuels"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Building use,"Not dedicated to extraction, storage, transport or manufacture of fossil fuels"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Building year,Built before/after 31. dec 2020
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,EPC,Energy performane certification
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Building ranking,Within the top 30% of the national or regional building stock expressed as operational Primary Energy Demand (PED)
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Energy demand (PED),PED do not exceed the thershold in nearly zero-energy building
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Expected practices,Practices for energy management
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Global warming potential (GWP) ,Global warming potential (GWP) of refrigerants 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Third party verification,verified by third party every three years
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,ICT solution,GHG emission reductions
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,ICT solution,GHG emission savings 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Third party verification,verified by third party every three years
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Equipment requirements,Equipment complies with Directive
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Equipment requirements,Equipment does not contain restricted substances
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management plan,Ensures maximal recycling 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Equipment requirements,Specific equipment requirements for its end of life
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Expected practices,Maximum value of 5 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Equipment requirements,Equipment complies with Directive
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Equipment requirements,Equipment does not contain restricted substances
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management plan,Ensures maximal recycling 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Equipment requirements,Specific equipment requirements for its end of life
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,"Activity researches, develops or provides information for technologies, products or other dedicated to activities with criteria in this Annex","Research, development or provide information for other criteria"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Results of research enable criteria for substantial contribution for climate change mitigation,Enabling climate change mitigation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity aims at brining solution to market not yet in the market with better life-cycle GHG emission,Improves life-cycle GHG emissions of best available
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,"Enabling or transitional activities, focusing on equally low- or lower-emission tech or other advantage",Continual Improvement
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,"When reserach is dedicated to economic activities, results enable reduction of GHG emissions or substantially improve technological or economic feasibility",Enabling reduction of GHG-emission
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity is dedicated to transitional activities,Transitional activity
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,"Dedicated to activities in manufacturing, enabling activity to lower emission or dedicated to accepted low carbon technologies","Manufacturing, lower emission or other low-carbon tech"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Start Date,Start Date
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,TRL 6 or 7,TRL level
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,"Patent not older than 10 years, including emission reduction potential",Patent
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Permit from authority for operating demonstration site,Permit
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,TRL 8 or higher,TRL level
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Life-cycle GHG emissions are calculated as recommended,Calculation criteria
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Life-cycle GHG emissions are calculated as recommended,ISO 14067 Standard
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Life-cycle GHG emissions are calculated as recommended,ISO14064 Standard
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Calculations are verified by third party,Third party verification
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity dedicated to the direct air capture of CO2 in the atmosphere,dedicated to the direct air capture of CO2 in the atmosphere
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Implementation of solution has potential to result in net GHG emission reduction,Potential net emission reduction
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,TRL Level 1 to 7,TRL level
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,"Patent not older than 10 years, including emission reduction potential",Patent
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Permit from authority for operating demonstration site,Permit
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Life-cycle GHG emissions are calculated as recommended,Calculation criteria
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Life-cycle GHG emissions are calculated as recommended,ISO 14067 Standard
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Life-cycle GHG emissions are calculated as recommended,ISO14064 Standard
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Calculations are verified by third party,Third party verification
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity for improvement of energy performance buildings,Techincal consultation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity for improvement of energy performance buildings,Audit or performance assessment
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity for improvement of energy performance buildings,Energy management service
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity for improvement of energy performance buildings,Energy performance contracts
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity for improvement of energy performance buildings,Energy services provided by ESCOs
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Status of bodies of water,potential risk to the status of bodies of water
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Risk to the circular economy,Assessment of potential risk to the circular economy
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Emission of pollutants ,"Increase of emission to air, water or land"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Resilience or conservation,Resilience of ecosystem or the conservation status of habitats and species
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Life-cycle GHG emissions,Life-cycle GHG emissions from the research product do not undermine GHG mitigation objectives
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Status of bodies of water,potential risk to the status of bodies of water
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Risk to the circular economy,Assessment of potential risk to the circular economy
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Emission of pollutants ,"Increase of emission to air, water or land"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Resilience or conservation,Resilience of ecosystem or the conservation status of habitats and species
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Modelling techniques,State-of-the-art modelling techniques
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Insurance type,Insurance type 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Disclosure of climate-related perils,Disclosure of climate-related perils
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Climate risk event,Climate risk event
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Insurance conditions,Condition for the insurance coverage of risk
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Coverage offer,Offer coverage for climate-related perils
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Specific risk transfer solution,Specific risk transfer solution
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Data sharing of activites,Data sharing of insurer's activities
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Standards for claims,High handling standards for claims
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Modelling techniques,State-of-the-art modelling techniques
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Disclosure of climate-related perils,Disclosure of climate-related perils
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Compliance Criteria,Complies with one or more of criterias
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Coverage offer,Offer coverage for climate-related perils
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Specific risk transfer solution,Specific risk transfer solution
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Data sharing of activites,Data sharing of insurer's activities
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Standards for claims,High handling standards for claims
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,No insurance of processes or assets dedicated to fossil fuels,No insurance of processes or assets dedicated to fossil fuels
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Insurance ,"Extraction, storage, transport or manufacture of fossil fuels or insurance of vehicles, property"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Reinsurance does not cover cession of processes or assets dedicated to fossil fuels,
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Insurance,Cession of insurance of vehicles
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Adaptation solution,Implemented physical and non-physical solutions
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Physical climate risks,Identified the most important physical climate risks 
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Climate risk and vulnerability assessment,Specific assessment criteria
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Climate risk and vulnerability assessment,"Proportionate assessment, in relation to activity and expected lifespan"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Climate projections and assessment of impacts,Based on best practice and available guidance
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Adaption solution,Do not affect others adaption efforts
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Adaption solution,Favour nature-based solutions
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Adaption solution,Rely on blue or green infrastructure
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Adaption solution,"Consistent with local, sectoral, regional or national adaption plans and strategies"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Adaption solution,Monitored and measured
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Physical adaption solution,Complies with technical screening criteria and DNSH crieria
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Enabling activity,"Increasing the level of resilience to physical climate risks of other people, of nature, of cultural heritage, of assets and of other economic activities"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Enabling activity,"Adaptation efforts of other people, of nature, of cultural heritage, of assets and of other economic activities"
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management plan,Ensures the safe and environmentally-sound handling of hazardous waste
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Waste management plan,Ensures maximal re-use or recycling of non-hazardous waste
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirement,Compliance with regulation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirement,Increasing resilience to physical climate risks
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirement,Contributing to adaption efforts
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirement,Compliance with regulation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirement,Increasing resilience to physical climate risks
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirement,Contributing to adaption efforts
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirement,Compliance with regulation
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirement,Increasing resilience to physical climate risks
+EU Taxonomy Exposure,N/A,N/A,N/A,N/A,Activity requirement,Contributing to adaption efforts
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Total gross carrying amount ,Total gross carrying amount
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Main Party type,"Financial corporation
+"
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Main Party type,Non-financial corporations
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Main Party type,Households
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Main Party type,Local government financing
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Financial corporation type,"Credit institutions
+"
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Financial corporation type,Other financial corporations
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Other financial corporation type,Investment firms
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Other financial corporation type,Management companies
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Other financial corporation type,Insurance undertakings
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Instrument type / Product,Loans and advances
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Instrument type / Product,Debt securites
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Instrument type / Product,Equity instruments
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Mortgage,Mortgage Flag
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Renovation loans,Renovation Loan Flag
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Vehicle loans,Vehicle Loan Flag
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Local Goverment financing,Collateral of real estate
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Local Goverment financing,"
+Other"
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Other Assets not covered for GAR,Sovereings
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Other Assets not covered for GAR,Central banks exposure
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Other Assets not covered for GAR,Trading book
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Other Assets not covered for GAR,NACE code
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Eligibility KPI,Eligibility KPI - Turnover
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Eligibility KPI,Eligibility KPI - CapEx
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Eligibility KPI,Eligibility KPI - OpEx
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Reported activity by counterparty,Reported activity by counterparty
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Climate Change Mitigation Flag,"Taxonomy Eligible Flag CCM
+"
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Climate Change Mitigation Flag,Taxonomy Aligned Flag CCM
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Climate Change Mitigation Flag,Transitional Activity Flag CCM
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Climate Change Mitigation Flag,Enabling Activity Flag CCM
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Climate Change Adaption Flag,"Taxonomy Eligible Flag CCA
+"
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Climate Change Adaption Flag,Taxonomy Aligned Flag CCA
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Climate Change Adaption Flag,Transitional Activity Flag CCA
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Climate Change Adaption Flag,Enabling Activity Flag CCA 
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Assets excluded from the numerator for GAR,NFC-not subject to NFRD
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Assets excluded from the numerator for GAR,Non-EU counterparty not subject to NFRD
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Climate Change Mitigation Flag,Special lending Flag CCM
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Climate Change Adaption Flag,Special lending Flag CCA
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Assets excluded from the numerator for GAR,Derivatives
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Assets excluded from the numerator for GAR,On demand interbank loans
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Assets excluded from the numerator for GAR,Cash
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Assets excluded from the numerator for GAR,Other assets
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Off balance,Financial guarantees backing loans and advances and other debt instruments (FinGuar KPI) 
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Off balance,Assets under management (AuM KPI): Debt securites
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Off balance,Assets under management (AuM KPI): Equity instruments
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Fees and commission (service other than lending) , Services towards financial corporation
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Fees and commission (service other than lending) ,"NFC 
+"
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Fees and commission (service other than lending) ,counterparties not subject to NFRD disclosure obligations
+EU Taxonomy Reporting,N/A,N/A,N/A,N/A,Assets held for trading,Assets held for trading - Flag
+Pillar 3,N/A,N/A,N/A,N/A,Sector Classification,NACE Code
+Pillar 3,N/A,N/A,N/A,N/A,Gross carrying amount,Gross carrying amount
+Pillar 3,N/A,N/A,N/A,N/A,Exposures towards companies excluded from EU Paris-aligned Benchmarks,Excluded from EU Paris Alignment Benchmark Flagged
+Pillar 3,N/A,N/A,N/A,N/A,Environmentally sustainable (CCM) exposure,CCM Flagged
+Pillar 3,N/A,N/A,N/A,N/A,Stage 2 exposures,PD Stage 2
+Pillar 3,N/A,N/A,N/A,N/A,non-performing exposures,Gross carrying amount
+Pillar 3,N/A,N/A,N/A,N/A,"Accumulated impairment, accumulated negative changes in fair value due to credit risk and provisions",Gross carrying amount
+Pillar 3,N/A,N/A,N/A,N/A,"GHG financed emission (scope 1, scope 2 and scope 3 emission of the counterparty)",TCO2
+Pillar 3,N/A,N/A,N/A,N/A,Scope 3 financed emission,Scope 3 financed emission flag
+Pillar 3,N/A,N/A,N/A,N/A,GHG emission gross carrying amount from company specific reporting,GHG emission gross carrying amount from company specific reporting flag
+Pillar 3,N/A,N/A,N/A,N/A,Maturity type,Year of Maturity
+Pillar 3,N/A,N/A,N/A,N/A,Loans collateralised: commercial immovable property information,Commerical Immovable property flag
+Pillar 3,N/A,N/A,N/A,N/A,Loans collateralised: Residential immovable property,Residential immovable property flag
+Pillar 3,N/A,N/A,N/A,N/A,Collateral obtained by taking posessions,Collateral obtain by taking posessions flag
+Pillar 3,N/A,N/A,N/A,N/A,"Location (Country) of CRE, RRE and repossessed CRE/RRE",EU flag
+Pillar 3,N/A,N/A,N/A,N/A,Level of energy efficiency (EP score) ,EP score in kWh/m2 of collateral
+Pillar 3,N/A,N/A,N/A,N/A,EPC label ,level of energy efficiency (label)
+Pillar 3,N/A,N/A,N/A,N/A,Estimated EP score,level of estimated energy score
+Pillar 3,N/A,N/A,N/A,N/A,Without EPC label Collateral ,EPC label flag
+Pillar 3,N/A,N/A,N/A,N/A,Average tonnes of CO2 per passenger-km ,TCO2/km
+Pillar 3,N/A,N/A,N/A,N/A,Average share gCO₂/MJ ,gCO2/MJ
+Pillar 3,N/A,N/A,N/A,N/A,Average share of high carbon technologies ICE per sector,average share ICE per sector
+Pillar 3,N/A,N/A,N/A,N/A,Average tonnes of CO2 per MWh,TCO2/MWh
+Pillar 3,N/A,N/A,N/A,N/A,"Average share of high carbon technologies (oil, gas, coal)","average share of high carbon technologies value (oil, gas, coal)"
+Pillar 3,N/A,N/A,N/A,N/A,Average tons of CO2 per GJ.,TCO2/GJ
+Pillar 3,N/A,N/A,N/A,N/A,Average tons of CO2 per tonne of output for manufacturers,TCO2 
+Pillar 3,N/A,N/A,N/A,N/A,Average share of sustainable aviation fuels,average share
+Pillar 3,N/A,N/A,N/A,N/A,Distance to IEA NZE2050,Distance in % for each metric
+Pillar 3,N/A,N/A,N/A,N/A,Target (+3years) for distance to IEA,Target value
+Pillar 3,N/A,N/A,N/A,N/A,Exposures to Top 20 carbon emitting companies,Aggregated Gross carrying amount
+Pillar 3,N/A,N/A,N/A,N/A,Top20 poluter firm,Top20 poluter firm flag
+Pillar 3,N/A,N/A,N/A,N/A,Geographical area subject to climate change acute events,Geographical area subject to climate change acute events flag
+Pillar 3,N/A,N/A,N/A,N/A,Geographical area subject to climate change chronic events,Geographical area subject to climate change chronic events flag
+Pillar 3,N/A,N/A,N/A,N/A,Geographical area subject to impact from climate change physical events,Chronic or Acute Flag
+Pillar 3,N/A,N/A,N/A,N/A,Exposures prone to impact from chronic climate change events,exposures prone to impact from chronic climate change events flag
+Pillar 3,N/A,N/A,N/A,N/A,Exposures prone to impact from acute climate change events,exposures prone to impact from acute climate change events flag
+Pillar 3,N/A,N/A,N/A,N/A,Exposures prone to impact from acute and Chronic climate change events,exposures prone to impact from acute and chronic climate change events flag
+Pillar 3,N/A,N/A,N/A,N/A,GAR stock,GAR stock value
+Pillar 3,N/A,N/A,N/A,N/A,GAR flow,GAR flow value
+Pillar 3,N/A,N/A,N/A,N/A,Climate Change Mitigation Objective,CCM Flag
+Pillar 3,N/A,N/A,N/A,N/A,Climate Change Adoptation Objective,CCA Flag
+Pillar 3,N/A,N/A,N/A,N/A,"Non-EU labeled Green bonds (e.g., sustainable, sustainability-linked,…)",Non-EU labeled Green bond flag
+Pillar 3,N/A,N/A,N/A,N/A,"Non-EU labeled Green loans (e.g., sustainable, sustainability-linked,…)",Non-EU labeled Green loan flag
+Pillar 3,N/A,N/A,N/A,N/A,Mitigated transition risk,Mitigated transition risk type
+Pillar 3,N/A,N/A,N/A,N/A,Mitigated physical risk,Mitigated physical risk type
+Pillar 3,N/A,N/A,N/A,N/A,Qualitative information on the nature of the mitigating actions,Text on the nature of the mitigation actions
