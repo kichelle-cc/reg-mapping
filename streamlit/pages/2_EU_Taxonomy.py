@@ -43,16 +43,6 @@ for a given business operating in a set of industries and sectors
 ''')
 
 # cascading select boxes
-# categories = st.multiselect('[TBC] type of reporting/assessment',
-#                             ['Assesment', 'Reporting', 'Exposure'],
-#                             )
-
-# geographies = st.multiselect('[TBC] Which geographies do you operate in?',
-#                             sorted(list(set(df_all.Geographies))),
-#                             )
-
-### ADD INDUSTRY QUESTION HERE
-
 industry = st.multiselect(
     'Which industry does your business operate in?',
     df_all.Industry.unique()
@@ -64,7 +54,6 @@ if industry:
         sorted(sectors))
 
     if options:
-        # filtered_df = df_all.loc[df_all.Sector.isin(options)]
         filtered_df = df.loc[df.Sector.isin(options)]
         activities = st.multiselect(
         'For those EU Taxonomy sectors, what activities do you partake in?',
@@ -95,11 +84,6 @@ if industry:
                 # format output table
                 output_df.columns.name = ''
                 output_df = output_df.rename(columns={'SCC/DNSH': 'Type'})
-                # output_df = output_df[['Objective', 'Type', 'Afforestation plan', 'Afforestation plan criteria', 'Afforestation plan contents', 'Forest management plan', 'Forest plan criteria', 'Forest plan contents', 'Activity requirements', 'GHG emissions', 'GHG removal', 'Net balance GHG', 'Long-term (100 years or lifecycle) net balance of GHG emisssions', 'Calculation of climate benefit criteria', 'Business-as-usual information', 'Forest holding size', 'Forest status of the area', 'Activity operator requirements', 'Start date', 'Third party validation', 'Verification subjects', 'Compliance assessment', 'Climate adaptation', 'Water', 'Pollution prevention', 'Biodiversity', 'Climate risk assessment criteria', 'Adaptation solution requirements']]
-
-                # display output table
-                # st.write(output_df)
-
 
 
                 filtered_df["Attributes"].replace({"CCA/CCM":"CCM/CCA"}, inplace=True)
@@ -151,15 +135,7 @@ if industry:
                     else:
                         color='black'
                     return f'color: {color}'
-                # st.write(criteria_df)
-                # st.write(criteria_df.count())
-                # print(criteria_df)
-                # st.divider()
-                # col1, col2 = st.columns(2)
-                # with col1:
-                #     st.dataframe(criteria_df.style.applymap(color_df))
-                # with col2:
-                #     st.dataframe(criteria_df.style.applymap(color_df))
+
 
                 st.download_button(
                 "Export Fully Mapped Attributes to Excel",

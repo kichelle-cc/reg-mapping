@@ -11,7 +11,7 @@ with open(path_to_html,'r') as f:
     html_data = f.read()
 
 ## Show in webpage
-st.title("Mapping Overview")
+st.title("Framework Summary")
 st.divider()
 st.caption("A simple, interactive view of our current regulatory framework mapping")
 st.components.v1.html(html_data, height=1400, scrolling=False)

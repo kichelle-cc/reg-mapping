@@ -3,12 +3,17 @@ import pandas as pd
 import os
 from PIL import Image
 from utils import sidebar
+import matplotlib.pyplot as plt
+import numpy as np
+import plotly.graph_objects as go
+from plotly.subplots import make_subplots
 
 st.set_page_config(
     page_title='SC Regs Model',
     layout='wide'
 )
 sidebar()
+
 # get path, useful for deployed app
 prefix=os.getcwd()+'/streamlit/data/'
 
@@ -16,8 +21,29 @@ prefix=os.getcwd()+'/streamlit/data/'
 df_all = pd.read_csv(prefix+'S&C REG-DATA Mapping V2.csv')
 
 # title
-st.title('Sustainability & Climate Regulation Navigator')
+st.title('Sustainability & Climate Regulation Data Navigator')
+# st.subheader('Analytics Dashboard')
 st.divider()
+labels = ["US", "China", "European Union", "Russian Federation", "Brazil", "India",
+          "UK"]
+
+
+
+
+## KPI SECTION
+# Create subplots: use 'domain' type for Pie subplot
+fig = make_subplots(rows=1, cols=2, specs=[[{'type':'domain'}, {'type':'domain'}]],
+                    subplot_titles=['Data Attribute Coverage', 'Regulation Coverage'])
+fig.add_trace(go.Pie(labels=labels, values=[16, 15, 12, 6, 5, 4, 42], pull=[0,0,0,0,0,0,0.2], name="Attribute Coverage",
+              scalegroup='one'),
+              1, 1)
+fig.add_trace(go.Pie(labels=labels, values=[27, 11, 25, 8, 1, 3, 25], pull=[0,0,0,0,0,0,0.2], name="Regulation Coverage"),
+              1, 2)
+# Use `hole` to create a donut-like pie chart
+fig.update_traces(hole=.4, hoverinfo="label+percent+name")
+fig.update_layout(
+    title_text="Analytics Dashboard & Summary Statistics (placeholder)",)
+st.plotly_chart(fig, use_container_width=True)
 col1, col2, col3 = st.columns(3)
 col1.metric("Number of Regulations Supported", "2", "2")
 col2.metric("Number of Geographies Supported", df_all['Geographies'].nunique(), "3")

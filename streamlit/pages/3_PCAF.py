@@ -7,7 +7,7 @@ from utils import sidebar
 sidebar()
 prefix = os.getcwd()+ '/streamlit/'
 # load data 
-df = pd.read_csv(prefix+'data/PCAF.csv')
+df = pd.read_csv(prefix+'data/PCAF_Data_Mapping.csv')
 
 st.title("PCAF")
 st.divider()
@@ -18,34 +18,27 @@ allowing for better comparisons and benchmarking. This page provides clear guida
  emissions profile and make informed decisions to reduce their impact on the environment. 
 ''')
 
-geography = st.multiselect(
-    'What geographies do you operate in?',
-    sorted(df.Country.unique())
-)
+asset_class = st.multiselect(
+    'Which asset classes are applicable to you?',
+    sorted(df["Asset class"].unique())
+    )
 
-if geography:
-    filtered_df = df.loc[df.Country.isin(geography)]
-    asset_class = st.multiselect(
-        'Which asset classes are applicable to you?',
-        sorted(filtered_df["Asset class"].unique())
-        )
-
-
+if asset_class:
     property_category = st.multiselect(
         'Which property category do your assets fall under?',
-        filtered_df[filtered_df["Asset class"].isin(asset_class)]["Data level 1 information"].unique()
+        df[df["Asset class"].isin(asset_class)]["Data level 1 information"].unique()
     )
 
     if property_category:
         property_sub_category = st.multiselect(
             'Which property sub-category do your assets fall under?',
-            filtered_df[filtered_df["Data level 1 information"].isin(property_category)]["Data level 2 information"].unique()
+            df[df["Data level 1 information"].isin(property_category)]["Data level 2 information"].unique()
         ) 
 
         if property_sub_category:
             st.write("Great, the data requirements for your assets are displayed in the table below:")
-            
-            st.dataframe(filtered_df.columns[6:12].values, use_container_width=True)
+            filtered_df = df[df["Data level 2 information"].isin(property_sub_category)] 
+            st.dataframe(filtered_df.reset_index()[["Attributes", "Values"]], use_container_width=True)
             st.download_button(
                 "Export Fully Mapped Attributes to Excel",
                 filtered_df.to_csv(),

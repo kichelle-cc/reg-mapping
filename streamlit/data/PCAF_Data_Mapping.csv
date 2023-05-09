@@ -1,0 +1,79 @@
+﻿Asset class,Data level 1 information,Data level 2 information,Attributes,Values
+Commercial real estate,Non-Residential buildings,Healthcare,Building Details,Floor Area
+Commercial real estate,Non-Residential buildings,Healthcare,Building Details,Country of building location
+Commercial real estate,Non-Residential buildings,Healthcare,Building Details,Number of Buildings
+Commercial real estate,Non-Residential buildings,Healthcare,Emission,Emission Intensity (per 𝑚²)
+Commercial real estate,Non-Residential buildings,Healthcare,Energy,Energy Intensity (per 𝑚²)
+Commercial real estate,Non-Residential buildings,Healthcare,EPC,EPC Rating Distribution
+Commercial real estate,Non-Residential buildings,Hotel,Building Details,Floor Area
+Commercial real estate,Non-Residential buildings,Hotel,Building Details,Country of building location
+Commercial real estate,Non-Residential buildings,Hotel,Building Details,Number of Buildings
+Commercial real estate,Non-Residential buildings,Hotel,Emission,Emission Intensity (per 𝑚²)
+Commercial real estate,Non-Residential buildings,Hotel,Energy,Energy Intensity (per 𝑚²)
+Commercial real estate,Non-Residential buildings,Hotel,EPC,EPC Rating Distribution
+Commercial real estate,Non-Residential buildings,Industrial distribution warehouse,Building Details,Floor Area
+Commercial real estate,Non-Residential buildings,Industrial distribution warehouse,Building Details,Country of building location
+Commercial real estate,Non-Residential buildings,Industrial distribution warehouse,Building Details,Number of Buildings
+Commercial real estate,Non-Residential buildings,Industrial distribution warehouse,Emission,Emission Intensity (per 𝑚²)
+Commercial real estate,Non-Residential buildings,Industrial distribution warehouse,Energy,Energy Intensity (per 𝑚²)
+Commercial real estate,Non-Residential buildings,Industrial distribution warehouse,EPC,EPC Rating Distribution
+Commercial real estate,Non-Residential buildings,Leisure and sports facilities,Building Details,Floor Area
+Commercial real estate,Non-Residential buildings,Leisure and sports facilities,Building Details,Country of building location
+Commercial real estate,Non-Residential buildings,Leisure and sports facilities,Building Details,Number of Buildings
+Commercial real estate,Non-Residential buildings,Leisure and sports facilities,Emission,Emission Intensity (per 𝑚²)
+Commercial real estate,Non-Residential buildings,Leisure and sports facilities,Energy,Energy Intensity (per 𝑚²)
+Commercial real estate,Non-Residential buildings,Leisure and sports facilities,EPC,EPC Rating Distribution
+Commercial real estate,Residential buildings,Multi-family house (MFH),Building Details,Floor Area
+Commercial real estate,Residential buildings,Multi-family house (MFH),Building Details,Country of building location
+Commercial real estate,Residential buildings,Multi-family house (MFH),Building Details,Number of Buildings
+Commercial real estate,Residential buildings,Multi-family house (MFH),Emission,Emission Intensity (per 𝑚²)
+Commercial real estate,Residential buildings,Multi-family house (MFH),Energy,Energy Intensity (per 𝑚²)
+Commercial real estate,Residential buildings,Multi-family house (MFH),EPC,EPC Rating Distribution
+Mortgages,Residential buildings,Multi-family house (MFH),Building Details,Floor Area
+Mortgages,Residential buildings,Multi-family house (MFH),Building Details,Country of building location
+Mortgages,Residential buildings,Multi-family house (MFH),Building Details,Number of Buildings
+Mortgages,Residential buildings,Multi-family house (MFH),Emission,Emission Intensity (per 𝑚²)
+Mortgages,Residential buildings,Multi-family house (MFH),Energy,Energy Intensity (per 𝑚²)
+Mortgages,Residential buildings,Multi-family house (MFH),EPC,EPC Rating Distribution
+Commercial real estate,Non-Residential buildings,Non-Residential Total,Building Details,Floor Area
+Commercial real estate,Non-Residential buildings,Non-Residential Total,Building Details,Country of building location
+Commercial real estate,Non-Residential buildings,Non-Residential Total,Building Details,Number of Buildings
+Commercial real estate,Non-Residential buildings,Non-Residential Total,Emission,Emission Intensity (per 𝑚²)
+Commercial real estate,Non-Residential buildings,Non-Residential Total,Energy,Energy Intensity (per 𝑚²)
+Commercial real estate,Non-Residential buildings,Non-Residential Total,EPC,EPC Rating Distribution
+Commercial real estate,Non-Residential buildings,Office,Building Details,Floor Area
+Commercial real estate,Non-Residential buildings,Office,Building Details,Country of building location
+Commercial real estate,Non-Residential buildings,Office,Building Details,Number of Buildings
+Commercial real estate,Non-Residential buildings,Office,Emission,Emission Intensity (per 𝑚²)
+Commercial real estate,Non-Residential buildings,Office,Energy,Energy Intensity (per 𝑚²)
+Commercial real estate,Non-Residential buildings,Office,EPC,EPC Rating Distribution
+Mortgages,Residential buildings,Residential Total,Building Details,Floor Area
+Mortgages,Residential buildings,Residential Total,Building Details,Country of building location
+Mortgages,Residential buildings,Residential Total,Building Details,Number of Buildings
+Mortgages,Residential buildings,Residential Total,Emission,Emission Intensity (per 𝑚²)
+Mortgages,Residential buildings,Residential Total,Energy,Energy Intensity (per 𝑚²)
+Mortgages,Residential buildings,Residential Total,EPC,EPC Rating Distribution
+Commercial real estate,Non-Residential buildings,Retail - High Street,Building Details,Floor Area
+Commercial real estate,Non-Residential buildings,Retail - High Street,Building Details,Country of building location
+Commercial real estate,Non-Residential buildings,Retail - High Street,Building Details,Number of Buildings
+Commercial real estate,Non-Residential buildings,Retail - High Street,Emission,Emission Intensity (per 𝑚²)
+Commercial real estate,Non-Residential buildings,Retail - High Street,Energy,Energy Intensity (per 𝑚²)
+Commercial real estate,Non-Residential buildings,Retail - High Street,EPC,EPC Rating Distribution
+Commercial real estate,Non-Residential buildings,Retail - Shopping Center,Building Details,Floor Area
+Commercial real estate,Non-Residential buildings,Retail - Shopping Center,Building Details,Country of building location
+Commercial real estate,Non-Residential buildings,Retail - Shopping Center,Building Details,Number of Buildings
+Commercial real estate,Non-Residential buildings,Retail - Shopping Center,Emission,Emission Intensity (per 𝑚²)
+Commercial real estate,Non-Residential buildings,Retail - Shopping Center,Energy,Energy Intensity (per 𝑚²)
+Commercial real estate,Non-Residential buildings,Retail - Shopping Center,EPC,EPC Rating Distribution
+Commercial real estate,Non-Residential buildings,Retail - Strip Mall,Building Details,Floor Area
+Commercial real estate,Non-Residential buildings,Retail - Strip Mall,Building Details,Country of building location
+Commercial real estate,Non-Residential buildings,Retail - Strip Mall,Building Details,Number of Buildings
+Commercial real estate,Non-Residential buildings,Retail - Strip Mall,Emission,Emission Intensity (per 𝑚²)
+Commercial real estate,Non-Residential buildings,Retail - Strip Mall,Energy,Energy Intensity (per 𝑚²)
+Commercial real estate,Non-Residential buildings,Retail - Strip Mall,EPC,EPC Rating Distribution
+Mortgages,Residential buildings,Single-family house (SFH),Building Details,Floor Area
+Mortgages,Residential buildings,Single-family house (SFH),Building Details,Country of building location
+Mortgages,Residential buildings,Single-family house (SFH),Building Details,Number of Buildings
+Mortgages,Residential buildings,Single-family house (SFH),Emission,Emission Intensity (per 𝑚²)
+Mortgages,Residential buildings,Single-family house (SFH),Energy,Energy Intensity (per 𝑚²)
+Mortgages,Residential buildings,Single-family house (SFH),EPC,EPC Rating Distribution
